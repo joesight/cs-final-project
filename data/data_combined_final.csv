@@ -1,0 +1,2709 @@
+﻿date,time,province,engine_size,accident_count,age_group,severity
+22/12/2017,3:59:59,Chiang-Mai, 111cc - 125cc,62.50%,14-Jan,Dead
+20/01/2017,1:58:44,Chiang-Mai, 126cc - 150cc,0.00%,14-Jan,Dead
+6/12/2017,13:25:23,Chiang-Mai, 400cc - 1000cc,12.50%,14-Jan,Dead
+12/11/2017,17:30:06,Chiang-Mai,less-than-110cc,12.50%,14-Jan,Dead
+23/07/2017,10:50:50,Bangkok, 111cc - 125cc,64.29%,14-Jan,Dead
+25/07/2017,0:35:12,Bangkok, 126cc - 150cc,0.00%,14-Jan,Dead
+24/08/2017,22:06:08,Bangkok, 400cc - 1000cc,0.00%,14-Jan,Dead
+14/12/2017,9:56:34,Bangkok,less-than-110cc,7.14%,14-Jan,Dead
+22/01/2017,10:25:34,Kanchanaburi, 111cc - 125cc,77.78%,14-Jan,Dead
+10/10/2017,16:13:35,Kanchanaburi, 126cc - 150cc,0.00%,14-Jan,Dead
+16/10/2017,0:43:55,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Dead
+8/12/2017,10:27:37,Kanchanaburi,less-than-110cc,22.22%,14-Jan,Dead
+7/2/2017,23:21:16,Chonburi, 111cc - 125cc,41.67%,14-Jan,Dead
+23/12/2017,8:39:16,Chonburi, 126cc - 150cc,8.33%,14-Jan,Dead
+24/11/2017,6:27:36,Chonburi, 156cc - 300cc,0.00%,14-Jan,Dead
+2/11/2017,11:12:12,Chonburi,less-than-110cc,16.67%,14-Jan,Dead
+9/8/2017,22:53:17,Chonburi,more-than-1000cc,0.00%,14-Jan,Dead
+25/12/2017,6:07:34,Nakhon-Ratchasima,more-than-1000cc,55.56%,14-Jan,Dead
+2/11/2017,23:03:38,Nakhon-Ratchasima, 126cc - 150cc,5.56%,14-Jan,Dead
+24/02/2017,18:46:32,Nakhon-Ratchasima,less-than-110cc,27.78%,14-Jan,Dead
+12/12/2017,17:31:37,Surat-Thani, 111cc - 125cc,84.62%,14-Jan,Dead
+6/10/2017,13:06:40,Surat-Thani, 126cc - 150cc,0.00%,14-Jan,Dead
+29/04/2017,7:50:43,Surat-Thani,less-than-110cc,7.69%,14-Jan,Dead
+16/03/2017,19:39:43,Chiang-Mai, 111cc - 125cc,54.52%,14-Jan,Injury
+6/9/2017,20:53:09,Chiang-Mai, 126cc - 150cc,2.80%,14-Jan,Injury
+12/3/2017,20:24:00,Chiang-Mai, 156cc - 300cc,0.00%,14-Jan,Injury
+21/08/2017,20:19:30,Chiang-Mai, 400cc - 1000cc,0.38%,14-Jan,Injury
+5/1/2017,7:26:31,Chiang-Mai,less-than-110cc,37.32%,14-Jan,Injury
+28/03/2017,21:19:29,Bangkok, 111cc - 125cc,61.14%,14-Jan,Injury
+23/07/2017,21:32:34,Bangkok, 126cc - 150cc,7.81%,14-Jan,Injury
+15/12/2017,19:46:31,Bangkok, 156cc - 300cc,0.39%,14-Jan,Injury
+6/11/2017,0:04:21,Bangkok, 400cc - 1000cc,0.13%,14-Jan,Injury
+19/02/2017,11:10:29,Bangkok,less-than-110cc,17.18%,14-Jan,Injury
+19/06/2017,5:21:46,Bangkok,more-than-1000cc,0.00%,14-Jan,Injury
+1/5/2017,11:37:50,Kanchanaburi, 111cc - 125cc,56.17%,14-Jan,Injury
+8/5/2017,7:20:38,Kanchanaburi, 126cc - 150cc,0.24%,14-Jan,Injury
+14/11/2017,15:07:34,Kanchanaburi, 156cc - 300cc,0.00%,14-Jan,Injury
+14/03/2017,21:37:09,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Injury
+18/09/2017,0:35:45,Kanchanaburi,less-than-110cc,41.16%,14-Jan,Injury
+13/02/2017,8:07:49,Chonburi, 111cc - 125cc,61.01%,14-Jan,Injury
+8/1/2017,2:48:03,Chonburi, 126cc - 150cc,1.81%,14-Jan,Injury
+11/10/2017,5:41:50,Chonburi, 156cc - 300cc,0.13%,14-Jan,Injury
+6/2/2017,17:01:13,Chonburi, 400cc - 1000cc,0.13%,14-Jan,Injury
+12/9/2017,14:33:00,Chonburi,less-than-110cc,23.32%,14-Jan,Injury
+29/05/2017,8:26:27,Chonburi,more-than-1000cc,0.00%,14-Jan,Injury
+12/6/2017,4:59:31,Nakhon-Ratchasima, 111cc - 125cc,54.44%,14-Jan,Injury
+16/05/2017,14:49:30,Nakhon-Ratchasima, 126cc - 150cc,1.17%,14-Jan,Injury
+26/07/2017,4:43:23,Nakhon-Ratchasima, 156cc - 300cc,0.16%,14-Jan,Injury
+24/08/2017,13:13:44,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,14-Jan,Injury
+26/11/2017,13:24:13,Nakhon-Ratchasima,less-than-110cc,38.08%,14-Jan,Injury
+16/09/2017,14:13:18,Surat-Thani, 111cc - 125cc,70.49%,14-Jan,Injury
+30/04/2017,6:25:41,Surat-Thani, 126cc - 150cc,0.82%,14-Jan,Injury
+9/2/2017,15:42:10,Surat-Thani, 156cc - 300cc,0.00%,14-Jan,Injury
+17/01/2017,22:04:51,Surat-Thani, 400cc - 1000cc,0.20%,14-Jan,Injury
+30/05/2017,15:13:05,Surat-Thani,less-than-110cc,20.49%,14-Jan,Injury
+13/09/2017,7:47:10,Surat-Thani,more-than-1000cc,0.00%,14-Jan,Injury
+14/12/2017,19:25:12,Chiang-Mai, 111cc - 125cc,73.08%,15-19,Dead
+12/10/2017,10:38:46,Chiang-Mai, 126cc - 150cc,0.00%,15-19,Dead
+12/8/2017,8:29:51,Chiang-Mai, 156cc - 300cc,3.85%,15-19,Dead
+16/04/2017,5:23:59,Chiang-Mai, 400cc - 1000cc,0.00%,15-19,Dead
+2/10/2017,14:09:38,Chiang-Mai,less-than-110cc,23.08%,15-19,Dead
+28/12/2017,2:16:34,Bangkok, 111cc - 125cc,73.85%,15-19,Dead
+1/10/2017,22:49:52,Bangkok, 126cc - 150cc,10.77%,15-19,Dead
+25/03/2017,10:19:27,Bangkok, 156cc - 300cc,0.00%,15-19,Dead
+13/12/2017,18:49:05,Bangkok, 400cc - 1000cc,0.00%,15-19,Dead
+11/4/2017,3:11:27,Bangkok,less-than-110cc,12.31%,15-19,Dead
+9/2/2017,5:33:02,Kanchanaburi, 111cc - 125cc,76.67%,15-19,Dead
+23/12/2017,20:05:37,Kanchanaburi, 126cc - 150cc,3.33%,15-19,Dead
+8/4/2017,5:22:52,Kanchanaburi,less-than-110cc,20.00%,15-19,Dead
+24/01/2017,16:04:55,Chonburi, 111cc - 125cc,64.52%,15-19,Dead
+24/01/2017,12:33:51,Chonburi, 126cc - 150cc,6.45%,15-19,Dead
+25/10/2017,18:00:07,Chonburi, 400cc - 1000cc,0.00%,15-19,Dead
+14/03/2017,15:31:55,Chonburi,less-than-110cc,9.68%,15-19,Dead
+19/11/2017,6:34:59,Nakhon-Ratchasima, 111cc - 125cc,67.27%,15-19,Dead
+2/11/2017,12:37:35,Nakhon-Ratchasima, 126cc - 150cc,7.27%,15-19,Dead
+10/9/2017,10:04:27,Nakhon-Ratchasima, 156cc - 300cc,0.00%,15-19,Dead
+6/10/2017,15:16:48,Nakhon-Ratchasima,less-than-110cc,20.00%,15-19,Dead
+4/12/2017,14:28:06,Surat-Thani, 111cc - 125cc,80.77%,15-19,Dead
+10/7/2017,0:29:51,Surat-Thani,less-than-110cc,11.54%,15-19,Dead
+25/08/2017,9:39:46,Chiang-Mai, 111cc - 125cc,59.13%,15-19,Injury
+13/02/2017,21:58:12,Chiang-Mai, 126cc - 150cc,6.62%,15-19,Injury
+8/1/2017,7:10:27,Chiang-Mai, 156cc - 300cc,0.32%,15-19,Injury
+19/05/2017,0:03:48,Chiang-Mai, 400cc - 1000cc,0.11%,15-19,Injury
+28/09/2017,8:02:20,Chiang-Mai,less-than-110cc,28.00%,15-19,Injury
+1/8/2017,5:03:35,Bangkok, 111cc - 125cc,65.88%,15-19,Injury
+22/06/2017,17:51:48,Bangkok, 126cc - 150cc,12.52%,15-19,Injury
+2/9/2017,4:43:40,Bangkok, 156cc - 300cc,0.51%,15-19,Injury
+3/1/2017,13:21:06,Bangkok, 400cc - 1000cc,0.21%,15-19,Injury
+19/01/2017,5:47:11,Bangkok,less-than-110cc,12.13%,15-19,Injury
+25/06/2017,0:25:18,Bangkok,more-than-1000cc,0.02%,15-19,Injury
+28/05/2017,1:23:02,Kanchanaburi, 111cc - 125cc,62.46%,15-19,Injury
+10/1/2017,7:53:01,Kanchanaburi, 126cc - 150cc,2.40%,15-19,Injury
+9/7/2017,13:53:54,Kanchanaburi, 400cc - 1000cc,0.16%,15-19,Injury
+14/06/2017,14:42:45,Kanchanaburi,less-than-110cc,33.55%,15-19,Injury
+3/9/2017,17:20:43,Chonburi, 111cc - 125cc,60.48%,15-19,Injury
+19/05/2017,8:14:25,Chonburi, 126cc - 150cc,4.89%,15-19,Injury
+26/04/2017,14:28:42,Chonburi, 156cc - 300cc,0.46%,15-19,Injury
+30/07/2017,14:39:08,Chonburi, 400cc - 1000cc,0.20%,15-19,Injury
+21/01/2017,13:19:43,Chonburi,less-than-110cc,18.44%,15-19,Injury
+14/02/2017,22:31:56,Chonburi,more-than-1000cc,0.00%,15-19,Injury
+2/9/2017,22:21:43,Nakhon-Ratchasima, 111cc - 125cc,61.44%,15-19,Injury
+4/8/2017,3:09:12,Nakhon-Ratchasima, 126cc - 150cc,3.31%,15-19,Injury
+4/6/2017,5:22:37,Nakhon-Ratchasima, 156cc - 300cc,0.19%,15-19,Injury
+14/09/2017,22:21:01,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,15-19,Injury
+21/04/2017,16:39:43,Nakhon-Ratchasima,less-than-110cc,30.06%,15-19,Injury
+26/04/2017,3:07:09,Surat-Thani, 111cc - 125cc,65.47%,15-19,Injury
+4/7/2017,20:59:36,Surat-Thani, 126cc - 150cc,3.42%,15-19,Injury
+5/6/2017,9:24:58,Surat-Thani, 156cc - 300cc,0.33%,15-19,Injury
+7/9/2017,3:09:39,Surat-Thani, 400cc - 1000cc,0.16%,15-19,Injury
+4/5/2017,1:46:20,Surat-Thani,less-than-110cc,21.99%,15-19,Injury
+4/11/2017,23:45:36,Surat-Thani,more-than-1000cc,0.00%,15-19,Injury
+6/7/2017,11:19:58,Chiang-Mai, 111cc - 125cc,57.58%,19-24,Dead
+7/3/2017,4:05:07,Chiang-Mai, 126cc - 150cc,9.09%,19-24,Dead
+1/7/2017,10:46:55,Chiang-Mai, 156cc - 300cc,0.00%,19-24,Dead
+5/11/2017,22:31:03,Chiang-Mai, 400cc - 1000cc,0.00%,19-24,Dead
+2/2/2017,15:01:17,Chiang-Mai,less-than-110cc,28.79%,19-24,Dead
+12/9/2017,17:38:31,Bangkok, 111cc - 125cc,49.59%,19-24,Dead
+24/04/2017,19:05:19,Bangkok, 126cc - 150cc,24.79%,19-24,Dead
+21/08/2017,6:16:54,Bangkok, 156cc - 300cc,1.65%,19-24,Dead
+23/07/2017,18:04:11,Bangkok, 400cc - 1000cc,1.65%,19-24,Dead
+20/05/2017,15:26:13,Bangkok,less-than-110cc,16.53%,19-24,Dead
+9/3/2017,0:02:22,Bangkok,more-than-1000cc,0.00%,19-24,Dead
+2/5/2017,14:43:39,Kanchanaburi, 111cc - 125cc,68.42%,19-24,Dead
+28/05/2017,7:25:45,Kanchanaburi, 126cc - 150cc,5.26%,19-24,Dead
+12/5/2017,2:58:17,Kanchanaburi, 156cc - 300cc,0.00%,19-24,Dead
+12/1/2017,21:03:20,Kanchanaburi, 400cc - 1000cc,0.00%,19-24,Dead
+18/02/2017,10:09:44,Kanchanaburi,less-than-110cc,26.32%,19-24,Dead
+16/01/2017,17:17:31,Chonburi, 111cc - 125cc,52.38%,19-24,Dead
+27/03/2017,12:45:32,Chonburi, 126cc - 150cc,7.14%,19-24,Dead
+17/03/2017,0:43:56,Chonburi, 156cc - 300cc,2.38%,19-24,Dead
+16/08/2017,7:59:34,Chonburi, 400cc - 1000cc,8.33%,19-24,Dead
+9/5/2017,6:04:29,Chonburi,less-than-110cc,19.05%,19-24,Dead
+22/03/2017,13:13:01,Chonburi,more-than-1000cc,0.00%,19-24,Dead
+30/04/2017,2:04:17,Nakhon-Ratchasima, 111cc - 125cc,58.90%,19-24,Dead
+2/5/2017,20:17:16,Nakhon-Ratchasima, 126cc - 150cc,9.59%,19-24,Dead
+12/2/2017,17:14:12,Nakhon-Ratchasima, 156cc - 300cc,0.00%,19-24,Dead
+22/04/2017,14:27:59,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,19-24,Dead
+15/05/2017,1:04:45,Nakhon-Ratchasima,less-than-110cc,26.03%,19-24,Dead
+2/12/2017,1:42:37,Nakhon-Ratchasima,more-than-1000cc,0.00%,19-24,Dead
+21/06/2017,15:53:26,Surat-Thani, 111cc - 125cc,63.33%,19-24,Dead
+15/06/2017,17:08:00,Surat-Thani, 126cc - 150cc,6.67%,19-24,Dead
+27/08/2017,11:18:36,Surat-Thani, 156cc - 300cc,0.00%,19-24,Dead
+10/6/2017,7:11:08,Surat-Thani, 400cc - 1000cc,3.33%,19-24,Dead
+18/03/2017,16:31:23,Surat-Thani,less-than-110cc,10.00%,19-24,Dead
+21/12/2017,6:18:51,Chiang-Mai, 111cc - 125cc,54.28%,19-24,Injury
+16/10/2017,23:00:22,Chiang-Mai, 126cc - 150cc,7.74%,19-24,Injury
+15/04/2017,4:19:55,Chiang-Mai, 156cc - 300cc,0.37%,19-24,Injury
+29/09/2017,2:56:40,Chiang-Mai, 400cc - 1000cc,0.49%,19-24,Injury
+10/10/2017,4:16:05,Chiang-Mai,less-than-110cc,30.63%,19-24,Injury
+12/10/2017,11:32:42,Chiang-Mai,more-than-1000cc,0.00%,19-24,Injury
+11/10/2017,20:47:37,Bangkok, 111cc - 125cc,58.45%,19-24,Injury
+1/8/2017,19:51:22,Bangkok, 126cc - 150cc,17.49%,19-24,Injury
+4/5/2017,17:38:54,Bangkok, 156cc - 300cc,1.40%,19-24,Injury
+2/3/2017,23:36:32,Bangkok, 400cc - 1000cc,1.29%,19-24,Injury
+1/12/2017,11:30:35,Bangkok,less-than-110cc,11.68%,19-24,Injury
+19/04/2017,19:15:56,Bangkok,more-than-1000cc,0.04%,19-24,Injury
+29/07/2017,10:26:49,Kanchanaburi, 111cc - 125cc,63.01%,19-24,Injury
+1/11/2017,7:40:32,Kanchanaburi, 126cc - 150cc,5.80%,19-24,Injury
+9/12/2017,14:32:08,Kanchanaburi, 156cc - 300cc,0.16%,19-24,Injury
+20/08/2017,4:15:40,Kanchanaburi, 400cc - 1000cc,1.41%,19-24,Injury
+16/10/2017,22:37:14,Kanchanaburi,less-than-110cc,27.27%,19-24,Injury
+31/12/2017,5:40:17,Chonburi, 111cc - 125cc,56.68%,19-24,Injury
+21/02/2017,17:00:59,Chonburi, 126cc - 150cc,9.72%,19-24,Injury
+22/08/2017,13:33:55,Chonburi, 156cc - 300cc,1.02%,19-24,Injury
+26/02/2017,17:18:19,Chonburi, 400cc - 1000cc,1.02%,19-24,Injury
+27/11/2017,18:57:22,Chonburi,less-than-110cc,14.95%,19-24,Injury
+27/11/2017,19:50:32,Chonburi,more-than-1000cc,0.00%,19-24,Injury
+24/04/2017,17:50:08,Nakhon-Ratchasima, 111cc - 125cc,58.93%,19-24,Injury
+27/10/2017,7:25:37,Nakhon-Ratchasima, 126cc - 150cc,6.53%,19-24,Injury
+4/10/2017,13:51:09,Nakhon-Ratchasima, 156cc - 300cc,0.27%,19-24,Injury
+17/11/2017,9:45:00,Nakhon-Ratchasima, 400cc - 1000cc,0.61%,19-24,Injury
+22/08/2017,5:24:40,Nakhon-Ratchasima,less-than-110cc,27.18%,19-24,Injury
+14/11/2017,0:39:06,Surat-Thani, 111cc - 125cc,67.86%,19-24,Injury
+5/1/2017,20:37:57,Surat-Thani, 126cc - 150cc,3.74%,19-24,Injury
+7/7/2017,23:37:01,Surat-Thani, 156cc - 300cc,0.78%,19-24,Injury
+28/06/2017,0:11:27,Surat-Thani, 400cc - 1000cc,0.47%,19-24,Injury
+9/5/2017,8:07:46,Surat-Thani,less-than-110cc,16.85%,19-24,Injury
+5/10/2017,11:12:19,Surat-Thani,more-than-1000cc,0.16%,19-24,Injury
+6/8/2017,20:27:06,Chiang-Mai, 111cc - 125cc,52.94%,25-35,Dead
+10/10/2017,20:17:43,Chiang-Mai, 126cc - 150cc,4.41%,25-35,Dead
+9/3/2017,23:57:39,Chiang-Mai, 156cc - 300cc,1.47%,25-35,Dead
+12/3/2017,4:38:27,Chiang-Mai, 400cc - 1000cc,2.94%,25-35,Dead
+5/3/2017,10:15:20,Chiang-Mai,less-than-110cc,32.35%,25-35,Dead
+6/5/2017,10:22:09,Chiang-Mai,more-than-1000cc,0.00%,25-35,Dead
+20/07/2017,22:07:31,Bangkok, 111cc - 125cc,56.64%,25-35,Dead
+1/1/2017,14:04:32,Bangkok, 126cc - 150cc,18.88%,25-35,Dead
+23/09/2017,12:16:42,Bangkok, 156cc - 300cc,0.70%,25-35,Dead
+10/11/2017,11:57:05,Bangkok, 400cc - 1000cc,2.80%,25-35,Dead
+1/10/2017,23:45:01,Bangkok,less-than-110cc,11.19%,25-35,Dead
+3/1/2017,7:28:35,Bangkok,more-than-1000cc,0.00%,25-35,Dead
+31/12/2017,19:55:36,Kanchanaburi, 111cc - 125cc,64.00%,25-35,Dead
+29/07/2017,16:11:24,Kanchanaburi, 126cc - 150cc,12.00%,25-35,Dead
+9/5/2017,10:33:57,Kanchanaburi, 156cc - 300cc,0.00%,25-35,Dead
+10/7/2017,9:39:31,Kanchanaburi, 400cc - 1000cc,4.00%,25-35,Dead
+17/04/2017,2:52:15,Kanchanaburi,less-than-110cc,20.00%,25-35,Dead
+17/08/2017,23:20:54,Kanchanaburi,more-than-1000cc,0.00%,25-35,Dead
+7/6/2017,21:52:33,Chonburi, 111cc - 125cc,58.72%,25-35,Dead
+12/11/2017,0:47:55,Chonburi, 126cc - 150cc,8.26%,25-35,Dead
+10/3/2017,3:35:59,Chonburi, 156cc - 300cc,0.00%,25-35,Dead
+20/03/2017,23:21:49,Chonburi, 400cc - 1000cc,7.34%,25-35,Dead
+30/10/2017,3:47:01,Chonburi,less-than-110cc,15.60%,25-35,Dead
+7/12/2017,22:55:20,Chonburi,more-than-1000cc,0.00%,25-35,Dead
+13/07/2017,0:40:43,Nakhon-Ratchasima, 111cc - 125cc,55.38%,25-35,Dead
+15/09/2017,12:01:39,Nakhon-Ratchasima, 126cc - 150cc,9.23%,25-35,Dead
+10/8/2017,5:10:37,Nakhon-Ratchasima, 156cc - 300cc,1.54%,25-35,Dead
+11/5/2017,3:43:11,Nakhon-Ratchasima, 400cc - 1000cc,1.54%,25-35,Dead
+16/07/2017,13:39:17,Nakhon-Ratchasima,less-than-110cc,26.15%,25-35,Dead
+2/6/2017,2:16:41,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Dead
+12/8/2017,20:05:28,Surat-Thani, 111cc - 125cc,44.44%,25-35,Dead
+29/07/2017,13:03:51,Surat-Thani, 126cc - 150cc,16.67%,25-35,Dead
+16/09/2017,12:47:31,Surat-Thani, 156cc - 300cc,0.00%,25-35,Dead
+27/08/2017,8:19:51,Surat-Thani, 400cc - 1000cc,5.56%,25-35,Dead
+12/12/2017,9:52:07,Surat-Thani,less-than-110cc,27.78%,25-35,Dead
+26/05/2017,6:46:13,Surat-Thani,more-than-1000cc,5.56%,25-35,Dead
+29/05/2017,22:06:15,Chiang-Mai, 111cc - 125cc,53.54%,25-35,Injury
+19/12/2017,5:09:44,Chiang-Mai, 126cc - 150cc,5.85%,25-35,Injury
+28/01/2017,7:56:17,Chiang-Mai, 156cc - 300cc,0.48%,25-35,Injury
+12/12/2017,7:38:05,Chiang-Mai, 400cc - 1000cc,0.95%,25-35,Injury
+25/04/2017,14:54:24,Chiang-Mai,less-than-110cc,32.28%,25-35,Injury
+2/1/2017,1:57:58,Chiang-Mai,more-than-1000cc,0.08%,25-35,Injury
+3/12/2017,14:18:26,Bangkok, 111cc - 125cc,57.46%,25-35,Injury
+24/04/2017,10:21:02,Bangkok, 126cc - 150cc,13.25%,25-35,Injury
+4/5/2017,1:09:37,Bangkok, 156cc - 300cc,1.18%,25-35,Injury
+9/6/2017,19:02:13,Bangkok, 400cc - 1000cc,1.94%,25-35,Injury
+22/12/2017,17:20:14,Bangkok,less-than-110cc,13.32%,25-35,Injury
+30/11/2017,13:11:44,Bangkok,more-than-1000cc,0.11%,25-35,Injury
+26/11/2017,7:07:08,Kanchanaburi, 111cc - 125cc,60.86%,25-35,Injury
+15/08/2017,14:01:13,Kanchanaburi, 126cc - 150cc,5.64%,25-35,Injury
+27/04/2017,3:32:12,Kanchanaburi, 156cc - 300cc,0.66%,25-35,Injury
+16/06/2017,13:12:37,Kanchanaburi, 400cc - 1000cc,2.16%,25-35,Injury
+28/12/2017,18:49:47,Kanchanaburi,less-than-110cc,27.86%,25-35,Injury
+13/04/2017,21:40:15,Kanchanaburi,more-than-1000cc,0.33%,25-35,Injury
+2/4/2017,5:42:33,Chonburi, 111cc - 125cc,56.28%,25-35,Injury
+7/12/2017,12:29:44,Chonburi, 126cc - 150cc,7.44%,25-35,Injury
+26/03/2017,8:38:27,Chonburi, 156cc - 300cc,0.84%,25-35,Injury
+17/04/2017,20:08:58,Chonburi, 400cc - 1000cc,1.84%,25-35,Injury
+15/05/2017,17:26:39,Chonburi,less-than-110cc,16.99%,25-35,Injury
+27/07/2017,18:13:58,Chonburi,more-than-1000cc,0.03%,25-35,Injury
+29/06/2017,22:06:36,Nakhon-Ratchasima, 111cc - 125cc,53.55%,25-35,Injury
+7/12/2017,19:11:19,Nakhon-Ratchasima, 126cc - 150cc,5.29%,25-35,Injury
+8/5/2017,0:11:36,Nakhon-Ratchasima, 156cc - 300cc,0.47%,25-35,Injury
+13/05/2017,7:16:12,Nakhon-Ratchasima, 400cc - 1000cc,1.12%,25-35,Injury
+11/3/2017,12:36:12,Nakhon-Ratchasima,less-than-110cc,32.33%,25-35,Injury
+4/2/2017,3:28:36,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Injury
+28/05/2017,21:53:23,Surat-Thani, 111cc - 125cc,60.19%,25-35,Injury
+31/07/2017,16:38:15,Surat-Thani, 126cc - 150cc,5.79%,25-35,Injury
+14/07/2017,9:07:22,Surat-Thani, 156cc - 300cc,0.14%,25-35,Injury
+5/9/2017,0:36:14,Surat-Thani, 400cc - 1000cc,1.93%,25-35,Injury
+2/4/2017,10:28:27,Surat-Thani,less-than-110cc,18.60%,25-35,Injury
+18/04/2017,2:39:01,Surat-Thani,more-than-1000cc,0.14%,25-35,Injury
+26/04/2017,19:07:37,Chiang-Mai, 111cc - 125cc,45.26%,36-60,Dead
+14/10/2017,2:24:39,Chiang-Mai, 126cc - 150cc,1.05%,36-60,Dead
+14/06/2017,10:22:37,Chiang-Mai, 156cc - 300cc,2.11%,36-60,Dead
+25/01/2017,16:49:35,Chiang-Mai, 400cc - 1000cc,0.00%,36-60,Dead
+5/11/2017,12:38:38,Chiang-Mai,less-than-110cc,45.26%,36-60,Dead
+20/09/2017,3:19:32,Chiang-Mai,more-than-1000cc,0.00%,36-60,Dead
+7/8/2017,16:37:42,Bangkok, 111cc - 125cc,46.56%,36-60,Dead
+1/1/2017,9:07:05,Bangkok, 126cc - 150cc,12.70%,36-60,Dead
+9/7/2017,15:33:43,Bangkok, 156cc - 300cc,0.00%,36-60,Dead
+3/12/2017,17:17:44,Bangkok, 400cc - 1000cc,1.59%,36-60,Dead
+30/12/2017,16:28:04,Bangkok,less-than-110cc,17.99%,36-60,Dead
+30/01/2017,19:16:33,Bangkok,more-than-1000cc,0.00%,36-60,Dead
+12/12/2017,9:45:41,Kanchanaburi, 111cc - 125cc,48.94%,36-60,Dead
+28/03/2017,0:23:05,Kanchanaburi, 126cc - 150cc,0.00%,36-60,Dead
+7/7/2017,20:10:01,Kanchanaburi, 156cc - 300cc,0.00%,36-60,Dead
+14/10/2017,22:40:17,Kanchanaburi, 400cc - 1000cc,2.13%,36-60,Dead
+3/5/2017,6:01:39,Kanchanaburi,less-than-110cc,46.81%,36-60,Dead
+5/7/2017,19:48:42,Chonburi, 111cc - 125cc,54.21%,36-60,Dead
+6/4/2017,20:02:38,Chonburi, 126cc - 150cc,4.67%,36-60,Dead
+25/04/2017,19:13:33,Chonburi, 156cc - 300cc,1.87%,36-60,Dead
+30/12/2017,0:10:15,Chonburi, 400cc - 1000cc,0.00%,36-60,Dead
+3/5/2017,7:56:20,Chonburi,less-than-110cc,21.50%,36-60,Dead
+15/12/2017,22:16:18,Chonburi,more-than-1000cc,0.00%,36-60,Dead
+29/09/2017,22:01:24,Nakhon-Ratchasima, 111cc - 125cc,57.84%,36-60,Dead
+24/10/2017,0:10:05,Nakhon-Ratchasima, 126cc - 150cc,3.92%,36-60,Dead
+10/12/2017,17:27:34,Nakhon-Ratchasima, 156cc - 300cc,0.00%,36-60,Dead
+25/11/2017,11:31:22,Nakhon-Ratchasima, 400cc - 1000cc,2.94%,36-60,Dead
+24/04/2017,6:49:02,Nakhon-Ratchasima,less-than-110cc,28.43%,36-60,Dead
+25/11/2017,21:49:17,Nakhon-Ratchasima,more-than-1000cc,0.00%,36-60,Dead
+25/09/2017,9:57:08,Surat-Thani, 111cc - 125cc,52.78%,36-60,Dead
+3/3/2017,3:23:36,Surat-Thani, 126cc - 150cc,5.56%,36-60,Dead
+26/06/2017,5:46:09,Surat-Thani, 156cc - 300cc,2.78%,36-60,Dead
+19/05/2017,2:59:31,Surat-Thani, 400cc - 1000cc,2.78%,36-60,Dead
+24/02/2017,14:16:36,Surat-Thani,less-than-110cc,30.56%,36-60,Dead
+30/01/2017,19:26:23,Chiang-Mai, 111cc - 125cc,51.13%,36-60,Injury
+26/01/2017,17:11:40,Chiang-Mai, 126cc - 150cc,3.18%,36-60,Injury
+21/03/2017,21:14:59,Chiang-Mai, 156cc - 300cc,0.25%,36-60,Injury
+23/06/2017,11:44:17,Chiang-Mai, 400cc - 1000cc,0.60%,36-60,Injury
+22/06/2017,1:01:45,Chiang-Mai,less-than-110cc,38.19%,36-60,Injury
+16/07/2017,16:40:02,Chiang-Mai,more-than-1000cc,0.11%,36-60,Injury
+19/12/2017,11:15:16,Bangkok, 111cc - 125cc,57.02%,36-60,Injury
+20/07/2017,3:21:17,Bangkok, 126cc - 150cc,6.66%,36-60,Injury
+29/04/2017,6:14:43,Bangkok, 156cc - 300cc,0.43%,36-60,Injury
+18/02/2017,0:24:37,Bangkok, 400cc - 1000cc,0.50%,36-60,Injury
+20/07/2017,1:26:31,Bangkok,less-than-110cc,18.37%,36-60,Injury
+8/5/2017,8:19:50,Bangkok,more-than-1000cc,0.04%,36-60,Injury
+7/11/2017,10:49:44,Kanchanaburi, 111cc - 125cc,47.45%,36-60,Injury
+6/10/2017,0:29:05,Kanchanaburi, 126cc - 150cc,2.04%,36-60,Injury
+30/04/2017,19:05:13,Kanchanaburi, 156cc - 300cc,0.00%,36-60,Injury
+30/04/2017,20:17:47,Kanchanaburi, 400cc - 1000cc,0.94%,36-60,Injury
+8/12/2017,3:00:54,Kanchanaburi,less-than-110cc,47.96%,36-60,Injury
+24/04/2017,22:09:32,Kanchanaburi,more-than-1000cc,0.17%,36-60,Injury
+16/09/2017,12:06:18,Chonburi, 111cc - 125cc,54.76%,36-60,Injury
+23/11/2017,2:49:00,Chonburi, 126cc - 150cc,4.23%,36-60,Injury
+28/03/2017,4:19:12,Chonburi, 156cc - 300cc,0.34%,36-60,Injury
+23/03/2017,3:12:54,Chonburi, 400cc - 1000cc,0.75%,36-60,Injury
+8/7/2017,2:30:00,Chonburi,less-than-110cc,25.45%,36-60,Injury
+17/03/2017,23:41:14,Chonburi,more-than-1000cc,0.02%,36-60,Injury
+10/4/2017,8:58:53,Nakhon-Ratchasima, 111cc - 125cc,52.47%,36-60,Injury
+30/04/2017,5:07:26,Nakhon-Ratchasima, 126cc - 150cc,1.90%,36-60,Injury
+29/05/2017,22:11:49,Nakhon-Ratchasima, 156cc - 300cc,0.16%,36-60,Injury
+24/07/2017,3:14:30,Nakhon-Ratchasima, 400cc - 1000cc,0.34%,36-60,Injury
+24/07/2017,15:23:47,Nakhon-Ratchasima,less-than-110cc,38.47%,36-60,Injury
+25/09/2017,7:43:24,Nakhon-Ratchasima,more-than-1000cc,0.03%,36-60,Injury
+11/3/2017,13:58:05,Surat-Thani, 111cc - 125cc,59.18%,36-60,Injury
+11/4/2017,17:34:43,Surat-Thani, 126cc - 150cc,1.74%,36-60,Injury
+18/04/2017,19:38:23,Surat-Thani, 156cc - 300cc,0.08%,36-60,Injury
+22/12/2017,9:24:55,Surat-Thani, 400cc - 1000cc,0.79%,36-60,Injury
+16/03/2017,12:39:20,Surat-Thani,less-than-110cc,27.61%,36-60,Injury
+11/10/2017,19:18:50,Surat-Thani,more-than-1000cc,0.16%,36-60,Injury
+10/10/2017,4:04:48,Chiang-Mai, 111cc - 125cc,50.00%,60++,Dead
+7/1/2017,11:05:15,Chiang-Mai, 126cc - 150cc,3.70%,60++,Dead
+23/11/2017,12:55:08,Chiang-Mai, 156cc - 300cc,0.00%,60++,Dead
+27/03/2017,18:24:02,Chiang-Mai, 400cc - 1000cc,3.70%,60++,Dead
+15/11/2017,8:25:28,Chiang-Mai,less-than-110cc,42.59%,60++,Dead
+17/07/2017,7:10:17,Bangkok, 111cc - 125cc,41.94%,60++,Dead
+4/2/2017,8:45:09,Bangkok, 126cc - 150cc,16.13%,60++,Dead
+10/4/2017,10:19:55,Bangkok, 156cc - 300cc,0.00%,60++,Dead
+31/10/2017,14:46:27,Bangkok, 400cc - 1000cc,4.84%,60++,Dead
+12/12/2017,10:48:16,Bangkok,less-than-110cc,22.58%,60++,Dead
+12/12/2017,17:06:54,Bangkok,more-than-1000cc,0.00%,60++,Dead
+16/03/2017,23:21:27,Kanchanaburi, 111cc - 125cc,48.00%,60++,Dead
+20/08/2017,12:35:18,Kanchanaburi, 156cc - 300cc,0.00%,60++,Dead
+25/02/2017,18:44:37,Kanchanaburi,less-than-110cc,48.00%,60++,Dead
+13/09/2017,11:10:58,Chonburi, 111cc - 125cc,56.41%,60++,Dead
+6/12/2017,9:59:09,Chonburi, 126cc - 150cc,5.13%,60++,Dead
+13/10/2017,13:55:47,Chonburi, 156cc - 300cc,0.00%,60++,Dead
+6/3/2017,14:01:29,Chonburi, 400cc - 1000cc,0.00%,60++,Dead
+28/02/2017,11:13:36,Chonburi,less-than-110cc,28.21%,60++,Dead
+14/06/2017,8:36:03,Chonburi,more-than-1000cc,0.00%,60++,Dead
+25/06/2017,13:55:58,Nakhon-Ratchasima, 111cc - 125cc,47.50%,60++,Dead
+5/3/2017,22:25:58,Nakhon-Ratchasima, 126cc - 150cc,5.00%,60++,Dead
+23/03/2017,4:25:54,Nakhon-Ratchasima, 156cc - 300cc,0.00%,60++,Dead
+2/8/2017,1:56:04,Nakhon-Ratchasima, 400cc - 1000cc,2.50%,60++,Dead
+5/6/2017,6:28:28,Nakhon-Ratchasima,less-than-110cc,40.00%,60++,Dead
+19/11/2017,1:30:59,Surat-Thani, 111cc - 125cc,45.45%,60++,Dead
+24/12/2017,16:24:01,Surat-Thani, 126cc - 150cc,0.00%,60++,Dead
+14/01/2017,1:17:51,Surat-Thani, 400cc - 1000cc,0.00%,60++,Dead
+15/05/2017,22:11:02,Surat-Thani,less-than-110cc,27.27%,60++,Dead
+26/07/2017,23:26:31,Chiang-Mai, 111cc - 125cc,47.04%,60++,Injury
+6/1/2017,15:21:36,Chiang-Mai, 126cc - 150cc,2.44%,60++,Injury
+16/01/2017,17:39:25,Chiang-Mai, 156cc - 300cc,0.08%,60++,Injury
+14/10/2017,21:46:51,Chiang-Mai, 400cc - 1000cc,0.24%,60++,Injury
+10/2/2017,16:15:53,Chiang-Mai,less-than-110cc,45.63%,60++,Injury
+5/3/2017,16:19:54,Chiang-Mai,more-than-1000cc,0.16%,60++,Injury
+19/06/2017,17:37:53,Bangkok, 111cc - 125cc,53.05%,60++,Injury
+27/11/2017,17:22:08,Bangkok, 126cc - 150cc,5.58%,60++,Injury
+11/12/2017,12:37:27,Bangkok, 156cc - 300cc,0.14%,60++,Injury
+13/02/2017,12:25:08,Bangkok, 400cc - 1000cc,0.43%,60++,Injury
+10/4/2017,15:13:31,Bangkok,less-than-110cc,21.07%,60++,Injury
+28/05/2017,15:36:05,Bangkok,more-than-1000cc,0.05%,60++,Injury
+30/06/2017,12:42:51,Kanchanaburi, 111cc - 125cc,44.70%,60++,Injury
+26/02/2017,20:21:25,Kanchanaburi, 126cc - 150cc,1.26%,60++,Injury
+28/02/2017,1:53:28,Kanchanaburi, 156cc - 300cc,0.25%,60++,Injury
+7/3/2017,6:01:36,Kanchanaburi, 400cc - 1000cc,0.00%,60++,Injury
+14/06/2017,9:04:59,Kanchanaburi,less-than-110cc,51.77%,60++,Injury
+26/04/2017,20:54:20,Kanchanaburi,more-than-1000cc,0.25%,60++,Injury
+28/06/2017,19:28:13,Chonburi, 111cc - 125cc,54.81%,60++,Injury
+25/03/2017,0:09:06,Chonburi, 126cc - 150cc,2.44%,60++,Injury
+18/07/2017,12:07:06,Chonburi, 156cc - 300cc,0.29%,60++,Injury
+27/09/2017,17:58:03,Chonburi, 400cc - 1000cc,0.86%,60++,Injury
+22/02/2017,18:03:56,Chonburi,less-than-110cc,30.27%,60++,Injury
+5/1/2017,10:15:02,Chonburi,more-than-1000cc,0.00%,60++,Injury
+30/06/2017,8:36:51,Nakhon-Ratchasima, 111cc - 125cc,46.93%,60++,Injury
+16/07/2017,20:36:22,Nakhon-Ratchasima, 126cc - 150cc,1.23%,60++,Injury
+31/08/2017,7:31:54,Nakhon-Ratchasima, 156cc - 300cc,0.00%,60++,Injury
+19/02/2017,23:05:05,Nakhon-Ratchasima, 400cc - 1000cc,0.10%,60++,Injury
+9/5/2017,22:05:59,Nakhon-Ratchasima,less-than-110cc,46.01%,60++,Injury
+10/8/2017,13:29:40,Nakhon-Ratchasima,more-than-1000cc,0.00%,60++,Injury
+24/11/2017,4:08:27,Surat-Thani, 111cc - 125cc,51.91%,60++,Injury
+5/6/2017,10:16:35,Surat-Thani, 126cc - 150cc,0.25%,60++,Injury
+1/10/2017,21:58:57,Surat-Thani, 156cc - 300cc,0.00%,60++,Injury
+16/10/2017,6:14:26,Surat-Thani, 400cc - 1000cc,0.00%,60++,Injury
+23/05/2017,9:39:13,Surat-Thani,less-than-110cc,35.11%,60++,Injury
+18/01/2017,6:49:16,Surat-Thani,more-than-1000cc,0.00%,60++,Injury
+13/07/2018,16:55:02,Chiang-Mai, 111cc - 125cc,53.85%,14-Jan,Dead
+12/1/2018,19:46:08,Chiang-Mai, 126cc - 150cc,0.00%,14-Jan,Dead
+27/03/2018,8:13:49,Chiang-Mai, 400cc - 1000cc,7.69%,14-Jan,Dead
+2/1/2018,10:39:15,Chiang-Mai,less-than-110cc,30.77%,14-Jan,Dead
+22/12/2018,10:27:11,Bangkok, 111cc - 125cc,68.18%,14-Jan,Dead
+15/07/2018,22:41:17,Bangkok, 126cc - 150cc,13.64%,14-Jan,Dead
+10/12/2018,1:54:19,Bangkok, 400cc - 1000cc,4.55%,14-Jan,Dead
+22/07/2018,19:35:41,Bangkok,less-than-110cc,9.09%,14-Jan,Dead
+3/8/2018,11:38:27,Bangkok,more-than-1000cc,0.00%,14-Jan,Dead
+25/10/2018,17:52:29,Kanchanaburi, 111cc - 125cc,53.85%,14-Jan,Dead
+27/11/2018,17:12:39,Kanchanaburi, 126cc - 150cc,0.00%,14-Jan,Dead
+8/3/2018,0:48:46,Kanchanaburi, 400cc - 1000cc,30.77%,14-Jan,Dead
+22/10/2018,12:49:58,Kanchanaburi,less-than-110cc,15.38%,14-Jan,Dead
+5/1/2018,0:41:59,Chonburi, 111cc - 125cc,58.33%,14-Jan,Dead
+3/3/2018,0:16:19,Chonburi, 126cc - 150cc,8.33%,14-Jan,Dead
+7/8/2018,23:55:49,Chonburi, 156cc - 300cc,0.00%,14-Jan,Dead
+9/2/2018,19:46:49,Chonburi,less-than-110cc,33.33%,14-Jan,Dead
+10/9/2018,9:09:12,Chonburi,more-than-1000cc,0.00%,14-Jan,Dead
+27/03/2018,20:18:20,Nakhon-Ratchasima, 111cc - 125cc,71.43%,14-Jan,Dead
+25/02/2018,0:42:23,Nakhon-Ratchasima, 126cc - 150cc,2.86%,14-Jan,Dead
+25/01/2018,21:52:07,Nakhon-Ratchasima,less-than-110cc,25.71%,14-Jan,Dead
+6/3/2018,15:59:23,Surat-Thani, 111cc - 125cc,72.73%,14-Jan,Dead
+27/03/2018,16:57:59,Surat-Thani, 126cc - 150cc,0.00%,14-Jan,Dead
+4/3/2018,19:36:40,Surat-Thani,less-than-110cc,27.27%,14-Jan,Dead
+27/10/2018,12:06:48,Chiang-Mai, 111cc - 125cc,57.25%,14-Jan,Injury
+11/11/2018,18:11:15,Chiang-Mai, 126cc - 150cc,3.80%,14-Jan,Injury
+28/07/2018,4:22:40,Chiang-Mai, 156cc - 300cc,0.29%,14-Jan,Injury
+18/08/2018,15:42:05,Chiang-Mai, 400cc - 1000cc,0.49%,14-Jan,Injury
+21/09/2018,16:03:00,Chiang-Mai,less-than-110cc,36.61%,14-Jan,Injury
+16/09/2018,3:35:23,Bangkok, 111cc - 125cc,64.45%,14-Jan,Injury
+14/12/2018,4:53:14,Bangkok, 126cc - 150cc,11.83%,14-Jan,Injury
+16/10/2018,22:41:17,Bangkok, 156cc - 300cc,0.78%,14-Jan,Injury
+3/4/2018,17:12:29,Bangkok, 400cc - 1000cc,0.84%,14-Jan,Injury
+4/2/2018,0:45:26,Bangkok,less-than-110cc,19.93%,14-Jan,Injury
+8/4/2018,0:40:03,Bangkok,more-than-1000cc,0.09%,14-Jan,Injury
+17/09/2018,17:21:38,Kanchanaburi, 111cc - 125cc,55.70%,14-Jan,Injury
+10/12/2018,3:46:40,Kanchanaburi, 126cc - 150cc,1.04%,14-Jan,Injury
+16/12/2018,19:04:07,Kanchanaburi, 156cc - 300cc,0.00%,14-Jan,Injury
+14/11/2018,7:56:23,Kanchanaburi, 400cc - 1000cc,0.52%,14-Jan,Injury
+14/06/2018,14:38:54,Kanchanaburi,less-than-110cc,42.75%,14-Jan,Injury
+4/7/2018,23:19:59,Chonburi, 111cc - 125cc,61.97%,14-Jan,Injury
+13/10/2018,10:23:07,Chonburi, 126cc - 150cc,4.86%,14-Jan,Injury
+10/6/2018,4:49:03,Chonburi, 156cc - 300cc,0.12%,14-Jan,Injury
+13/03/2018,1:00:46,Chonburi, 400cc - 1000cc,0.35%,14-Jan,Injury
+28/05/2018,8:57:37,Chonburi,less-than-110cc,22.08%,14-Jan,Injury
+11/12/2018,5:21:38,Chonburi,more-than-1000cc,0.00%,14-Jan,Injury
+28/05/2018,4:25:43,Nakhon-Ratchasima, 111cc - 125cc,59.24%,14-Jan,Injury
+18/09/2018,18:22:06,Nakhon-Ratchasima, 126cc - 150cc,1.97%,14-Jan,Injury
+11/9/2018,17:32:36,Nakhon-Ratchasima, 156cc - 300cc,0.07%,14-Jan,Injury
+15/11/2018,3:38:04,Nakhon-Ratchasima, 400cc - 1000cc,0.13%,14-Jan,Injury
+30/03/2018,1:09:09,Nakhon-Ratchasima,less-than-110cc,38.27%,14-Jan,Injury
+29/05/2018,12:10:26,Surat-Thani, 111cc - 125cc,70.23%,14-Jan,Injury
+15/09/2018,20:18:01,Surat-Thani, 126cc - 150cc,1.95%,14-Jan,Injury
+22/03/2018,21:25:46,Surat-Thani, 156cc - 300cc,0.19%,14-Jan,Injury
+13/08/2018,3:45:20,Surat-Thani, 400cc - 1000cc,0.00%,14-Jan,Injury
+22/11/2018,4:07:17,Surat-Thani,less-than-110cc,27.24%,14-Jan,Injury
+24/07/2018,5:22:34,Surat-Thani,more-than-1000cc,0.00%,14-Jan,Injury
+16/06/2018,18:28:45,Chiang-Mai, 111cc - 125cc,45.45%,15-19,Dead
+23/02/2018,7:47:07,Chiang-Mai, 126cc - 150cc,9.09%,15-19,Dead
+27/11/2018,1:15:19,Chiang-Mai, 156cc - 300cc,0.00%,15-19,Dead
+25/05/2018,3:58:47,Chiang-Mai, 400cc - 1000cc,0.00%,15-19,Dead
+8/6/2018,2:51:16,Chiang-Mai,less-than-110cc,42.42%,15-19,Dead
+1/10/2018,17:05:49,Bangkok, 111cc - 125cc,58.33%,15-19,Dead
+26/03/2018,2:03:59,Bangkok, 126cc - 150cc,25.00%,15-19,Dead
+1/1/2018,3:52:50,Bangkok, 156cc - 300cc,0.00%,15-19,Dead
+16/10/2018,2:06:57,Bangkok, 400cc - 1000cc,1.39%,15-19,Dead
+31/08/2018,11:14:16,Bangkok,less-than-110cc,12.50%,15-19,Dead
+4/12/2018,7:38:49,Kanchanaburi, 111cc - 125cc,73.33%,15-19,Dead
+17/10/2018,8:41:59,Kanchanaburi, 126cc - 150cc,6.67%,15-19,Dead
+13/05/2018,10:08:25,Kanchanaburi,less-than-110cc,20.00%,15-19,Dead
+8/4/2018,9:26:48,Chonburi, 111cc - 125cc,61.54%,15-19,Dead
+10/5/2018,5:17:31,Chonburi, 126cc - 150cc,10.26%,15-19,Dead
+1/8/2018,0:35:20,Chonburi, 400cc - 1000cc,0.00%,15-19,Dead
+4/5/2018,16:27:46,Chonburi,less-than-110cc,7.69%,15-19,Dead
+18/12/2018,19:16:22,Nakhon-Ratchasima, 111cc - 125cc,69.57%,15-19,Dead
+10/12/2018,16:06:00,Nakhon-Ratchasima, 126cc - 150cc,0.00%,15-19,Dead
+10/5/2018,0:51:58,Nakhon-Ratchasima, 156cc - 300cc,0.00%,15-19,Dead
+22/09/2018,0:55:01,Nakhon-Ratchasima,less-than-110cc,30.43%,15-19,Dead
+6/8/2018,16:43:04,Surat-Thani, 111cc - 125cc,82.35%,15-19,Dead
+8/7/2018,2:44:25,Surat-Thani,less-than-110cc,17.65%,15-19,Dead
+4/4/2018,7:47:28,Chiang-Mai, 111cc - 125cc,61.15%,15-19,Injury
+16/01/2018,20:28:49,Chiang-Mai, 126cc - 150cc,8.18%,15-19,Injury
+6/11/2018,11:34:05,Chiang-Mai, 156cc - 300cc,0.64%,15-19,Injury
+19/04/2018,18:11:24,Chiang-Mai, 400cc - 1000cc,0.10%,15-19,Injury
+13/02/2018,2:23:49,Chiang-Mai,less-than-110cc,29.44%,15-19,Injury
+25/10/2018,22:53:24,Bangkok, 111cc - 125cc,65.91%,15-19,Injury
+3/11/2018,4:30:42,Bangkok, 126cc - 150cc,17.33%,15-19,Injury
+26/08/2018,22:52:51,Bangkok, 156cc - 300cc,0.65%,15-19,Injury
+25/07/2018,12:56:38,Bangkok, 400cc - 1000cc,0.49%,15-19,Injury
+1/10/2018,2:08:09,Bangkok,less-than-110cc,14.20%,15-19,Injury
+26/08/2018,0:44:32,Bangkok,more-than-1000cc,0.02%,15-19,Injury
+20/04/2018,18:31:40,Kanchanaburi, 111cc - 125cc,62.48%,15-19,Injury
+27/05/2018,10:12:46,Kanchanaburi, 126cc - 150cc,3.49%,15-19,Injury
+26/09/2018,4:35:30,Kanchanaburi, 156cc - 300cc,0.00%,15-19,Injury
+7/1/2018,3:20:13,Kanchanaburi, 400cc - 1000cc,0.00%,15-19,Injury
+4/9/2018,11:46:59,Kanchanaburi,less-than-110cc,34.03%,15-19,Injury
+14/02/2018,14:18:20,Chonburi, 111cc - 125cc,62.20%,15-19,Injury
+2/7/2018,4:03:35,Chonburi, 126cc - 150cc,7.29%,15-19,Injury
+29/04/2018,23:11:14,Chonburi, 156cc - 300cc,0.33%,15-19,Injury
+18/02/2018,0:02:29,Chonburi, 400cc - 1000cc,0.13%,15-19,Injury
+20/04/2018,23:12:24,Chonburi,less-than-110cc,18.63%,15-19,Injury
+26/08/2018,10:06:46,Chonburi,more-than-1000cc,0.00%,15-19,Injury
+5/11/2018,17:20:51,Nakhon-Ratchasima, 111cc - 125cc,64.62%,15-19,Injury
+27/08/2018,14:22:52,Nakhon-Ratchasima, 126cc - 150cc,4.44%,15-19,Injury
+17/01/2018,18:13:31,Nakhon-Ratchasima, 156cc - 300cc,0.00%,15-19,Injury
+28/07/2018,8:11:09,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,15-19,Injury
+18/04/2018,18:15:31,Nakhon-Ratchasima,less-than-110cc,29.83%,15-19,Injury
+24/12/2018,3:06:05,Surat-Thani, 111cc - 125cc,73.08%,15-19,Injury
+27/01/2018,6:56:25,Surat-Thani, 126cc - 150cc,5.86%,15-19,Injury
+18/10/2018,6:57:07,Surat-Thani, 156cc - 300cc,0.18%,15-19,Injury
+19/11/2018,7:23:59,Surat-Thani, 400cc - 1000cc,0.37%,15-19,Injury
+7/3/2018,3:39:53,Surat-Thani,less-than-110cc,19.05%,15-19,Injury
+25/08/2018,10:34:40,Surat-Thani,more-than-1000cc,0.18%,15-19,Injury
+15/04/2018,18:37:25,Chiang-Mai, 111cc - 125cc,54.05%,19-24,Dead
+29/09/2018,18:23:47,Chiang-Mai, 126cc - 150cc,10.81%,19-24,Dead
+16/11/2018,4:38:36,Chiang-Mai, 156cc - 300cc,0.00%,19-24,Dead
+2/1/2018,4:03:24,Chiang-Mai, 400cc - 1000cc,2.70%,19-24,Dead
+9/3/2018,6:22:17,Chiang-Mai,less-than-110cc,31.08%,19-24,Dead
+10/12/2018,4:02:10,Bangkok, 111cc - 125cc,45.32%,19-24,Dead
+13/01/2018,19:26:41,Bangkok, 126cc - 150cc,28.78%,19-24,Dead
+24/05/2018,19:38:56,Bangkok, 156cc - 300cc,2.16%,19-24,Dead
+24/09/2018,8:41:53,Bangkok, 400cc - 1000cc,7.91%,19-24,Dead
+29/09/2018,9:47:47,Bangkok,less-than-110cc,14.39%,19-24,Dead
+27/06/2018,11:48:15,Bangkok,more-than-1000cc,0.00%,19-24,Dead
+4/10/2018,11:56:28,Kanchanaburi, 111cc - 125cc,71.43%,19-24,Dead
+3/4/2018,7:24:30,Kanchanaburi, 126cc - 150cc,0.00%,19-24,Dead
+20/07/2018,4:35:37,Kanchanaburi, 156cc - 300cc,0.00%,19-24,Dead
+9/1/2018,3:36:16,Kanchanaburi, 400cc - 1000cc,4.76%,19-24,Dead
+24/06/2018,2:14:30,Kanchanaburi,less-than-110cc,23.81%,19-24,Dead
+4/4/2018,22:19:50,Chonburi, 111cc - 125cc,51.49%,19-24,Dead
+31/08/2018,22:47:33,Chonburi, 126cc - 150cc,10.89%,19-24,Dead
+8/7/2018,17:17:14,Chonburi, 156cc - 300cc,1.98%,19-24,Dead
+7/1/2018,17:09:15,Chonburi, 400cc - 1000cc,4.95%,19-24,Dead
+14/10/2018,11:13:33,Chonburi,less-than-110cc,18.81%,19-24,Dead
+16/08/2018,15:35:16,Chonburi,more-than-1000cc,0.00%,19-24,Dead
+30/12/2018,15:34:33,Nakhon-Ratchasima, 111cc - 125cc,64.06%,19-24,Dead
+29/12/2018,8:14:00,Nakhon-Ratchasima, 126cc - 150cc,12.50%,19-24,Dead
+3/7/2018,7:29:41,Nakhon-Ratchasima, 156cc - 300cc,1.56%,19-24,Dead
+31/12/2018,11:36:25,Nakhon-Ratchasima, 400cc - 1000cc,4.69%,19-24,Dead
+16/12/2018,12:48:29,Nakhon-Ratchasima,less-than-110cc,15.63%,19-24,Dead
+25/02/2018,1:55:38,Nakhon-Ratchasima,more-than-1000cc,0.00%,19-24,Dead
+1/4/2018,2:12:04,Surat-Thani, 111cc - 125cc,58.33%,19-24,Dead
+15/08/2018,6:18:53,Surat-Thani, 126cc - 150cc,0.00%,19-24,Dead
+7/12/2018,3:28:12,Surat-Thani, 156cc - 300cc,0.00%,19-24,Dead
+18/07/2018,18:37:48,Surat-Thani, 400cc - 1000cc,0.00%,19-24,Dead
+7/3/2018,1:19:06,Surat-Thani,less-than-110cc,33.33%,19-24,Dead
+6/1/2018,20:07:48,Chiang-Mai, 111cc - 125cc,58.85%,19-24,Injury
+20/08/2018,19:50:03,Chiang-Mai, 126cc - 150cc,8.19%,19-24,Injury
+6/8/2018,10:25:32,Chiang-Mai, 156cc - 300cc,0.65%,19-24,Injury
+9/7/2018,3:50:49,Chiang-Mai, 400cc - 1000cc,0.74%,19-24,Injury
+10/3/2018,21:57:11,Chiang-Mai,less-than-110cc,30.19%,19-24,Injury
+23/11/2018,13:22:13,Chiang-Mai,more-than-1000cc,0.07%,19-24,Injury
+17/05/2018,20:31:14,Bangkok, 111cc - 125cc,59.70%,19-24,Injury
+24/03/2018,23:25:17,Bangkok, 126cc - 150cc,22.72%,19-24,Injury
+13/03/2018,22:19:26,Bangkok, 156cc - 300cc,1.35%,19-24,Injury
+13/05/2018,6:17:49,Bangkok, 400cc - 1000cc,1.60%,19-24,Injury
+23/12/2018,11:39:07,Bangkok,less-than-110cc,13.24%,19-24,Injury
+26/08/2018,22:31:57,Bangkok,more-than-1000cc,0.00%,19-24,Injury
+6/11/2018,5:30:31,Kanchanaburi, 111cc - 125cc,61.10%,19-24,Injury
+25/06/2018,7:03:32,Kanchanaburi, 126cc - 150cc,7.16%,19-24,Injury
+31/05/2018,4:14:47,Kanchanaburi, 156cc - 300cc,0.70%,19-24,Injury
+13/04/2018,13:12:50,Kanchanaburi, 400cc - 1000cc,0.42%,19-24,Injury
+11/11/2018,5:41:01,Kanchanaburi,less-than-110cc,30.62%,19-24,Injury
+6/7/2018,22:18:47,Chonburi, 111cc - 125cc,57.86%,19-24,Injury
+26/11/2018,13:26:25,Chonburi, 126cc - 150cc,13.20%,19-24,Injury
+21/04/2018,20:30:38,Chonburi, 156cc - 300cc,0.86%,19-24,Injury
+17/06/2018,7:44:24,Chonburi, 400cc - 1000cc,1.49%,19-24,Injury
+4/9/2018,20:11:07,Chonburi,less-than-110cc,16.28%,19-24,Injury
+8/4/2018,18:07:07,Chonburi,more-than-1000cc,0.00%,19-24,Injury
+12/7/2018,10:59:06,Nakhon-Ratchasima, 111cc - 125cc,60.80%,19-24,Injury
+19/10/2018,10:13:13,Nakhon-Ratchasima, 126cc - 150cc,7.74%,19-24,Injury
+29/04/2018,21:08:38,Nakhon-Ratchasima, 156cc - 300cc,0.36%,19-24,Injury
+17/09/2018,3:20:13,Nakhon-Ratchasima, 400cc - 1000cc,0.79%,19-24,Injury
+27/07/2018,18:15:13,Nakhon-Ratchasima,less-than-110cc,28.87%,19-24,Injury
+9/3/2018,23:56:28,Surat-Thani, 111cc - 125cc,69.73%,19-24,Injury
+1/1/2018,18:08:51,Surat-Thani, 126cc - 150cc,7.40%,19-24,Injury
+2/4/2018,0:28:05,Surat-Thani, 156cc - 300cc,0.27%,19-24,Injury
+17/02/2018,9:08:41,Surat-Thani, 400cc - 1000cc,1.23%,19-24,Injury
+13/06/2018,16:50:27,Surat-Thani,less-than-110cc,19.73%,19-24,Injury
+18/01/2018,13:14:49,Surat-Thani,more-than-1000cc,0.00%,19-24,Injury
+6/10/2018,18:19:09,Chiang-Mai, 111cc - 125cc,54.55%,25-35,Dead
+15/11/2018,6:00:14,Chiang-Mai, 126cc - 150cc,6.06%,25-35,Dead
+17/01/2018,16:23:03,Chiang-Mai, 156cc - 300cc,1.52%,25-35,Dead
+21/02/2018,7:04:20,Chiang-Mai, 400cc - 1000cc,3.03%,25-35,Dead
+4/4/2018,0:38:47,Chiang-Mai,less-than-110cc,31.82%,25-35,Dead
+18/04/2018,20:58:14,Chiang-Mai,more-than-1000cc,0.00%,25-35,Dead
+7/5/2018,16:59:05,Bangkok, 111cc - 125cc,54.07%,25-35,Dead
+25/10/2018,4:28:59,Bangkok, 126cc - 150cc,24.44%,25-35,Dead
+27/03/2018,7:00:14,Bangkok, 156cc - 300cc,2.96%,25-35,Dead
+8/1/2018,0:14:27,Bangkok, 400cc - 1000cc,4.44%,25-35,Dead
+7/11/2018,19:16:07,Bangkok,less-than-110cc,11.85%,25-35,Dead
+18/02/2018,11:27:28,Bangkok,more-than-1000cc,0.00%,25-35,Dead
+27/05/2018,17:17:26,Kanchanaburi, 111cc - 125cc,57.14%,25-35,Dead
+12/7/2018,15:54:11,Kanchanaburi, 126cc - 150cc,19.05%,25-35,Dead
+15/06/2018,21:14:18,Kanchanaburi, 156cc - 300cc,0.00%,25-35,Dead
+13/04/2018,12:21:24,Kanchanaburi, 400cc - 1000cc,9.52%,25-35,Dead
+28/12/2018,13:09:42,Kanchanaburi,less-than-110cc,14.29%,25-35,Dead
+23/03/2018,10:05:38,Kanchanaburi,more-than-1000cc,0.00%,25-35,Dead
+8/6/2018,23:23:35,Chonburi, 111cc - 125cc,56.31%,25-35,Dead
+26/06/2018,23:33:07,Chonburi, 126cc - 150cc,8.74%,25-35,Dead
+24/02/2018,17:50:55,Chonburi, 156cc - 300cc,3.88%,25-35,Dead
+21/05/2018,21:53:30,Chonburi, 400cc - 1000cc,2.91%,25-35,Dead
+21/01/2018,13:36:40,Chonburi,less-than-110cc,18.45%,25-35,Dead
+10/8/2018,18:11:33,Chonburi,more-than-1000cc,0.97%,25-35,Dead
+9/5/2018,8:09:01,Nakhon-Ratchasima, 111cc - 125cc,49.40%,25-35,Dead
+23/09/2018,9:30:59,Nakhon-Ratchasima, 126cc - 150cc,10.84%,25-35,Dead
+26/09/2018,1:05:44,Nakhon-Ratchasima, 156cc - 300cc,1.20%,25-35,Dead
+5/5/2018,21:06:21,Nakhon-Ratchasima, 400cc - 1000cc,6.02%,25-35,Dead
+30/03/2018,11:15:56,Nakhon-Ratchasima,less-than-110cc,32.53%,25-35,Dead
+28/02/2018,16:24:38,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Dead
+16/10/2018,22:53:50,Surat-Thani, 111cc - 125cc,60.00%,25-35,Dead
+15/05/2018,8:06:52,Surat-Thani, 126cc - 150cc,5.00%,25-35,Dead
+14/06/2018,9:34:03,Surat-Thani, 156cc - 300cc,5.00%,25-35,Dead
+7/8/2018,1:28:17,Surat-Thani, 400cc - 1000cc,0.00%,25-35,Dead
+30/03/2018,5:26:12,Surat-Thani,less-than-110cc,30.00%,25-35,Dead
+5/5/2018,5:25:07,Surat-Thani,more-than-1000cc,0.00%,25-35,Dead
+5/9/2018,18:28:58,Chiang-Mai, 111cc - 125cc,55.44%,25-35,Injury
+26/02/2018,11:16:10,Chiang-Mai, 126cc - 150cc,8.15%,25-35,Injury
+31/12/2018,7:05:50,Chiang-Mai, 156cc - 300cc,0.54%,25-35,Injury
+21/10/2018,12:24:46,Chiang-Mai, 400cc - 1000cc,1.12%,25-35,Injury
+16/12/2018,9:21:47,Chiang-Mai,less-than-110cc,33.68%,25-35,Injury
+2/3/2018,17:11:20,Chiang-Mai,more-than-1000cc,0.03%,25-35,Injury
+27/12/2018,21:37:06,Bangkok, 111cc - 125cc,61.43%,25-35,Injury
+12/9/2018,13:51:59,Bangkok, 126cc - 150cc,17.74%,25-35,Injury
+24/05/2018,1:10:17,Bangkok, 156cc - 300cc,1.46%,25-35,Injury
+31/12/2018,11:00:54,Bangkok, 400cc - 1000cc,2.31%,25-35,Injury
+11/11/2018,15:11:06,Bangkok,less-than-110cc,15.21%,25-35,Injury
+26/04/2018,0:17:43,Bangkok,more-than-1000cc,0.08%,25-35,Injury
+5/2/2018,2:40:16,Kanchanaburi, 111cc - 125cc,54.53%,25-35,Injury
+27/04/2018,13:40:25,Kanchanaburi, 126cc - 150cc,7.00%,25-35,Injury
+4/5/2018,7:41:05,Kanchanaburi, 156cc - 300cc,0.48%,25-35,Injury
+5/12/2018,19:27:53,Kanchanaburi, 400cc - 1000cc,2.07%,25-35,Injury
+20/05/2018,3:29:17,Kanchanaburi,less-than-110cc,35.45%,25-35,Injury
+3/5/2018,5:08:06,Kanchanaburi,more-than-1000cc,0.00%,25-35,Injury
+29/10/2018,18:12:56,Chonburi, 111cc - 125cc,59.03%,25-35,Injury
+3/10/2018,0:00:33,Chonburi, 126cc - 150cc,9.96%,25-35,Injury
+1/10/2018,2:50:30,Chonburi, 156cc - 300cc,0.88%,25-35,Injury
+25/09/2018,10:03:41,Chonburi, 400cc - 1000cc,2.06%,25-35,Injury
+24/11/2018,20:34:55,Chonburi,less-than-110cc,18.00%,25-35,Injury
+15/10/2018,6:46:05,Chonburi,more-than-1000cc,0.05%,25-35,Injury
+7/11/2018,2:44:26,Nakhon-Ratchasima, 111cc - 125cc,57.22%,25-35,Injury
+8/3/2018,2:18:02,Nakhon-Ratchasima, 126cc - 150cc,6.46%,25-35,Injury
+16/06/2018,6:36:01,Nakhon-Ratchasima, 156cc - 300cc,0.40%,25-35,Injury
+13/01/2018,17:01:03,Nakhon-Ratchasima, 400cc - 1000cc,1.52%,25-35,Injury
+10/10/2018,3:03:13,Nakhon-Ratchasima,less-than-110cc,33.20%,25-35,Injury
+12/4/2018,4:48:28,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Injury
+18/11/2018,9:51:50,Surat-Thani, 111cc - 125cc,66.96%,25-35,Injury
+3/2/2018,19:32:06,Surat-Thani, 126cc - 150cc,6.23%,25-35,Injury
+26/03/2018,22:32:54,Surat-Thani, 156cc - 300cc,0.37%,25-35,Injury
+12/7/2018,13:37:54,Surat-Thani, 400cc - 1000cc,1.25%,25-35,Injury
+6/12/2018,0:15:17,Surat-Thani,less-than-110cc,23.82%,25-35,Injury
+25/12/2018,21:34:07,Surat-Thani,more-than-1000cc,0.00%,25-35,Injury
+7/4/2018,10:17:28,Chiang-Mai, 111cc - 125cc,46.51%,36-60,Dead
+8/9/2018,9:29:57,Chiang-Mai, 126cc - 150cc,3.49%,36-60,Dead
+7/9/2018,0:36:42,Chiang-Mai, 156cc - 300cc,0.00%,36-60,Dead
+28/06/2018,10:28:00,Chiang-Mai, 400cc - 1000cc,2.33%,36-60,Dead
+21/03/2018,9:20:41,Chiang-Mai,less-than-110cc,46.51%,36-60,Dead
+25/01/2018,19:18:00,Chiang-Mai,more-than-1000cc,0.00%,36-60,Dead
+18/08/2018,19:57:34,Bangkok, 111cc - 125cc,59.90%,36-60,Dead
+1/10/2018,2:25:37,Bangkok, 126cc - 150cc,12.50%,36-60,Dead
+3/9/2018,19:36:10,Bangkok, 156cc - 300cc,1.56%,36-60,Dead
+3/8/2018,5:03:06,Bangkok, 400cc - 1000cc,1.04%,36-60,Dead
+29/10/2018,14:39:13,Bangkok,less-than-110cc,23.96%,36-60,Dead
+9/8/2018,16:13:29,Bangkok,more-than-1000cc,0.00%,36-60,Dead
+13/05/2018,13:57:48,Kanchanaburi, 111cc - 125cc,58.49%,36-60,Dead
+11/9/2018,16:16:56,Kanchanaburi, 126cc - 150cc,7.55%,36-60,Dead
+10/10/2018,11:54:55,Kanchanaburi, 156cc - 300cc,0.00%,36-60,Dead
+13/12/2018,19:32:18,Kanchanaburi, 400cc - 1000cc,1.89%,36-60,Dead
+10/2/2018,2:54:14,Kanchanaburi,less-than-110cc,32.08%,36-60,Dead
+12/9/2018,23:14:26,Chonburi, 111cc - 125cc,60.14%,36-60,Dead
+9/12/2018,6:22:11,Chonburi, 126cc - 150cc,7.25%,36-60,Dead
+5/12/2018,12:02:24,Chonburi, 156cc - 300cc,0.00%,36-60,Dead
+13/12/2018,5:31:37,Chonburi, 400cc - 1000cc,5.07%,36-60,Dead
+6/12/2018,0:57:27,Chonburi,less-than-110cc,18.84%,36-60,Dead
+13/05/2018,20:23:14,Chonburi,more-than-1000cc,0.00%,36-60,Dead
+10/10/2018,14:06:20,Nakhon-Ratchasima, 111cc - 125cc,50.38%,36-60,Dead
+21/02/2018,1:00:53,Nakhon-Ratchasima, 126cc - 150cc,4.58%,36-60,Dead
+29/05/2018,9:40:35,Nakhon-Ratchasima, 156cc - 300cc,0.76%,36-60,Dead
+19/07/2018,0:35:36,Nakhon-Ratchasima, 400cc - 1000cc,5.34%,36-60,Dead
+17/10/2018,21:09:08,Nakhon-Ratchasima,less-than-110cc,38.93%,36-60,Dead
+5/5/2018,19:31:24,Nakhon-Ratchasima,more-than-1000cc,0.00%,36-60,Dead
+28/06/2018,12:25:32,Surat-Thani, 111cc - 125cc,77.14%,36-60,Dead
+24/06/2018,13:34:11,Surat-Thani, 126cc - 150cc,2.86%,36-60,Dead
+1/11/2018,2:38:18,Surat-Thani, 156cc - 300cc,0.00%,36-60,Dead
+24/02/2018,15:24:54,Surat-Thani, 400cc - 1000cc,0.00%,36-60,Dead
+3/11/2018,18:59:04,Surat-Thani,less-than-110cc,20.00%,36-60,Dead
+19/02/2018,6:08:56,Chiang-Mai, 111cc - 125cc,53.88%,36-60,Injury
+19/10/2018,5:27:00,Chiang-Mai, 126cc - 150cc,4.07%,36-60,Injury
+22/10/2018,12:54:38,Chiang-Mai, 156cc - 300cc,0.24%,36-60,Injury
+26/08/2018,0:32:49,Chiang-Mai, 400cc - 1000cc,0.65%,36-60,Injury
+29/04/2018,23:54:40,Chiang-Mai,less-than-110cc,40.21%,36-60,Injury
+24/03/2018,19:04:14,Chiang-Mai,more-than-1000cc,0.12%,36-60,Injury
+12/1/2018,5:35:18,Bangkok, 111cc - 125cc,65.31%,36-60,Injury
+26/07/2018,14:11:49,Bangkok, 126cc - 150cc,9.51%,36-60,Injury
+18/11/2018,11:43:11,Bangkok, 156cc - 300cc,0.51%,36-60,Injury
+3/11/2018,8:55:40,Bangkok, 400cc - 1000cc,0.86%,36-60,Injury
+3/6/2018,7:22:58,Bangkok,less-than-110cc,21.13%,36-60,Injury
+11/3/2018,11:12:46,Bangkok,more-than-1000cc,0.11%,36-60,Injury
+19/02/2018,14:42:40,Kanchanaburi, 111cc - 125cc,48.39%,36-60,Injury
+6/11/2018,5:34:48,Kanchanaburi, 126cc - 150cc,3.22%,36-60,Injury
+29/09/2018,0:05:22,Kanchanaburi, 156cc - 300cc,0.00%,36-60,Injury
+30/06/2018,4:22:20,Kanchanaburi, 400cc - 1000cc,0.88%,36-60,Injury
+25/10/2018,14:22:38,Kanchanaburi,less-than-110cc,47.19%,36-60,Injury
+23/10/2018,12:36:21,Kanchanaburi,more-than-1000cc,0.08%,36-60,Injury
+18/10/2018,8:03:49,Chonburi, 111cc - 125cc,59.43%,36-60,Injury
+11/10/2018,20:04:28,Chonburi, 126cc - 150cc,4.72%,36-60,Injury
+16/09/2018,18:24:44,Chonburi, 156cc - 300cc,0.44%,36-60,Injury
+10/4/2018,4:18:58,Chonburi, 400cc - 1000cc,0.62%,36-60,Injury
+10/9/2018,21:14:51,Chonburi,less-than-110cc,25.68%,36-60,Injury
+25/07/2018,13:58:41,Chonburi,more-than-1000cc,0.16%,36-60,Injury
+19/12/2018,22:45:05,Nakhon-Ratchasima, 111cc - 125cc,55.07%,36-60,Injury
+9/10/2018,8:57:25,Nakhon-Ratchasima, 126cc - 150cc,2.71%,36-60,Injury
+1/6/2018,19:48:18,Nakhon-Ratchasima, 156cc - 300cc,0.05%,36-60,Injury
+26/12/2018,13:14:20,Nakhon-Ratchasima, 400cc - 1000cc,0.28%,36-60,Injury
+20/09/2018,8:17:55,Nakhon-Ratchasima,less-than-110cc,40.71%,36-60,Injury
+14/05/2018,7:03:25,Nakhon-Ratchasima,more-than-1000cc,0.08%,36-60,Injury
+17/12/2018,1:53:49,Surat-Thani, 111cc - 125cc,62.65%,36-60,Injury
+22/05/2018,12:35:04,Surat-Thani, 126cc - 150cc,3.27%,36-60,Injury
+5/4/2018,1:55:46,Surat-Thani, 156cc - 300cc,0.29%,36-60,Injury
+28/11/2018,17:04:29,Surat-Thani, 400cc - 1000cc,1.02%,36-60,Injury
+21/03/2018,21:26:49,Surat-Thani,less-than-110cc,30.89%,36-60,Injury
+22/11/2018,9:55:09,Surat-Thani,more-than-1000cc,0.29%,36-60,Injury
+18/10/2018,23:24:51,Chiang-Mai, 111cc - 125cc,51.52%,60++,Dead
+7/5/2018,10:43:16,Chiang-Mai, 126cc - 150cc,9.09%,60++,Dead
+7/3/2018,0:41:17,Chiang-Mai, 156cc - 300cc,3.03%,60++,Dead
+29/12/2018,2:00:08,Chiang-Mai, 400cc - 1000cc,0.00%,60++,Dead
+26/06/2018,15:05:54,Chiang-Mai,less-than-110cc,36.36%,60++,Dead
+14/07/2018,21:27:20,Bangkok, 111cc - 125cc,52.94%,60++,Dead
+4/4/2018,0:34:32,Bangkok, 126cc - 150cc,14.71%,60++,Dead
+17/07/2018,8:50:23,Bangkok, 156cc - 300cc,2.94%,60++,Dead
+7/10/2018,20:20:44,Bangkok, 400cc - 1000cc,5.88%,60++,Dead
+10/12/2018,8:30:38,Bangkok,less-than-110cc,16.18%,60++,Dead
+20/01/2018,0:30:03,Bangkok,more-than-1000cc,0.00%,60++,Dead
+1/9/2018,20:50:44,Kanchanaburi, 111cc - 125cc,43.48%,60++,Dead
+29/11/2018,8:36:15,Kanchanaburi, 156cc - 300cc,0.00%,60++,Dead
+24/04/2018,0:31:30,Kanchanaburi,less-than-110cc,56.52%,60++,Dead
+25/01/2018,6:55:41,Chonburi, 111cc - 125cc,50.00%,60++,Dead
+25/04/2018,19:14:46,Chonburi, 126cc - 150cc,7.14%,60++,Dead
+9/4/2018,13:44:55,Chonburi, 156cc - 300cc,0.00%,60++,Dead
+11/10/2018,21:31:12,Chonburi, 400cc - 1000cc,0.00%,60++,Dead
+19/05/2018,6:20:18,Chonburi,less-than-110cc,25.00%,60++,Dead
+7/7/2018,10:57:48,Chonburi,more-than-1000cc,3.57%,60++,Dead
+23/11/2018,1:20:07,Nakhon-Ratchasima, 111cc - 125cc,48.28%,60++,Dead
+29/09/2018,1:31:19,Nakhon-Ratchasima, 126cc - 150cc,3.45%,60++,Dead
+11/1/2018,10:00:26,Nakhon-Ratchasima, 156cc - 300cc,1.72%,60++,Dead
+24/02/2018,7:56:53,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,60++,Dead
+2/10/2018,21:10:46,Nakhon-Ratchasima,less-than-110cc,44.83%,60++,Dead
+19/01/2018,1:19:42,Surat-Thani, 111cc - 125cc,60.00%,60++,Dead
+22/04/2018,14:08:56,Surat-Thani, 126cc - 150cc,0.00%,60++,Dead
+8/4/2018,6:20:01,Surat-Thani, 400cc - 1000cc,6.67%,60++,Dead
+21/09/2018,13:41:39,Surat-Thani,less-than-110cc,33.33%,60++,Dead
+22/01/2018,5:50:29,Chiang-Mai, 111cc - 125cc,49.64%,60++,Injury
+2/3/2018,7:18:17,Chiang-Mai, 126cc - 150cc,2.13%,60++,Injury
+25/11/2018,0:40:05,Chiang-Mai, 156cc - 300cc,0.14%,60++,Injury
+2/9/2018,3:00:16,Chiang-Mai, 400cc - 1000cc,0.43%,60++,Injury
+8/2/2018,10:20:53,Chiang-Mai,less-than-110cc,46.87%,60++,Injury
+18/12/2018,8:12:18,Chiang-Mai,more-than-1000cc,0.00%,60++,Injury
+6/4/2018,0:35:59,Bangkok, 111cc - 125cc,62.54%,60++,Injury
+28/10/2018,20:29:12,Bangkok, 126cc - 150cc,7.61%,60++,Injury
+22/07/2018,13:09:21,Bangkok, 156cc - 300cc,0.19%,60++,Injury
+27/02/2018,0:42:51,Bangkok, 400cc - 1000cc,0.58%,60++,Injury
+9/7/2018,18:57:44,Bangkok,less-than-110cc,25.70%,60++,Injury
+4/9/2018,0:02:13,Bangkok,more-than-1000cc,0.04%,60++,Injury
+21/06/2018,0:40:09,Kanchanaburi, 111cc - 125cc,43.04%,60++,Injury
+14/05/2018,16:22:06,Kanchanaburi, 126cc - 150cc,1.27%,60++,Injury
+24/03/2018,3:03:54,Kanchanaburi, 156cc - 300cc,0.00%,60++,Injury
+13/01/2018,19:34:38,Kanchanaburi, 400cc - 1000cc,0.00%,60++,Injury
+17/03/2018,5:32:33,Kanchanaburi,less-than-110cc,55.70%,60++,Injury
+29/05/2018,7:42:47,Kanchanaburi,more-than-1000cc,0.00%,60++,Injury
+29/04/2018,0:20:48,Chonburi, 111cc - 125cc,53.59%,60++,Injury
+5/4/2018,19:22:29,Chonburi, 126cc - 150cc,4.33%,60++,Injury
+24/12/2018,3:16:34,Chonburi, 156cc - 300cc,0.50%,60++,Injury
+12/3/2018,9:19:57,Chonburi, 400cc - 1000cc,0.62%,60++,Injury
+17/12/2018,23:09:31,Chonburi,less-than-110cc,32.30%,60++,Injury
+29/04/2018,5:04:10,Chonburi,more-than-1000cc,0.37%,60++,Injury
+6/11/2018,3:42:32,Nakhon-Ratchasima, 111cc - 125cc,49.91%,60++,Injury
+25/11/2018,21:36:55,Nakhon-Ratchasima, 126cc - 150cc,1.05%,60++,Injury
+26/05/2018,19:45:27,Nakhon-Ratchasima, 156cc - 300cc,0.09%,60++,Injury
+31/08/2018,21:42:11,Nakhon-Ratchasima, 400cc - 1000cc,0.09%,60++,Injury
+22/06/2018,19:33:34,Nakhon-Ratchasima,less-than-110cc,47.99%,60++,Injury
+4/5/2018,22:40:27,Nakhon-Ratchasima,more-than-1000cc,0.00%,60++,Injury
+3/1/2018,16:43:42,Surat-Thani, 111cc - 125cc,53.88%,60++,Injury
+27/07/2018,10:58:43,Surat-Thani, 126cc - 150cc,1.65%,60++,Injury
+16/07/2018,5:55:45,Surat-Thani, 156cc - 300cc,0.00%,60++,Injury
+4/9/2018,8:07:05,Surat-Thani, 400cc - 1000cc,0.24%,60++,Injury
+26/12/2018,13:15:06,Surat-Thani,less-than-110cc,41.88%,60++,Injury
+28/10/2018,20:17:58,Surat-Thani,more-than-1000cc,0.00%,60++,Injury
+6/2/2019,4:18:46,Chiang-Mai, 111cc - 125cc,66.67%,14-Jan,Dead
+21/04/2019,8:16:18,Chiang-Mai, 126cc - 150cc,6.67%,14-Jan,Dead
+22/07/2019,8:08:23,Chiang-Mai, 400cc - 1000cc,0.00%,14-Jan,Dead
+19/09/2019,19:19:56,Chiang-Mai,less-than-110cc,26.67%,14-Jan,Dead
+4/4/2019,9:02:24,Bangkok, 111cc - 125cc,58.33%,14-Jan,Dead
+11/2/2019,7:19:31,Bangkok, 126cc - 150cc,29.17%,14-Jan,Dead
+11/6/2019,11:29:13,Bangkok, 400cc - 1000cc,0.00%,14-Jan,Dead
+29/05/2019,0:57:03,Bangkok,less-than-110cc,12.50%,14-Jan,Dead
+7/4/2019,10:26:28,Bangkok,more-than-1000cc,0.00%,14-Jan,Dead
+27/03/2019,5:59:41,Kanchanaburi, 111cc - 125cc,66.67%,14-Jan,Dead
+7/5/2019,6:36:43,Kanchanaburi, 126cc - 150cc,0.00%,14-Jan,Dead
+19/12/2019,10:23:36,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Dead
+8/11/2019,10:53:49,Kanchanaburi,less-than-110cc,33.33%,14-Jan,Dead
+28/02/2019,6:59:56,Chonburi, 111cc - 125cc,64.29%,14-Jan,Dead
+8/4/2019,20:13:53,Chonburi, 126cc - 150cc,0.00%,14-Jan,Dead
+1/5/2019,22:43:58,Chonburi, 156cc - 300cc,0.00%,14-Jan,Dead
+24/02/2019,20:23:36,Chonburi,less-than-110cc,14.29%,14-Jan,Dead
+7/2/2019,15:50:39,Chonburi,more-than-1000cc,0.00%,14-Jan,Dead
+22/11/2019,19:14:11,Nakhon-Ratchasima, 111cc - 125cc,56.25%,14-Jan,Dead
+5/8/2019,21:52:12,Nakhon-Ratchasima, 126cc - 150cc,6.25%,14-Jan,Dead
+28/10/2019,10:06:25,Nakhon-Ratchasima,less-than-110cc,37.50%,14-Jan,Dead
+13/08/2019,4:56:28,Surat-Thani, 111cc - 125cc,87.50%,14-Jan,Dead
+19/07/2019,18:29:55,Surat-Thani, 126cc - 150cc,12.50%,14-Jan,Dead
+29/01/2019,23:00:55,Surat-Thani,less-than-110cc,0.00%,14-Jan,Dead
+5/4/2019,17:27:20,Chiang-Mai, 111cc - 125cc,57.01%,14-Jan,Dead
+3/3/2019,2:15:34,Chiang-Mai, 126cc - 150cc,4.07%,14-Jan,Dead
+24/04/2019,17:52:28,Chiang-Mai, 156cc - 300cc,0.09%,14-Jan,Dead
+15/12/2019,17:45:45,Chiang-Mai, 400cc - 1000cc,0.76%,14-Jan,Dead
+11/3/2019,18:58:49,Chiang-Mai,less-than-110cc,38.07%,14-Jan,Dead
+16/09/2019,14:01:28,Chiang-Mai, 111cc - 125cc,60.61%,15-19,Dead
+9/11/2019,1:16:38,Chiang-Mai, 126cc - 150cc,15.15%,15-19,Dead
+9/9/2019,10:53:43,Chiang-Mai, 156cc - 300cc,0.00%,15-19,Dead
+7/7/2019,3:12:28,Chiang-Mai, 400cc - 1000cc,3.03%,15-19,Dead
+18/02/2019,0:12:14,Chiang-Mai,less-than-110cc,21.21%,15-19,Dead
+2/1/2019,23:06:00,Bangkok, 111cc - 125cc,60.78%,15-19,Dead
+5/6/2019,21:01:06,Bangkok, 126cc - 150cc,7.84%,15-19,Dead
+10/2/2019,9:10:13,Bangkok, 156cc - 300cc,1.96%,15-19,Dead
+21/03/2019,14:32:38,Bangkok, 400cc - 1000cc,1.96%,15-19,Dead
+12/6/2019,17:36:44,Bangkok,less-than-110cc,27.45%,15-19,Dead
+23/07/2019,23:02:16,Kanchanaburi, 111cc - 125cc,75.00%,15-19,Dead
+15/09/2019,13:25:36,Kanchanaburi, 126cc - 150cc,0.00%,15-19,Dead
+17/09/2019,12:28:48,Kanchanaburi,less-than-110cc,25.00%,15-19,Dead
+23/12/2019,17:17:41,Chonburi, 111cc - 125cc,47.83%,15-19,Dead
+13/03/2019,1:49:34,Chonburi, 126cc - 150cc,10.87%,15-19,Dead
+26/11/2019,16:24:00,Chonburi, 400cc - 1000cc,2.17%,15-19,Dead
+5/10/2019,6:41:06,Chonburi,less-than-110cc,30.43%,15-19,Dead
+22/01/2019,3:13:02,Nakhon-Ratchasima, 111cc - 125cc,83.93%,15-19,Dead
+16/01/2019,21:03:21,Nakhon-Ratchasima, 126cc - 150cc,1.79%,15-19,Dead
+20/07/2019,20:04:28,Nakhon-Ratchasima, 156cc - 300cc,0.00%,15-19,Dead
+25/03/2019,5:32:26,Nakhon-Ratchasima,less-than-110cc,14.29%,15-19,Dead
+24/05/2019,10:13:59,Surat-Thani, 111cc - 125cc,93.33%,15-19,Dead
+18/05/2019,2:46:57,Surat-Thani,less-than-110cc,6.67%,15-19,Dead
+17/01/2019,2:45:23,Chiang-Mai, 111cc - 125cc,48.10%,19-24,Dead
+20/11/2019,1:46:40,Chiang-Mai, 126cc - 150cc,22.78%,19-24,Dead
+22/06/2019,13:31:26,Chiang-Mai, 156cc - 300cc,0.00%,19-24,Dead
+28/09/2019,11:59:47,Chiang-Mai, 400cc - 1000cc,3.80%,19-24,Dead
+12/10/2019,15:45:12,Chiang-Mai,less-than-110cc,25.32%,19-24,Dead
+23/05/2019,22:55:20,Bangkok, 111cc - 125cc,48.39%,19-24,Dead
+5/5/2019,19:36:46,Bangkok, 126cc - 150cc,29.84%,19-24,Dead
+30/07/2019,23:37:45,Bangkok, 156cc - 300cc,4.84%,19-24,Dead
+7/9/2019,6:25:07,Bangkok, 400cc - 1000cc,3.23%,19-24,Dead
+18/09/2019,23:46:39,Bangkok,less-than-110cc,13.71%,19-24,Dead
+11/6/2019,8:47:10,Bangkok,more-than-1000cc,0.00%,19-24,Dead
+26/01/2019,22:54:50,Kanchanaburi, 111cc - 125cc,76.19%,19-24,Dead
+13/05/2019,17:35:12,Kanchanaburi, 126cc - 150cc,4.76%,19-24,Dead
+4/2/2019,14:55:54,Kanchanaburi, 156cc - 300cc,0.00%,19-24,Dead
+25/08/2019,6:43:59,Kanchanaburi, 400cc - 1000cc,0.00%,19-24,Dead
+26/04/2019,6:59:52,Kanchanaburi,less-than-110cc,19.05%,19-24,Dead
+11/9/2019,16:34:57,Chonburi, 111cc - 125cc,52.78%,19-24,Dead
+29/04/2019,6:54:20,Chonburi, 126cc - 150cc,12.96%,19-24,Dead
+27/05/2019,22:45:56,Chonburi, 156cc - 300cc,0.00%,19-24,Dead
+25/10/2019,7:29:03,Chonburi, 400cc - 1000cc,1.85%,19-24,Dead
+17/05/2019,14:48:15,Chonburi,less-than-110cc,21.30%,19-24,Dead
+14/07/2019,20:32:31,Chonburi,more-than-1000cc,0.93%,19-24,Dead
+25/04/2019,3:25:47,Nakhon-Ratchasima, 111cc - 125cc,60.29%,19-24,Dead
+17/01/2019,11:02:06,Nakhon-Ratchasima, 126cc - 150cc,10.29%,19-24,Dead
+17/01/2019,2:09:12,Nakhon-Ratchasima, 156cc - 300cc,1.47%,19-24,Dead
+12/2/2019,9:34:00,Nakhon-Ratchasima, 400cc - 1000cc,1.47%,19-24,Dead
+4/4/2019,2:53:40,Nakhon-Ratchasima,less-than-110cc,25.00%,19-24,Dead
+15/01/2019,9:20:31,Nakhon-Ratchasima,more-than-1000cc,1.47%,19-24,Dead
+10/5/2019,9:31:31,Surat-Thani, 111cc - 125cc,56.25%,19-24,Dead
+13/03/2019,0:44:48,Surat-Thani, 126cc - 150cc,18.75%,19-24,Dead
+23/12/2019,5:49:35,Surat-Thani, 156cc - 300cc,0.00%,19-24,Dead
+14/02/2019,18:25:21,Surat-Thani, 400cc - 1000cc,0.00%,19-24,Dead
+16/12/2019,5:42:15,Surat-Thani,less-than-110cc,25.00%,19-24,Dead
+15/12/2019,21:48:39,Chiang-Mai, 111cc - 125cc,51.39%,25-35,Dead
+29/03/2019,22:09:26,Chiang-Mai, 126cc - 150cc,9.72%,25-35,Dead
+15/03/2019,2:08:32,Chiang-Mai, 156cc - 300cc,2.78%,25-35,Dead
+28/03/2019,4:50:33,Chiang-Mai, 400cc - 1000cc,5.56%,25-35,Dead
+30/05/2019,16:49:51,Chiang-Mai,less-than-110cc,30.56%,25-35,Dead
+19/07/2019,3:11:24,Chiang-Mai,more-than-1000cc,0.00%,25-35,Dead
+26/12/2019,23:44:51,Bangkok, 111cc - 125cc,51.09%,25-35,Dead
+27/03/2019,7:47:59,Bangkok, 126cc - 150cc,31.39%,25-35,Dead
+9/5/2019,4:21:38,Bangkok, 156cc - 300cc,0.73%,25-35,Dead
+26/03/2019,8:07:35,Bangkok, 400cc - 1000cc,5.11%,25-35,Dead
+2/2/2019,2:44:42,Bangkok,less-than-110cc,10.95%,25-35,Dead
+23/11/2019,23:25:35,Bangkok,more-than-1000cc,0.00%,25-35,Dead
+10/1/2019,8:56:06,Kanchanaburi, 111cc - 125cc,51.85%,25-35,Dead
+18/08/2019,12:38:17,Kanchanaburi, 126cc - 150cc,18.52%,25-35,Dead
+25/04/2019,1:09:57,Kanchanaburi, 156cc - 300cc,3.70%,25-35,Dead
+8/7/2019,15:05:24,Kanchanaburi, 400cc - 1000cc,3.70%,25-35,Dead
+10/9/2019,1:02:10,Kanchanaburi,less-than-110cc,18.52%,25-35,Dead
+30/04/2019,14:43:21,Kanchanaburi,more-than-1000cc,3.70%,25-35,Dead
+10/8/2019,4:23:21,Chonburi, 111cc - 125cc,56.76%,25-35,Dead
+1/9/2019,3:04:05,Chonburi, 126cc - 150cc,12.61%,25-35,Dead
+5/10/2019,4:02:11,Chonburi, 156cc - 300cc,0.90%,25-35,Dead
+30/03/2019,4:20:43,Chonburi, 400cc - 1000cc,6.31%,25-35,Dead
+27/01/2019,6:46:20,Chonburi,less-than-110cc,11.71%,25-35,Dead
+8/1/2019,3:24:48,Chonburi,more-than-1000cc,0.00%,25-35,Dead
+28/01/2019,11:16:06,Nakhon-Ratchasima, 111cc - 125cc,52.86%,25-35,Dead
+12/8/2019,19:45:00,Nakhon-Ratchasima, 126cc - 150cc,17.14%,25-35,Dead
+11/8/2019,10:48:37,Nakhon-Ratchasima, 156cc - 300cc,2.86%,25-35,Dead
+19/06/2019,0:41:44,Nakhon-Ratchasima, 400cc - 1000cc,8.57%,25-35,Dead
+24/05/2019,11:51:59,Nakhon-Ratchasima,less-than-110cc,18.57%,25-35,Dead
+2/1/2019,9:06:29,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Dead
+21/05/2019,15:35:21,Surat-Thani, 111cc - 125cc,44.44%,25-35,Dead
+20/11/2019,15:18:19,Surat-Thani, 126cc - 150cc,11.11%,25-35,Dead
+13/05/2019,6:55:38,Surat-Thani, 156cc - 300cc,0.00%,25-35,Dead
+19/07/2019,5:53:43,Surat-Thani, 400cc - 1000cc,5.56%,25-35,Dead
+21/09/2019,3:10:33,Surat-Thani,less-than-110cc,33.33%,25-35,Dead
+8/9/2019,22:41:37,Surat-Thani,more-than-1000cc,5.56%,25-35,Dead
+30/11/2019,16:22:48,Chiang-Mai, 111cc - 125cc,49.54%,36-60,Dead
+12/2/2019,1:06:30,Chiang-Mai, 126cc - 150cc,7.34%,36-60,Dead
+25/07/2019,6:07:00,Chiang-Mai, 156cc - 300cc,0.92%,36-60,Dead
+18/04/2019,23:41:17,Chiang-Mai, 400cc - 1000cc,0.00%,36-60,Dead
+5/3/2019,17:38:37,Chiang-Mai,less-than-110cc,42.20%,36-60,Dead
+14/06/2019,17:35:33,Chiang-Mai,more-than-1000cc,0.00%,36-60,Dead
+18/08/2019,3:12:41,Bangkok, 111cc - 125cc,57.87%,36-60,Dead
+5/4/2019,13:33:10,Bangkok, 126cc - 150cc,19.10%,36-60,Dead
+16/10/2019,8:19:46,Bangkok, 156cc - 300cc,1.12%,36-60,Dead
+13/12/2019,18:33:30,Bangkok, 400cc - 1000cc,3.93%,36-60,Dead
+13/12/2019,3:58:20,Bangkok,less-than-110cc,17.98%,36-60,Dead
+26/11/2019,5:22:09,Bangkok,more-than-1000cc,0.00%,36-60,Dead
+25/06/2019,2:35:12,Kanchanaburi, 111cc - 125cc,43.59%,36-60,Dead
+18/09/2019,17:54:13,Kanchanaburi, 126cc - 150cc,7.69%,36-60,Dead
+25/07/2019,4:47:01,Kanchanaburi, 156cc - 300cc,0.00%,36-60,Dead
+16/07/2019,9:29:21,Kanchanaburi, 400cc - 1000cc,5.13%,36-60,Dead
+19/08/2019,10:52:58,Kanchanaburi,less-than-110cc,43.59%,36-60,Dead
+24/08/2019,16:43:56,Chonburi, 111cc - 125cc,56.16%,36-60,Dead
+7/3/2019,11:18:01,Chonburi, 126cc - 150cc,4.79%,36-60,Dead
+4/10/2019,19:04:30,Chonburi, 156cc - 300cc,0.68%,36-60,Dead
+9/12/2019,19:54:57,Chonburi, 400cc - 1000cc,4.11%,36-60,Dead
+4/7/2019,12:56:10,Chonburi,less-than-110cc,28.77%,36-60,Dead
+6/12/2019,16:08:02,Chonburi,more-than-1000cc,0.68%,36-60,Dead
+10/7/2019,23:50:30,Nakhon-Ratchasima, 111cc - 125cc,58.49%,36-60,Dead
+21/07/2019,19:56:21,Nakhon-Ratchasima, 126cc - 150cc,1.89%,36-60,Dead
+12/8/2019,23:38:56,Nakhon-Ratchasima, 156cc - 300cc,0.00%,36-60,Dead
+21/04/2019,19:11:38,Nakhon-Ratchasima, 400cc - 1000cc,0.94%,36-60,Dead
+1/12/2019,12:38:18,Nakhon-Ratchasima,less-than-110cc,37.74%,36-60,Dead
+29/07/2019,6:39:37,Nakhon-Ratchasima,more-than-1000cc,0.00%,36-60,Dead
+3/6/2019,1:01:28,Surat-Thani, 111cc - 125cc,45.95%,36-60,Dead
+15/07/2019,21:24:23,Surat-Thani, 126cc - 150cc,2.70%,36-60,Dead
+20/03/2019,17:30:30,Surat-Thani, 156cc - 300cc,8.11%,36-60,Dead
+3/7/2019,21:17:00,Surat-Thani, 400cc - 1000cc,2.70%,36-60,Dead
+10/3/2019,0:53:10,Surat-Thani,less-than-110cc,40.54%,36-60,Dead
+27/10/2019,8:05:44,Chiang-Mai, 111cc - 125cc,30.16%,60++,Dead
+26/05/2019,12:31:58,Chiang-Mai, 126cc - 150cc,1.59%,60++,Dead
+24/03/2019,14:02:55,Chiang-Mai, 156cc - 300cc,0.00%,60++,Dead
+28/02/2019,5:55:07,Chiang-Mai, 400cc - 1000cc,3.17%,60++,Dead
+26/10/2019,2:18:21,Chiang-Mai,less-than-110cc,65.08%,60++,Dead
+6/8/2019,11:29:17,Bangkok, 111cc - 125cc,57.14%,60++,Dead
+11/8/2019,16:38:40,Bangkok, 126cc - 150cc,15.87%,60++,Dead
+10/4/2019,8:44:41,Bangkok, 156cc - 300cc,1.59%,60++,Dead
+26/07/2019,4:44:11,Bangkok, 400cc - 1000cc,4.76%,60++,Dead
+29/06/2019,21:18:54,Bangkok,less-than-110cc,19.05%,60++,Dead
+30/04/2019,5:28:13,Bangkok,more-than-1000cc,1.59%,60++,Dead
+15/10/2019,3:33:43,Kanchanaburi, 111cc - 125cc,42.31%,60++,Dead
+24/03/2019,20:14:59,Kanchanaburi, 156cc - 300cc,0.00%,60++,Dead
+14/08/2019,8:11:59,Kanchanaburi,less-than-110cc,57.69%,60++,Dead
+1/3/2019,15:42:48,Chonburi, 111cc - 125cc,60.42%,60++,Dead
+12/10/2019,13:27:59,Chonburi, 126cc - 150cc,8.33%,60++,Dead
+6/6/2019,7:46:02,Chonburi, 156cc - 300cc,0.00%,60++,Dead
+8/10/2019,6:34:55,Chonburi, 400cc - 1000cc,0.00%,60++,Dead
+19/07/2019,8:16:34,Chonburi,less-than-110cc,25.00%,60++,Dead
+27/01/2019,16:50:26,Chonburi,more-than-1000cc,0.00%,60++,Dead
+24/02/2019,5:56:44,Nakhon-Ratchasima, 111cc - 125cc,47.06%,60++,Dead
+30/12/2019,16:07:25,Nakhon-Ratchasima, 126cc - 150cc,7.06%,60++,Dead
+24/05/2019,20:26:19,Nakhon-Ratchasima, 156cc - 300cc,0.00%,60++,Dead
+22/07/2019,4:54:39,Nakhon-Ratchasima, 400cc - 1000cc,1.18%,60++,Dead
+7/5/2019,13:18:34,Nakhon-Ratchasima,less-than-110cc,44.71%,60++,Dead
+4/6/2019,4:34:53,Surat-Thani, 111cc - 125cc,63.64%,60++,Dead
+23/12/2019,13:01:03,Surat-Thani, 126cc - 150cc,0.00%,60++,Dead
+21/09/2019,20:04:38,Surat-Thani, 400cc - 1000cc,0.00%,60++,Dead
+6/3/2019,9:40:59,Surat-Thani,less-than-110cc,36.36%,60++,Dead
+1/6/2019,4:28:57,Chiang-Mai, 111cc - 125cc,57.01%,14-Jan,Injury
+11/9/2019,0:18:30,Chiang-Mai, 126cc - 150cc,4.07%,14-Jan,Injury
+3/7/2019,12:50:53,Chiang-Mai, 156cc - 300cc,0.09%,14-Jan,Injury
+10/7/2019,2:36:42,Chiang-Mai, 400cc - 1000cc,0.76%,14-Jan,Injury
+14/02/2019,16:37:37,Chiang-Mai,less-than-110cc,38.07%,14-Jan,Injury
+6/8/2019,20:13:38,Bangkok, 111cc - 125cc,66.06%,14-Jan,Injury
+7/2/2019,8:42:42,Bangkok, 126cc - 150cc,13.50%,14-Jan,Injury
+21/05/2019,2:33:36,Bangkok, 156cc - 300cc,0.79%,14-Jan,Injury
+9/2/2019,17:01:00,Bangkok, 400cc - 1000cc,0.63%,14-Jan,Injury
+7/12/2019,4:33:48,Bangkok,less-than-110cc,18.59%,14-Jan,Injury
+16/05/2019,2:49:16,Bangkok,more-than-1000cc,0.08%,14-Jan,Injury
+1/10/2019,21:21:58,Kanchanaburi, 111cc - 125cc,55.87%,14-Jan,Injury
+13/06/2019,20:28:02,Kanchanaburi, 126cc - 150cc,1.64%,14-Jan,Injury
+13/12/2019,9:13:08,Kanchanaburi, 156cc - 300cc,0.23%,14-Jan,Injury
+23/07/2019,17:55:35,Kanchanaburi, 400cc - 1000cc,0.23%,14-Jan,Injury
+2/3/2019,3:16:47,Kanchanaburi,less-than-110cc,42.02%,14-Jan,Injury
+21/08/2019,5:59:35,Chonburi, 111cc - 125cc,60.66%,14-Jan,Injury
+11/4/2019,14:52:39,Chonburi, 126cc - 150cc,7.71%,14-Jan,Injury
+18/01/2019,17:25:15,Chonburi, 156cc - 300cc,0.20%,14-Jan,Injury
+17/12/2019,11:57:32,Chonburi, 400cc - 1000cc,0.50%,14-Jan,Injury
+20/08/2019,16:27:08,Chonburi,less-than-110cc,24.42%,14-Jan,Injury
+24/07/2019,7:45:31,Chonburi,more-than-1000cc,0.10%,14-Jan,Injury
+10/7/2019,4:49:22,Nakhon-Ratchasima, 111cc - 125cc,58.44%,14-Jan,Injury
+21/12/2019,4:19:16,Nakhon-Ratchasima, 126cc - 150cc,3.23%,14-Jan,Injury
+27/11/2019,9:04:12,Nakhon-Ratchasima, 156cc - 300cc,0.13%,14-Jan,Injury
+1/1/2019,13:25:36,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,14-Jan,Injury
+6/1/2019,16:11:02,Nakhon-Ratchasima,less-than-110cc,37.99%,14-Jan,Injury
+14/08/2019,23:20:33,Surat-Thani, 111cc - 125cc,70.55%,14-Jan,Injury
+31/12/2019,19:42:54,Surat-Thani, 126cc - 150cc,2.68%,14-Jan,Injury
+9/10/2019,15:39:42,Surat-Thani, 156cc - 300cc,0.19%,14-Jan,Injury
+13/10/2019,12:59:58,Surat-Thani, 400cc - 1000cc,0.38%,14-Jan,Injury
+26/11/2019,8:10:58,Surat-Thani,less-than-110cc,26.00%,14-Jan,Injury
+5/9/2019,6:47:28,Surat-Thani,more-than-1000cc,0.00%,14-Jan,Injury
+12/12/2019,21:53:09,Chiang-Mai, 111cc - 125cc,60.54%,15-19,Injury
+21/01/2019,8:42:37,Chiang-Mai, 126cc - 150cc,8.94%,15-19,Injury
+26/01/2019,15:14:03,Chiang-Mai, 156cc - 300cc,0.25%,15-19,Injury
+13/02/2019,23:55:26,Chiang-Mai, 400cc - 1000cc,0.55%,15-19,Injury
+16/02/2019,17:30:20,Chiang-Mai,less-than-110cc,29.72%,15-19,Injury
+2/9/2019,13:34:55,Bangkok, 111cc - 125cc,64.14%,15-19,Injury
+6/5/2019,5:18:53,Bangkok, 126cc - 150cc,19.84%,15-19,Injury
+4/4/2019,1:32:42,Bangkok, 156cc - 300cc,0.43%,15-19,Injury
+19/09/2019,10:59:36,Bangkok, 400cc - 1000cc,0.46%,15-19,Injury
+1/12/2019,11:00:25,Bangkok,less-than-110cc,14.80%,15-19,Injury
+12/11/2019,11:47:13,Bangkok,more-than-1000cc,0.07%,15-19,Injury
+31/10/2019,14:01:20,Kanchanaburi, 111cc - 125cc,59.03%,15-19,Injury
+14/02/2019,3:59:33,Kanchanaburi, 126cc - 150cc,4.83%,15-19,Injury
+6/7/2019,7:45:35,Kanchanaburi, 156cc - 300cc,0.18%,15-19,Injury
+16/09/2019,8:48:03,Kanchanaburi, 400cc - 1000cc,0.18%,15-19,Injury
+3/10/2019,1:12:06,Kanchanaburi,less-than-110cc,35.78%,15-19,Injury
+22/09/2019,19:50:47,Chonburi, 111cc - 125cc,61.10%,15-19,Injury
+3/10/2019,6:11:26,Chonburi, 126cc - 150cc,10.41%,15-19,Injury
+27/11/2019,14:14:47,Chonburi, 156cc - 300cc,0.34%,15-19,Injury
+14/10/2019,13:25:24,Chonburi, 400cc - 1000cc,0.21%,15-19,Injury
+2/5/2019,6:35:43,Chonburi,less-than-110cc,19.32%,15-19,Injury
+10/5/2019,14:00:35,Chonburi,more-than-1000cc,0.07%,15-19,Injury
+26/04/2019,15:46:51,Nakhon-Ratchasima, 111cc - 125cc,63.11%,15-19,Injury
+19/09/2019,19:56:27,Nakhon-Ratchasima, 126cc - 150cc,4.66%,15-19,Injury
+13/09/2019,22:28:14,Nakhon-Ratchasima, 156cc - 300cc,0.00%,15-19,Injury
+7/8/2019,2:19:18,Nakhon-Ratchasima, 400cc - 1000cc,0.18%,15-19,Injury
+18/05/2019,19:00:34,Nakhon-Ratchasima,less-than-110cc,31.78%,15-19,Injury
+25/08/2019,20:09:54,Surat-Thani, 111cc - 125cc,73.04%,15-19,Injury
+3/4/2019,12:47:47,Surat-Thani, 126cc - 150cc,4.52%,15-19,Injury
+16/08/2019,23:17:21,Surat-Thani, 156cc - 300cc,0.17%,15-19,Injury
+29/09/2019,14:43:27,Surat-Thani, 400cc - 1000cc,0.17%,15-19,Injury
+15/07/2019,15:53:53,Surat-Thani,less-than-110cc,21.39%,15-19,Injury
+25/02/2019,19:50:00,Surat-Thani,more-than-1000cc,0.00%,15-19,Injury
+18/08/2019,21:41:27,Chiang-Mai, 111cc - 125cc,58.05%,19-24,Injury
+5/9/2019,2:43:42,Chiang-Mai, 126cc - 150cc,8.87%,19-24,Injury
+15/09/2019,15:15:05,Chiang-Mai, 156cc - 300cc,0.57%,19-24,Injury
+29/06/2019,10:54:22,Chiang-Mai, 400cc - 1000cc,0.59%,19-24,Injury
+15/08/2019,18:07:45,Chiang-Mai,less-than-110cc,31.66%,19-24,Injury
+24/07/2019,8:44:52,Chiang-Mai,more-than-1000cc,0.02%,19-24,Injury
+1/11/2019,1:08:46,Bangkok, 111cc - 125cc,57.75%,19-24,Injury
+5/1/2019,11:56:39,Bangkok, 126cc - 150cc,25.41%,19-24,Injury
+1/6/2019,4:09:53,Bangkok, 156cc - 300cc,1.53%,19-24,Injury
+7/11/2019,23:31:29,Bangkok, 400cc - 1000cc,1.96%,19-24,Injury
+1/3/2019,9:33:03,Bangkok,less-than-110cc,12.90%,19-24,Injury
+10/5/2019,10:11:01,Bangkok,more-than-1000cc,0.07%,19-24,Injury
+29/05/2019,1:20:11,Kanchanaburi, 111cc - 125cc,61.64%,19-24,Injury
+6/4/2019,23:14:09,Kanchanaburi, 126cc - 150cc,7.70%,19-24,Injury
+15/03/2019,23:44:49,Kanchanaburi, 156cc - 300cc,0.63%,19-24,Injury
+19/07/2019,9:25:21,Kanchanaburi, 400cc - 1000cc,0.94%,19-24,Injury
+14/08/2019,9:01:17,Kanchanaburi,less-than-110cc,28.77%,19-24,Injury
+28/11/2019,14:44:10,Chonburi, 111cc - 125cc,56.55%,19-24,Injury
+8/5/2019,17:59:55,Chonburi, 126cc - 150cc,15.33%,19-24,Injury
+16/08/2019,23:37:41,Chonburi, 156cc - 300cc,1.20%,19-24,Injury
+9/4/2019,9:51:16,Chonburi, 400cc - 1000cc,1.52%,19-24,Injury
+1/9/2019,13:01:07,Chonburi,less-than-110cc,16.31%,19-24,Injury
+29/04/2019,23:26:56,Chonburi,more-than-1000cc,0.06%,19-24,Injury
+12/11/2019,19:08:06,Nakhon-Ratchasima, 111cc - 125cc,62.00%,19-24,Injury
+12/2/2019,17:44:13,Nakhon-Ratchasima, 126cc - 150cc,9.41%,19-24,Injury
+8/1/2019,16:01:14,Nakhon-Ratchasima, 156cc - 300cc,0.53%,19-24,Injury
+20/04/2019,5:54:07,Nakhon-Ratchasima, 400cc - 1000cc,0.71%,19-24,Injury
+3/10/2019,16:30:30,Nakhon-Ratchasima,less-than-110cc,27.11%,19-24,Injury
+10/8/2019,8:52:08,Surat-Thani, 111cc - 125cc,65.06%,19-24,Injury
+17/03/2019,3:03:30,Surat-Thani, 126cc - 150cc,8.61%,19-24,Injury
+29/07/2019,6:51:17,Surat-Thani, 156cc - 300cc,0.13%,19-24,Injury
+26/05/2019,15:07:31,Surat-Thani, 400cc - 1000cc,1.39%,19-24,Injury
+23/12/2019,8:01:50,Surat-Thani,less-than-110cc,24.68%,19-24,Injury
+12/11/2019,22:59:40,Surat-Thani,more-than-1000cc,0.00%,19-24,Injury
+2/1/2019,6:09:21,Chiang-Mai, 111cc - 125cc,57.62%,25-35,Injury
+23/07/2019,15:29:43,Chiang-Mai, 126cc - 150cc,8.21%,25-35,Injury
+28/11/2019,20:30:53,Chiang-Mai, 156cc - 300cc,0.45%,25-35,Injury
+15/12/2019,19:27:15,Chiang-Mai, 400cc - 1000cc,1.18%,25-35,Injury
+19/10/2019,11:21:35,Chiang-Mai,less-than-110cc,32.36%,25-35,Injury
+2/2/2019,22:20:27,Chiang-Mai,more-than-1000cc,0.09%,25-35,Injury
+21/06/2019,5:38:40,Bangkok, 111cc - 125cc,61.10%,25-35,Injury
+1/1/2019,16:41:52,Bangkok, 126cc - 150cc,20.28%,25-35,Injury
+2/1/2019,7:21:12,Bangkok, 156cc - 300cc,1.88%,25-35,Injury
+18/10/2019,0:04:48,Bangkok, 400cc - 1000cc,2.24%,25-35,Injury
+5/7/2019,0:15:24,Bangkok,less-than-110cc,14.07%,25-35,Injury
+29/12/2019,5:17:56,Bangkok,more-than-1000cc,0.09%,25-35,Injury
+3/5/2019,12:07:18,Kanchanaburi, 111cc - 125cc,55.21%,25-35,Injury
+14/05/2019,0:11:17,Kanchanaburi, 126cc - 150cc,5.79%,25-35,Injury
+2/8/2019,9:08:04,Kanchanaburi, 156cc - 300cc,1.16%,25-35,Injury
+22/04/2019,9:20:36,Kanchanaburi, 400cc - 1000cc,2.32%,25-35,Injury
+5/2/2019,20:15:53,Kanchanaburi,less-than-110cc,35.26%,25-35,Injury
+23/02/2019,11:50:00,Kanchanaburi,more-than-1000cc,0.26%,25-35,Injury
+30/03/2019,18:58:33,Chonburi, 111cc - 125cc,57.36%,25-35,Injury
+26/02/2019,21:31:20,Chonburi, 126cc - 150cc,11.62%,25-35,Injury
+9/8/2019,17:30:55,Chonburi, 156cc - 300cc,0.90%,25-35,Injury
+18/01/2019,22:02:34,Chonburi, 400cc - 1000cc,2.36%,25-35,Injury
+15/07/2019,15:57:03,Chonburi,less-than-110cc,17.50%,25-35,Injury
+17/05/2019,9:19:18,Chonburi,more-than-1000cc,0.10%,25-35,Injury
+7/5/2019,18:26:11,Nakhon-Ratchasima, 111cc - 125cc,57.05%,25-35,Injury
+8/1/2019,19:15:36,Nakhon-Ratchasima, 126cc - 150cc,7.85%,25-35,Injury
+25/06/2019,7:11:16,Nakhon-Ratchasima, 156cc - 300cc,0.64%,25-35,Injury
+19/12/2019,2:15:17,Nakhon-Ratchasima, 400cc - 1000cc,1.35%,25-35,Injury
+23/05/2019,12:35:40,Nakhon-Ratchasima,less-than-110cc,32.84%,25-35,Injury
+15/07/2019,1:12:33,Nakhon-Ratchasima,more-than-1000cc,0.08%,25-35,Injury
+29/05/2019,12:22:08,Surat-Thani, 111cc - 125cc,67.35%,25-35,Injury
+6/8/2019,20:06:43,Surat-Thani, 126cc - 150cc,6.92%,25-35,Injury
+19/05/2019,5:21:23,Surat-Thani, 156cc - 300cc,0.97%,25-35,Injury
+11/12/2019,1:38:13,Surat-Thani, 400cc - 1000cc,1.46%,25-35,Injury
+11/4/2019,6:40:51,Surat-Thani,less-than-110cc,22.82%,25-35,Injury
+20/09/2019,17:00:41,Surat-Thani,more-than-1000cc,0.24%,25-35,Injury
+20/11/2019,3:15:30,Chiang-Mai, 111cc - 125cc,54.94%,36-60,Injury
+25/09/2019,7:29:08,Chiang-Mai, 126cc - 150cc,3.91%,36-60,Injury
+12/9/2019,5:35:19,Chiang-Mai, 156cc - 300cc,0.19%,36-60,Injury
+21/02/2019,18:15:00,Chiang-Mai, 400cc - 1000cc,0.73%,36-60,Injury
+8/8/2019,14:30:40,Chiang-Mai,less-than-110cc,40.14%,36-60,Injury
+8/12/2019,17:12:30,Chiang-Mai,more-than-1000cc,0.06%,36-60,Injury
+14/05/2019,21:45:29,Bangkok, 111cc - 125cc,65.32%,36-60,Injury
+23/05/2019,18:11:13,Bangkok, 126cc - 150cc,12.04%,36-60,Injury
+1/11/2019,4:02:12,Bangkok, 156cc - 300cc,0.79%,36-60,Injury
+22/07/2019,4:40:36,Bangkok, 400cc - 1000cc,0.80%,36-60,Injury
+15/05/2019,18:28:44,Bangkok,less-than-110cc,20.69%,36-60,Injury
+23/08/2019,13:33:12,Bangkok,more-than-1000cc,0.07%,36-60,Injury
+17/06/2019,5:35:22,Kanchanaburi, 111cc - 125cc,52.67%,36-60,Injury
+22/04/2019,20:49:00,Kanchanaburi, 126cc - 150cc,2.82%,36-60,Injury
+14/02/2019,11:05:05,Kanchanaburi, 156cc - 300cc,0.15%,36-60,Injury
+19/04/2019,23:29:51,Kanchanaburi, 400cc - 1000cc,0.53%,36-60,Injury
+18/02/2019,20:59:10,Kanchanaburi,less-than-110cc,43.67%,36-60,Injury
+19/03/2019,17:58:10,Kanchanaburi,more-than-1000cc,0.08%,36-60,Injury
+21/04/2019,11:09:38,Chonburi, 111cc - 125cc,59.27%,36-60,Injury
+21/06/2019,0:00:03,Chonburi, 126cc - 150cc,6.44%,36-60,Injury
+24/05/2019,21:16:04,Chonburi, 156cc - 300cc,0.26%,36-60,Injury
+21/04/2019,9:39:32,Chonburi, 400cc - 1000cc,1.09%,36-60,Injury
+5/10/2019,19:52:07,Chonburi,less-than-110cc,25.28%,36-60,Injury
+9/9/2019,5:39:21,Chonburi,more-than-1000cc,0.11%,36-60,Injury
+29/03/2019,22:18:09,Nakhon-Ratchasima, 111cc - 125cc,56.42%,36-60,Injury
+3/6/2019,14:53:32,Nakhon-Ratchasima, 126cc - 150cc,3.19%,36-60,Injury
+30/04/2019,9:27:47,Nakhon-Ratchasima, 156cc - 300cc,0.15%,36-60,Injury
+2/11/2019,21:34:32,Nakhon-Ratchasima, 400cc - 1000cc,0.51%,36-60,Injury
+24/09/2019,16:32:55,Nakhon-Ratchasima,less-than-110cc,39.53%,36-60,Injury
+29/11/2019,1:59:20,Nakhon-Ratchasima,more-than-1000cc,0.04%,36-60,Injury
+22/07/2019,16:19:33,Surat-Thani, 111cc - 125cc,66.94%,36-60,Injury
+16/12/2019,19:36:36,Surat-Thani, 126cc - 150cc,3.05%,36-60,Injury
+6/2/2019,1:35:34,Surat-Thani, 156cc - 300cc,0.38%,36-60,Injury
+13/06/2019,7:51:51,Surat-Thani, 400cc - 1000cc,0.76%,36-60,Injury
+9/9/2019,5:37:14,Surat-Thani,less-than-110cc,28.61%,36-60,Injury
+27/08/2019,10:36:02,Surat-Thani,more-than-1000cc,0.25%,36-60,Injury
+8/12/2019,6:29:39,Chiang-Mai, 111cc - 125cc,48.45%,60++,Injury
+31/08/2019,16:24:51,Chiang-Mai, 126cc - 150cc,2.76%,60++,Injury
+15/10/2019,3:20:49,Chiang-Mai, 156cc - 300cc,0.00%,60++,Injury
+14/11/2019,7:24:13,Chiang-Mai, 400cc - 1000cc,0.12%,60++,Injury
+10/9/2019,20:51:37,Chiang-Mai,less-than-110cc,48.68%,60++,Injury
+22/09/2019,18:51:15,Chiang-Mai,more-than-1000cc,0.00%,60++,Injury
+27/04/2019,16:42:07,Bangkok, 111cc - 125cc,65.92%,60++,Injury
+28/01/2019,2:25:33,Bangkok, 126cc - 150cc,8.03%,60++,Injury
+27/08/2019,2:24:47,Bangkok, 156cc - 300cc,0.69%,60++,Injury
+1/2/2019,23:38:52,Bangkok, 400cc - 1000cc,0.58%,60++,Injury
+26/06/2019,21:56:33,Bangkok,less-than-110cc,24.57%,60++,Injury
+13/05/2019,12:26:53,Bangkok,more-than-1000cc,0.00%,60++,Injury
+30/07/2019,1:17:42,Kanchanaburi, 111cc - 125cc,45.82%,60++,Injury
+21/02/2019,2:18:47,Kanchanaburi, 126cc - 150cc,0.84%,60++,Injury
+23/05/2019,18:39:50,Kanchanaburi, 156cc - 300cc,0.63%,60++,Injury
+16/07/2019,4:53:44,Kanchanaburi, 400cc - 1000cc,0.42%,60++,Injury
+6/8/2019,15:11:44,Kanchanaburi,less-than-110cc,52.09%,60++,Injury
+5/8/2019,7:08:14,Kanchanaburi,more-than-1000cc,0.00%,60++,Injury
+27/11/2019,16:49:47,Chonburi, 111cc - 125cc,54.76%,60++,Injury
+24/05/2019,12:21:57,Chonburi, 126cc - 150cc,3.73%,60++,Injury
+2/7/2019,7:59:09,Chonburi, 156cc - 300cc,0.72%,60++,Injury
+3/2/2019,11:29:21,Chonburi, 400cc - 1000cc,0.52%,60++,Injury
+13/09/2019,13:07:34,Chonburi,less-than-110cc,34.06%,60++,Injury
+14/08/2019,17:17:34,Chonburi,more-than-1000cc,0.00%,60++,Injury
+27/07/2019,14:23:38,Nakhon-Ratchasima, 111cc - 125cc,50.36%,60++,Injury
+8/11/2019,2:18:51,Nakhon-Ratchasima, 126cc - 150cc,1.53%,60++,Injury
+13/08/2019,7:10:55,Nakhon-Ratchasima, 156cc - 300cc,0.15%,60++,Injury
+14/08/2019,0:32:31,Nakhon-Ratchasima, 400cc - 1000cc,0.29%,60++,Injury
+14/06/2019,12:17:00,Nakhon-Ratchasima,less-than-110cc,47.52%,60++,Injury
+15/09/2019,21:49:57,Nakhon-Ratchasima,more-than-1000cc,0.00%,60++,Injury
+23/02/2019,12:34:12,Surat-Thani, 111cc - 125cc,59.76%,60++,Injury
+5/12/2019,21:32:02,Surat-Thani, 126cc - 150cc,1.79%,60++,Injury
+21/08/2019,22:24:06,Surat-Thani, 156cc - 300cc,0.20%,60++,Injury
+2/2/2019,8:55:49,Surat-Thani, 400cc - 1000cc,0.00%,60++,Injury
+28/01/2019,7:20:35,Surat-Thani,less-than-110cc,37.85%,60++,Injury
+10/4/2019,10:14:48,Surat-Thani,more-than-1000cc,0.00%,60++,Injury
+23/03/2020,15:19:55,Chiang-Mai, 111cc - 125cc,57.14%,14-Jan,Dead
+29/06/2020,3:15:09,Chiang-Mai, 126cc - 150cc,0.00%,14-Jan,Dead
+30/07/2020,1:21:48,Chiang-Mai, 400cc - 1000cc,0.00%,14-Jan,Dead
+27/10/2020,7:21:43,Chiang-Mai,less-than-110cc,35.71%,14-Jan,Dead
+30/04/2020,17:57:19,Bangkok, 111cc - 125cc,73.68%,14-Jan,Dead
+2/11/2020,11:29:10,Bangkok, 126cc - 150cc,15.79%,14-Jan,Dead
+12/6/2020,12:52:38,Bangkok, 400cc - 1000cc,0.00%,14-Jan,Dead
+1/1/2020,9:43:55,Bangkok,less-than-110cc,10.53%,14-Jan,Dead
+12/4/2020,7:18:25,Bangkok,more-than-1000cc,0.00%,14-Jan,Dead
+7/4/2020,0:50:53,Kanchanaburi, 111cc - 125cc,33.33%,14-Jan,Dead
+8/3/2020,4:42:01,Kanchanaburi, 126cc - 150cc,0.00%,14-Jan,Dead
+22/01/2020,3:20:41,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Dead
+23/10/2020,9:03:54,Kanchanaburi,less-than-110cc,66.67%,14-Jan,Dead
+17/03/2020,20:09:14,Chonburi, 111cc - 125cc,56.25%,14-Jan,Dead
+4/10/2020,14:36:16,Chonburi, 126cc - 150cc,0.00%,14-Jan,Dead
+7/11/2020,1:16:50,Chonburi, 156cc - 300cc,0.00%,14-Jan,Dead
+17/12/2020,17:16:20,Chonburi,less-than-110cc,25.00%,14-Jan,Dead
+9/2/2020,16:33:07,Chonburi,more-than-1000cc,0.00%,14-Jan,Dead
+4/9/2020,4:39:47,Nakhon-Ratchasima, 111cc - 125cc,66.67%,14-Jan,Dead
+7/5/2020,14:25:57,Nakhon-Ratchasima, 126cc - 150cc,4.17%,14-Jan,Dead
+12/11/2020,2:36:20,Nakhon-Ratchasima,less-than-110cc,29.17%,14-Jan,Dead
+22/10/2020,14:17:01,Surat-Thani, 111cc - 125cc,57.14%,14-Jan,Dead
+13/11/2020,23:39:37,Surat-Thani, 126cc - 150cc,14.29%,14-Jan,Dead
+20/10/2020,11:22:25,Surat-Thani,less-than-110cc,28.57%,14-Jan,Dead
+3/8/2020,9:26:36,Chiang-Mai, 111cc - 125cc,58.01%,14-Jan,Injury
+24/02/2020,11:09:22,Chiang-Mai, 126cc - 150cc,4.33%,14-Jan,Injury
+21/08/2020,14:39:48,Chiang-Mai, 156cc - 300cc,0.00%,14-Jan,Injury
+4/8/2020,12:14:50,Chiang-Mai, 400cc - 1000cc,0.29%,14-Jan,Injury
+13/02/2020,14:21:27,Chiang-Mai,less-than-110cc,37.37%,14-Jan,Injury
+10/8/2020,13:29:26,Bangkok, 111cc - 125cc,64.72%,14-Jan,Injury
+8/4/2020,4:47:13,Bangkok, 126cc - 150cc,14.26%,14-Jan,Injury
+7/10/2020,7:46:29,Bangkok, 156cc - 300cc,1.32%,14-Jan,Injury
+12/2/2020,9:06:18,Bangkok, 400cc - 1000cc,0.75%,14-Jan,Injury
+24/04/2020,3:13:37,Bangkok,less-than-110cc,18.54%,14-Jan,Injury
+17/09/2020,17:11:32,Bangkok,more-than-1000cc,0.00%,14-Jan,Injury
+28/10/2020,10:38:42,Kanchanaburi, 111cc - 125cc,56.13%,14-Jan,Injury
+9/10/2020,23:40:40,Kanchanaburi, 126cc - 150cc,2.83%,14-Jan,Injury
+29/04/2020,9:26:25,Kanchanaburi, 156cc - 300cc,0.24%,14-Jan,Injury
+13/06/2020,3:49:26,Kanchanaburi, 400cc - 1000cc,0.47%,14-Jan,Injury
+1/4/2020,21:32:21,Kanchanaburi,less-than-110cc,40.33%,14-Jan,Injury
+17/03/2020,1:37:19,Chonburi, 111cc - 125cc,62.09%,14-Jan,Injury
+10/4/2020,1:33:52,Chonburi, 126cc - 150cc,7.07%,14-Jan,Injury
+29/08/2020,18:03:47,Chonburi, 156cc - 300cc,0.21%,14-Jan,Injury
+25/06/2020,4:08:28,Chonburi, 400cc - 1000cc,0.32%,14-Jan,Injury
+19/07/2020,17:10:15,Chonburi,less-than-110cc,22.91%,14-Jan,Injury
+16/06/2020,9:42:32,Chonburi,more-than-1000cc,0.21%,14-Jan,Injury
+14/05/2020,7:00:25,Nakhon-Ratchasima, 111cc - 125cc,59.11%,14-Jan,Injury
+22/01/2020,4:06:49,Nakhon-Ratchasima, 126cc - 150cc,2.52%,14-Jan,Injury
+24/06/2020,15:06:33,Nakhon-Ratchasima, 156cc - 300cc,0.18%,14-Jan,Injury
+6/7/2020,5:31:11,Nakhon-Ratchasima, 400cc - 1000cc,0.06%,14-Jan,Injury
+10/3/2020,17:27:03,Nakhon-Ratchasima,less-than-110cc,38.05%,14-Jan,Injury
+1/5/2020,14:21:32,Surat-Thani, 111cc - 125cc,71.95%,14-Jan,Injury
+1/2/2020,10:01:44,Surat-Thani, 126cc - 150cc,3.44%,14-Jan,Injury
+21/07/2020,0:50:33,Surat-Thani, 156cc - 300cc,0.19%,14-Jan,Injury
+5/2/2020,0:16:25,Surat-Thani, 400cc - 1000cc,0.38%,14-Jan,Injury
+22/01/2020,15:39:33,Surat-Thani,less-than-110cc,24.05%,14-Jan,Injury
+21/07/2020,23:43:16,Surat-Thani,more-than-1000cc,0.00%,14-Jan,Injury
+3/6/2020,16:11:47,Chiang-Mai, 111cc - 125cc,44.44%,15-19,Dead
+4/3/2020,3:00:04,Chiang-Mai, 126cc - 150cc,11.11%,15-19,Dead
+21/02/2020,4:27:49,Chiang-Mai, 156cc - 300cc,0.00%,15-19,Dead
+3/6/2020,1:23:52,Chiang-Mai, 400cc - 1000cc,0.00%,15-19,Dead
+3/3/2020,16:10:13,Chiang-Mai,less-than-110cc,44.44%,15-19,Dead
+9/3/2020,1:13:32,Bangkok, 111cc - 125cc,67.44%,15-19,Dead
+20/10/2020,9:16:46,Bangkok, 126cc - 150cc,23.26%,15-19,Dead
+18/01/2020,13:43:41,Bangkok, 156cc - 300cc,0.00%,15-19,Dead
+9/10/2020,20:36:54,Bangkok, 400cc - 1000cc,0.00%,15-19,Dead
+4/9/2020,4:42:55,Bangkok,less-than-110cc,9.30%,15-19,Dead
+3/5/2020,11:20:49,Kanchanaburi, 111cc - 125cc,87.50%,15-19,Dead
+18/11/2020,9:25:38,Kanchanaburi, 126cc - 150cc,0.00%,15-19,Dead
+20/05/2020,14:54:09,Kanchanaburi,less-than-110cc,12.50%,15-19,Dead
+14/04/2020,1:19:19,Chonburi, 111cc - 125cc,68.97%,15-19,Dead
+5/11/2020,8:15:41,Chonburi, 126cc - 150cc,10.34%,15-19,Dead
+1/10/2020,9:28:48,Chonburi, 400cc - 1000cc,0.00%,15-19,Dead
+8/10/2020,5:26:48,Chonburi,less-than-110cc,10.34%,15-19,Dead
+7/11/2020,0:23:12,Nakhon-Ratchasima, 111cc - 125cc,67.44%,15-19,Dead
+24/04/2020,8:11:10,Nakhon-Ratchasima, 126cc - 150cc,9.30%,15-19,Dead
+12/1/2020,22:04:28,Nakhon-Ratchasima, 156cc - 300cc,2.33%,15-19,Dead
+15/01/2020,18:47:13,Nakhon-Ratchasima,less-than-110cc,20.93%,15-19,Dead
+24/10/2020,2:29:01,Surat-Thani, 111cc - 125cc,87.50%,15-19,Dead
+17/12/2020,11:22:41,Surat-Thani,less-than-110cc,12.50%,15-19,Dead
+5/2/2020,15:15:38,Chiang-Mai, 111cc - 125cc,60.53%,15-19,Injury
+14/08/2020,12:16:34,Chiang-Mai, 126cc - 150cc,8.07%,15-19,Injury
+29/06/2020,0:48:25,Chiang-Mai, 156cc - 300cc,0.38%,15-19,Injury
+26/06/2020,21:11:37,Chiang-Mai, 400cc - 1000cc,0.19%,15-19,Injury
+13/03/2020,8:37:21,Chiang-Mai,less-than-110cc,30.83%,15-19,Injury
+13/06/2020,22:19:29,Bangkok, 111cc - 125cc,61.21%,15-19,Injury
+26/02/2020,12:11:05,Bangkok, 126cc - 150cc,21.45%,15-19,Injury
+13/03/2020,5:27:14,Bangkok, 156cc - 300cc,0.69%,15-19,Injury
+27/07/2020,3:05:59,Bangkok, 400cc - 1000cc,0.35%,15-19,Injury
+10/11/2020,7:06:39,Bangkok,less-than-110cc,16.09%,15-19,Injury
+1/3/2020,4:08:04,Bangkok,more-than-1000cc,0.00%,15-19,Injury
+30/03/2020,22:38:22,Kanchanaburi, 111cc - 125cc,59.01%,15-19,Injury
+27/06/2020,17:14:40,Kanchanaburi, 126cc - 150cc,3.77%,15-19,Injury
+10/9/2020,0:19:20,Kanchanaburi, 156cc - 300cc,0.17%,15-19,Injury
+29/03/2020,2:16:29,Kanchanaburi, 400cc - 1000cc,0.34%,15-19,Injury
+6/2/2020,6:07:32,Kanchanaburi,less-than-110cc,36.54%,15-19,Injury
+31/05/2020,2:51:24,Chonburi, 111cc - 125cc,57.59%,15-19,Injury
+30/05/2020,20:10:56,Chonburi, 126cc - 150cc,9.11%,15-19,Injury
+23/06/2020,4:22:50,Chonburi, 156cc - 300cc,0.78%,15-19,Injury
+27/12/2020,4:11:17,Chonburi, 400cc - 1000cc,0.86%,15-19,Injury
+19/11/2020,11:35:20,Chonburi,less-than-110cc,21.56%,15-19,Injury
+6/1/2020,4:05:53,Chonburi,more-than-1000cc,0.08%,15-19,Injury
+22/04/2020,0:13:41,Nakhon-Ratchasima, 111cc - 125cc,62.52%,15-19,Injury
+1/8/2020,3:59:48,Nakhon-Ratchasima, 126cc - 150cc,5.56%,15-19,Injury
+30/10/2020,1:00:26,Nakhon-Ratchasima, 156cc - 300cc,0.04%,15-19,Injury
+25/09/2020,2:39:16,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,15-19,Injury
+13/08/2020,14:43:14,Nakhon-Ratchasima,less-than-110cc,31.75%,15-19,Injury
+18/01/2020,16:10:49,Surat-Thani, 111cc - 125cc,69.53%,15-19,Injury
+14/09/2020,6:20:13,Surat-Thani, 126cc - 150cc,5.21%,15-19,Injury
+27/05/2020,16:04:57,Surat-Thani, 156cc - 300cc,0.61%,15-19,Injury
+12/7/2020,15:54:39,Surat-Thani, 400cc - 1000cc,0.31%,15-19,Injury
+16/04/2020,14:59:27,Surat-Thani,less-than-110cc,23.89%,15-19,Injury
+19/02/2020,12:54:27,Surat-Thani,more-than-1000cc,0.00%,15-19,Injury
+24/08/2020,1:46:48,Chiang-Mai, 111cc - 125cc,52.86%,19-24,Dead
+5/10/2020,23:33:32,Chiang-Mai, 126cc - 150cc,14.29%,19-24,Dead
+25/12/2020,4:14:08,Chiang-Mai, 156cc - 300cc,4.29%,19-24,Dead
+15/01/2020,1:09:49,Chiang-Mai, 400cc - 1000cc,2.86%,19-24,Dead
+14/04/2020,13:55:05,Chiang-Mai,less-than-110cc,24.29%,19-24,Dead
+21/05/2020,12:21:15,Bangkok, 111cc - 125cc,46.67%,19-24,Dead
+19/09/2020,14:51:47,Bangkok, 126cc - 150cc,30.48%,19-24,Dead
+14/04/2020,20:12:01,Bangkok, 156cc - 300cc,4.76%,19-24,Dead
+2/10/2020,9:33:20,Bangkok, 400cc - 1000cc,5.71%,19-24,Dead
+18/10/2020,21:50:56,Bangkok,less-than-110cc,11.43%,19-24,Dead
+12/6/2020,1:04:09,Bangkok,more-than-1000cc,0.95%,19-24,Dead
+18/04/2020,11:29:27,Kanchanaburi, 111cc - 125cc,64.71%,19-24,Dead
+17/07/2020,14:45:05,Kanchanaburi, 126cc - 150cc,11.76%,19-24,Dead
+23/09/2020,6:06:24,Kanchanaburi, 156cc - 300cc,5.88%,19-24,Dead
+15/12/2020,19:07:46,Kanchanaburi, 400cc - 1000cc,0.00%,19-24,Dead
+25/07/2020,11:34:25,Kanchanaburi,less-than-110cc,17.65%,19-24,Dead
+13/01/2020,2:11:56,Chonburi, 111cc - 125cc,54.69%,19-24,Dead
+30/08/2020,6:59:34,Chonburi, 126cc - 150cc,18.75%,19-24,Dead
+14/05/2020,0:45:03,Chonburi, 156cc - 300cc,3.13%,19-24,Dead
+19/01/2020,23:25:03,Chonburi, 400cc - 1000cc,3.13%,19-24,Dead
+7/3/2020,20:31:35,Chonburi,less-than-110cc,10.94%,19-24,Dead
+17/11/2020,4:52:00,Chonburi,more-than-1000cc,0.00%,19-24,Dead
+30/06/2020,17:42:13,Nakhon-Ratchasima, 111cc - 125cc,60.81%,19-24,Dead
+18/12/2020,16:31:51,Nakhon-Ratchasima, 126cc - 150cc,14.86%,19-24,Dead
+27/01/2020,17:23:45,Nakhon-Ratchasima, 156cc - 300cc,2.70%,19-24,Dead
+15/11/2020,12:42:00,Nakhon-Ratchasima, 400cc - 1000cc,1.35%,19-24,Dead
+11/8/2020,6:03:16,Nakhon-Ratchasima,less-than-110cc,20.27%,19-24,Dead
+28/10/2020,2:31:17,Nakhon-Ratchasima,more-than-1000cc,0.00%,19-24,Dead
+17/12/2020,1:03:31,Surat-Thani, 111cc - 125cc,71.43%,19-24,Dead
+23/07/2020,5:50:30,Surat-Thani, 126cc - 150cc,0.00%,19-24,Dead
+28/04/2020,8:00:57,Surat-Thani, 156cc - 300cc,7.14%,19-24,Dead
+18/10/2020,20:50:09,Surat-Thani, 400cc - 1000cc,7.14%,19-24,Dead
+30/12/2020,17:59:50,Surat-Thani,less-than-110cc,14.29%,19-24,Dead
+19/09/2020,12:55:53,Chiang-Mai, 111cc - 125cc,59.39%,19-24,Injury
+23/10/2020,15:53:45,Chiang-Mai, 126cc - 150cc,8.65%,19-24,Injury
+16/01/2020,15:28:06,Chiang-Mai, 156cc - 300cc,0.48%,19-24,Injury
+26/07/2020,4:39:14,Chiang-Mai, 400cc - 1000cc,0.80%,19-24,Injury
+16/02/2020,21:10:56,Chiang-Mai,less-than-110cc,30.54%,19-24,Injury
+5/2/2020,16:19:43,Chiang-Mai,more-than-1000cc,0.03%,19-24,Injury
+8/2/2020,10:07:31,Bangkok, 111cc - 125cc,56.08%,19-24,Injury
+8/3/2020,14:46:23,Bangkok, 126cc - 150cc,26.43%,19-24,Injury
+30/05/2020,15:23:41,Bangkok, 156cc - 300cc,2.16%,19-24,Injury
+26/10/2020,20:05:11,Bangkok, 400cc - 1000cc,1.86%,19-24,Injury
+12/5/2020,13:37:26,Bangkok,less-than-110cc,13.14%,19-24,Injury
+21/05/2020,9:39:22,Bangkok,more-than-1000cc,0.07%,19-24,Injury
+11/2/2020,3:03:55,Kanchanaburi, 111cc - 125cc,59.60%,19-24,Injury
+24/08/2020,16:25:17,Kanchanaburi, 126cc - 150cc,8.67%,19-24,Injury
+31/08/2020,2:49:21,Kanchanaburi, 156cc - 300cc,1.08%,19-24,Injury
+2/3/2020,9:05:03,Kanchanaburi, 400cc - 1000cc,1.39%,19-24,Injury
+21/08/2020,22:59:27,Kanchanaburi,less-than-110cc,29.10%,19-24,Injury
+25/01/2020,16:55:27,Chonburi, 111cc - 125cc,55.72%,19-24,Injury
+2/12/2020,10:37:10,Chonburi, 126cc - 150cc,15.81%,19-24,Injury
+15/08/2020,10:13:46,Chonburi, 156cc - 300cc,0.93%,19-24,Injury
+9/2/2020,6:51:42,Chonburi, 400cc - 1000cc,1.66%,19-24,Injury
+17/01/2020,17:31:21,Chonburi,less-than-110cc,17.26%,19-24,Injury
+9/5/2020,20:09:28,Chonburi,more-than-1000cc,0.03%,19-24,Injury
+17/01/2020,17:20:31,Nakhon-Ratchasima, 111cc - 125cc,60.85%,19-24,Injury
+27/05/2020,5:46:53,Nakhon-Ratchasima, 126cc - 150cc,10.85%,19-24,Injury
+25/07/2020,0:48:40,Nakhon-Ratchasima, 156cc - 300cc,0.48%,19-24,Injury
+21/12/2020,16:04:05,Nakhon-Ratchasima, 400cc - 1000cc,0.59%,19-24,Injury
+23/11/2020,15:44:17,Nakhon-Ratchasima,less-than-110cc,26.99%,19-24,Injury
+8/12/2020,4:42:27,Surat-Thani, 111cc - 125cc,68.45%,19-24,Injury
+24/07/2020,7:04:33,Surat-Thani, 126cc - 150cc,7.80%,19-24,Injury
+24/02/2020,22:23:03,Surat-Thani, 156cc - 300cc,0.58%,19-24,Injury
+14/07/2020,1:12:44,Surat-Thani, 400cc - 1000cc,1.28%,19-24,Injury
+30/05/2020,20:55:24,Surat-Thani,less-than-110cc,21.77%,19-24,Injury
+10/12/2020,21:39:21,Surat-Thani,more-than-1000cc,0.12%,19-24,Injury
+2/2/2020,13:50:26,Chiang-Mai, 111cc - 125cc,62.16%,25-35,Dead
+22/03/2020,13:41:54,Chiang-Mai, 126cc - 150cc,8.11%,25-35,Dead
+15/12/2020,3:50:40,Chiang-Mai, 156cc - 300cc,1.35%,25-35,Dead
+20/04/2020,23:44:20,Chiang-Mai, 400cc - 1000cc,4.05%,25-35,Dead
+25/07/2020,12:04:20,Chiang-Mai,less-than-110cc,24.32%,25-35,Dead
+4/2/2020,14:15:34,Chiang-Mai,more-than-1000cc,0.00%,25-35,Dead
+6/7/2020,20:19:36,Bangkok, 111cc - 125cc,49.68%,25-35,Dead
+9/8/2020,11:35:11,Bangkok, 126cc - 150cc,26.45%,25-35,Dead
+11/11/2020,16:09:50,Bangkok, 156cc - 300cc,5.16%,25-35,Dead
+10/4/2020,22:09:04,Bangkok, 400cc - 1000cc,8.39%,25-35,Dead
+15/03/2020,4:18:52,Bangkok,less-than-110cc,9.03%,25-35,Dead
+5/11/2020,6:31:00,Bangkok,more-than-1000cc,0.65%,25-35,Dead
+23/06/2020,9:28:45,Kanchanaburi, 111cc - 125cc,53.85%,25-35,Dead
+27/02/2020,13:47:04,Kanchanaburi, 126cc - 150cc,0.00%,25-35,Dead
+27/09/2020,20:55:54,Kanchanaburi, 156cc - 300cc,0.00%,25-35,Dead
+23/03/2020,21:50:23,Kanchanaburi, 400cc - 1000cc,0.00%,25-35,Dead
+18/03/2020,3:14:18,Kanchanaburi,less-than-110cc,46.15%,25-35,Dead
+27/03/2020,12:45:08,Kanchanaburi,more-than-1000cc,0.00%,25-35,Dead
+7/3/2020,5:36:11,Chonburi, 111cc - 125cc,46.58%,25-35,Dead
+27/04/2020,20:24:15,Chonburi, 126cc - 150cc,12.33%,25-35,Dead
+20/09/2020,1:39:05,Chonburi, 156cc - 300cc,4.11%,25-35,Dead
+30/11/2020,12:01:13,Chonburi, 400cc - 1000cc,5.48%,25-35,Dead
+19/01/2020,17:27:47,Chonburi,less-than-110cc,20.55%,25-35,Dead
+27/10/2020,20:23:51,Chonburi,more-than-1000cc,0.00%,25-35,Dead
+28/09/2020,15:39:15,Nakhon-Ratchasima, 111cc - 125cc,65.57%,25-35,Dead
+4/10/2020,8:45:50,Nakhon-Ratchasima, 126cc - 150cc,8.20%,25-35,Dead
+31/10/2020,8:20:52,Nakhon-Ratchasima, 156cc - 300cc,0.00%,25-35,Dead
+15/12/2020,12:19:38,Nakhon-Ratchasima, 400cc - 1000cc,4.92%,25-35,Dead
+22/12/2020,23:36:26,Nakhon-Ratchasima,less-than-110cc,21.31%,25-35,Dead
+25/07/2020,17:18:22,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Dead
+5/3/2020,13:16:41,Surat-Thani, 111cc - 125cc,64.71%,25-35,Dead
+30/05/2020,5:03:37,Surat-Thani, 126cc - 150cc,5.88%,25-35,Dead
+29/05/2020,10:11:13,Surat-Thani, 156cc - 300cc,0.00%,25-35,Dead
+12/10/2020,17:02:46,Surat-Thani, 400cc - 1000cc,0.00%,25-35,Dead
+30/06/2020,18:29:48,Surat-Thani,less-than-110cc,29.41%,25-35,Dead
+22/01/2020,13:49:08,Surat-Thani,more-than-1000cc,0.00%,25-35,Dead
+3/6/2020,5:25:05,Chiang-Mai, 111cc - 125cc,57.48%,25-35,Injury
+16/05/2020,9:53:19,Chiang-Mai, 126cc - 150cc,9.80%,25-35,Injury
+2/2/2020,1:02:47,Chiang-Mai, 156cc - 300cc,0.71%,25-35,Injury
+20/04/2020,0:19:51,Chiang-Mai, 400cc - 1000cc,1.50%,25-35,Injury
+16/02/2020,14:41:12,Chiang-Mai,less-than-110cc,30.38%,25-35,Injury
+16/06/2020,13:16:41,Chiang-Mai,more-than-1000cc,0.08%,25-35,Injury
+31/07/2020,19:59:39,Bangkok, 111cc - 125cc,59.28%,25-35,Injury
+19/06/2020,8:37:23,Bangkok, 126cc - 150cc,21.85%,25-35,Injury
+4/7/2020,19:17:03,Bangkok, 156cc - 300cc,2.58%,25-35,Injury
+13/03/2020,4:09:59,Bangkok, 400cc - 1000cc,2.34%,25-35,Injury
+19/06/2020,19:29:17,Bangkok,less-than-110cc,13.58%,25-35,Injury
+21/02/2020,18:01:55,Bangkok,more-than-1000cc,0.09%,25-35,Injury
+11/10/2020,16:18:44,Kanchanaburi, 111cc - 125cc,56.55%,25-35,Injury
+20/06/2020,12:35:54,Kanchanaburi, 126cc - 150cc,7.05%,25-35,Injury
+25/11/2020,14:07:38,Kanchanaburi, 156cc - 300cc,2.01%,25-35,Injury
+20/02/2020,9:04:09,Kanchanaburi, 400cc - 1000cc,2.16%,25-35,Injury
+12/7/2020,15:46:12,Kanchanaburi,less-than-110cc,32.09%,25-35,Injury
+29/04/2020,13:17:02,Kanchanaburi,more-than-1000cc,0.14%,25-35,Injury
+17/09/2020,7:45:35,Chonburi, 111cc - 125cc,57.07%,25-35,Injury
+7/11/2020,15:15:56,Chonburi, 126cc - 150cc,12.40%,25-35,Injury
+31/12/2020,9:53:51,Chonburi, 156cc - 300cc,1.17%,25-35,Injury
+11/7/2020,2:37:53,Chonburi, 400cc - 1000cc,2.57%,25-35,Injury
+2/3/2020,8:33:58,Chonburi,less-than-110cc,18.05%,25-35,Injury
+10/1/2020,12:50:12,Chonburi,more-than-1000cc,0.02%,25-35,Injury
+2/4/2020,3:18:19,Nakhon-Ratchasima, 111cc - 125cc,58.02%,25-35,Injury
+22/01/2020,11:41:39,Nakhon-Ratchasima, 126cc - 150cc,8.40%,25-35,Injury
+31/03/2020,19:54:07,Nakhon-Ratchasima, 156cc - 300cc,1.27%,25-35,Injury
+21/02/2020,8:40:55,Nakhon-Ratchasima, 400cc - 1000cc,1.49%,25-35,Injury
+4/12/2020,0:28:44,Nakhon-Ratchasima,less-than-110cc,30.56%,25-35,Injury
+31/07/2020,6:50:22,Nakhon-Ratchasima,more-than-1000cc,0.07%,25-35,Injury
+8/12/2020,9:00:40,Surat-Thani, 111cc - 125cc,64.39%,25-35,Injury
+5/11/2020,3:49:37,Surat-Thani, 126cc - 150cc,7.08%,25-35,Injury
+6/12/2020,18:10:25,Surat-Thani, 156cc - 300cc,1.06%,25-35,Injury
+4/11/2020,4:49:53,Surat-Thani, 400cc - 1000cc,1.42%,25-35,Injury
+8/10/2020,7:15:34,Surat-Thani,less-than-110cc,25.94%,25-35,Injury
+10/7/2020,7:28:41,Surat-Thani,more-than-1000cc,0.12%,25-35,Injury
+12/10/2020,7:39:50,Chiang-Mai, 111cc - 125cc,46.48%,36-60,Dead
+28/07/2020,21:06:26,Chiang-Mai, 126cc - 150cc,7.04%,36-60,Dead
+8/3/2020,5:01:41,Chiang-Mai, 156cc - 300cc,0.00%,36-60,Dead
+4/11/2020,17:39:39,Chiang-Mai, 400cc - 1000cc,1.41%,36-60,Dead
+22/12/2020,13:05:37,Chiang-Mai,less-than-110cc,45.07%,36-60,Dead
+22/10/2020,3:51:30,Chiang-Mai,more-than-1000cc,0.00%,36-60,Dead
+25/07/2020,19:23:02,Bangkok, 111cc - 125cc,63.21%,36-60,Dead
+19/10/2020,7:29:36,Bangkok, 126cc - 150cc,13.47%,36-60,Dead
+11/6/2020,5:17:07,Bangkok, 156cc - 300cc,2.59%,36-60,Dead
+3/6/2020,7:13:17,Bangkok, 400cc - 1000cc,3.63%,36-60,Dead
+6/9/2020,14:51:46,Bangkok,less-than-110cc,16.58%,36-60,Dead
+20/04/2020,10:26:03,Bangkok,more-than-1000cc,0.00%,36-60,Dead
+12/9/2020,22:16:33,Kanchanaburi, 111cc - 125cc,58.14%,36-60,Dead
+28/09/2020,17:00:06,Kanchanaburi, 126cc - 150cc,0.00%,36-60,Dead
+29/08/2020,21:29:15,Kanchanaburi, 156cc - 300cc,0.00%,36-60,Dead
+25/12/2020,5:26:55,Kanchanaburi, 400cc - 1000cc,2.33%,36-60,Dead
+19/01/2020,16:10:16,Kanchanaburi,less-than-110cc,39.53%,36-60,Dead
+23/01/2020,1:58:41,Chonburi, 111cc - 125cc,60.95%,36-60,Dead
+16/04/2020,11:42:50,Chonburi, 126cc - 150cc,4.76%,36-60,Dead
+31/05/2020,9:07:22,Chonburi, 156cc - 300cc,1.90%,36-60,Dead
+9/6/2020,18:54:45,Chonburi, 400cc - 1000cc,2.86%,36-60,Dead
+11/8/2020,3:07:23,Chonburi,less-than-110cc,21.90%,36-60,Dead
+14/12/2020,0:37:49,Chonburi,more-than-1000cc,0.00%,36-60,Dead
+24/02/2020,5:27:32,Nakhon-Ratchasima, 111cc - 125cc,61.96%,36-60,Dead
+20/10/2020,14:35:17,Nakhon-Ratchasima, 126cc - 150cc,3.26%,36-60,Dead
+15/09/2020,2:03:06,Nakhon-Ratchasima, 156cc - 300cc,0.00%,36-60,Dead
+13/03/2020,11:40:38,Nakhon-Ratchasima, 400cc - 1000cc,4.35%,36-60,Dead
+15/06/2020,22:44:38,Nakhon-Ratchasima,less-than-110cc,30.43%,36-60,Dead
+8/3/2020,12:50:43,Nakhon-Ratchasima,more-than-1000cc,0.00%,36-60,Dead
+9/6/2020,21:41:11,Surat-Thani, 111cc - 125cc,60.53%,36-60,Dead
+2/4/2020,22:11:23,Surat-Thani, 126cc - 150cc,7.89%,36-60,Dead
+10/3/2020,11:45:44,Surat-Thani, 156cc - 300cc,0.00%,36-60,Dead
+25/09/2020,17:30:02,Surat-Thani, 400cc - 1000cc,0.00%,36-60,Dead
+24/08/2020,0:37:58,Surat-Thani,less-than-110cc,31.58%,36-60,Dead
+17/01/2020,7:11:45,Chiang-Mai, 111cc - 125cc,54.15%,36-60,Injury
+2/5/2020,7:59:34,Chiang-Mai, 126cc - 150cc,4.81%,36-60,Injury
+3/1/2020,12:03:54,Chiang-Mai, 156cc - 300cc,0.29%,36-60,Injury
+4/8/2020,11:32:29,Chiang-Mai, 400cc - 1000cc,0.58%,36-60,Injury
+21/02/2020,12:39:22,Chiang-Mai,less-than-110cc,40.10%,36-60,Injury
+4/9/2020,3:52:41,Chiang-Mai,more-than-1000cc,0.08%,36-60,Injury
+3/10/2020,9:23:31,Bangkok, 111cc - 125cc,65.61%,36-60,Injury
+5/8/2020,13:00:40,Bangkok, 126cc - 150cc,13.07%,36-60,Injury
+4/8/2020,13:28:47,Bangkok, 156cc - 300cc,1.12%,36-60,Injury
+30/10/2020,7:26:45,Bangkok, 400cc - 1000cc,0.85%,36-60,Injury
+3/7/2020,18:06:51,Bangkok,less-than-110cc,19.03%,36-60,Injury
+1/10/2020,7:48:01,Bangkok,more-than-1000cc,0.08%,36-60,Injury
+10/6/2020,22:46:24,Kanchanaburi, 111cc - 125cc,49.26%,36-60,Injury
+8/11/2020,15:20:50,Kanchanaburi, 126cc - 150cc,2.90%,36-60,Injury
+13/02/2020,19:08:46,Kanchanaburi, 156cc - 300cc,0.52%,36-60,Injury
+14/11/2020,18:02:00,Kanchanaburi, 400cc - 1000cc,0.45%,36-60,Injury
+20/12/2020,5:29:33,Kanchanaburi,less-than-110cc,46.66%,36-60,Injury
+21/01/2020,9:43:38,Kanchanaburi,more-than-1000cc,0.15%,36-60,Injury
+28/07/2020,2:53:25,Chonburi, 111cc - 125cc,59.79%,36-60,Injury
+4/12/2020,12:43:41,Chonburi, 126cc - 150cc,6.47%,36-60,Injury
+29/03/2020,21:01:48,Chonburi, 156cc - 300cc,0.54%,36-60,Injury
+1/10/2020,6:54:02,Chonburi, 400cc - 1000cc,1.10%,36-60,Injury
+24/08/2020,13:50:35,Chonburi,less-than-110cc,24.97%,36-60,Injury
+9/11/2020,22:45:24,Chonburi,more-than-1000cc,0.17%,36-60,Injury
+23/04/2020,17:41:09,Nakhon-Ratchasima, 111cc - 125cc,54.67%,36-60,Injury
+21/05/2020,7:26:50,Nakhon-Ratchasima, 126cc - 150cc,4.28%,36-60,Injury
+29/11/2020,9:26:12,Nakhon-Ratchasima, 156cc - 300cc,0.28%,36-60,Injury
+14/05/2020,15:04:34,Nakhon-Ratchasima, 400cc - 1000cc,0.42%,36-60,Injury
+10/9/2020,16:37:13,Nakhon-Ratchasima,less-than-110cc,40.25%,36-60,Injury
+27/04/2020,22:47:49,Nakhon-Ratchasima,more-than-1000cc,0.00%,36-60,Injury
+25/10/2020,21:00:14,Surat-Thani, 111cc - 125cc,65.96%,36-60,Injury
+29/09/2020,19:27:55,Surat-Thani, 126cc - 150cc,3.55%,36-60,Injury
+19/05/2020,2:20:41,Surat-Thani, 156cc - 300cc,0.30%,36-60,Injury
+28/04/2020,19:32:37,Surat-Thani, 400cc - 1000cc,0.41%,36-60,Injury
+11/3/2020,15:33:35,Surat-Thani,less-than-110cc,29.54%,36-60,Injury
+8/2/2020,13:27:13,Surat-Thani,more-than-1000cc,0.06%,36-60,Injury
+3/4/2020,7:08:21,Chiang-Mai, 111cc - 125cc,43.18%,60++,Dead
+6/6/2020,6:39:13,Chiang-Mai, 126cc - 150cc,2.27%,60++,Dead
+10/4/2020,12:13:00,Chiang-Mai, 156cc - 300cc,0.00%,60++,Dead
+1/1/2020,16:41:59,Chiang-Mai, 400cc - 1000cc,2.27%,60++,Dead
+25/01/2020,15:25:53,Chiang-Mai,less-than-110cc,52.27%,60++,Dead
+7/11/2020,13:50:54,Bangkok, 111cc - 125cc,58.62%,60++,Dead
+1/3/2020,0:54:09,Bangkok, 126cc - 150cc,22.41%,60++,Dead
+17/01/2020,0:09:17,Bangkok, 156cc - 300cc,0.00%,60++,Dead
+13/04/2020,8:41:22,Bangkok, 400cc - 1000cc,3.45%,60++,Dead
+4/5/2020,18:02:22,Bangkok,less-than-110cc,15.52%,60++,Dead
+19/09/2020,17:32:13,Bangkok,more-than-1000cc,0.00%,60++,Dead
+6/6/2020,5:04:16,Kanchanaburi, 111cc - 125cc,28.00%,60++,Dead
+7/7/2020,4:25:54,Kanchanaburi, 156cc - 300cc,0.00%,60++,Dead
+14/06/2020,0:39:10,Kanchanaburi,less-than-110cc,68.00%,60++,Dead
+31/05/2020,14:45:15,Chonburi, 111cc - 125cc,30.30%,60++,Dead
+12/11/2020,20:54:38,Chonburi, 126cc - 150cc,6.06%,60++,Dead
+3/3/2020,21:22:21,Chonburi, 156cc - 300cc,3.03%,60++,Dead
+20/04/2020,22:55:01,Chonburi, 400cc - 1000cc,0.00%,60++,Dead
+4/1/2020,11:49:53,Chonburi,less-than-110cc,54.55%,60++,Dead
+21/11/2020,14:04:32,Chonburi,more-than-1000cc,0.00%,60++,Dead
+16/09/2020,8:03:10,Nakhon-Ratchasima, 111cc - 125cc,64.29%,60++,Dead
+11/7/2020,23:15:26,Nakhon-Ratchasima, 126cc - 150cc,1.79%,60++,Dead
+14/07/2020,1:19:10,Nakhon-Ratchasima, 156cc - 300cc,0.00%,60++,Dead
+30/12/2020,9:59:27,Nakhon-Ratchasima, 400cc - 1000cc,3.57%,60++,Dead
+16/10/2020,3:09:21,Nakhon-Ratchasima,less-than-110cc,30.36%,60++,Dead
+21/06/2020,21:49:18,Surat-Thani, 111cc - 125cc,60.71%,60++,Dead
+6/4/2020,13:25:02,Surat-Thani, 126cc - 150cc,0.00%,60++,Dead
+1/10/2020,13:34:22,Surat-Thani, 400cc - 1000cc,3.57%,60++,Dead
+6/4/2020,18:24:31,Surat-Thani,less-than-110cc,35.71%,60++,Dead
+7/10/2020,17:33:49,Chiang-Mai, 111cc - 125cc,47.00%,60++,Injury
+9/4/2020,0:21:54,Chiang-Mai, 126cc - 150cc,1.98%,60++,Injury
+18/07/2020,13:39:56,Chiang-Mai, 156cc - 300cc,0.06%,60++,Injury
+11/9/2020,4:02:19,Chiang-Mai, 400cc - 1000cc,0.31%,60++,Injury
+9/2/2020,12:24:10,Chiang-Mai,less-than-110cc,50.59%,60++,Injury
+7/11/2020,9:51:37,Chiang-Mai,more-than-1000cc,0.06%,60++,Injury
+30/08/2020,21:54:54,Bangkok, 111cc - 125cc,64.76%,60++,Injury
+8/5/2020,21:30:25,Bangkok, 126cc - 150cc,9.07%,60++,Injury
+10/1/2020,20:53:15,Bangkok, 156cc - 300cc,0.58%,60++,Injury
+5/1/2020,0:05:11,Bangkok, 400cc - 1000cc,0.55%,60++,Injury
+26/11/2020,10:07:54,Bangkok,less-than-110cc,24.86%,60++,Injury
+6/2/2020,9:32:12,Bangkok,more-than-1000cc,0.03%,60++,Injury
+14/03/2020,16:01:30,Kanchanaburi, 111cc - 125cc,46.63%,60++,Injury
+7/3/2020,4:27:55,Kanchanaburi, 126cc - 150cc,1.46%,60++,Injury
+10/12/2020,6:18:17,Kanchanaburi, 156cc - 300cc,0.00%,60++,Injury
+20/08/2020,23:55:34,Kanchanaburi, 400cc - 1000cc,0.18%,60++,Injury
+4/3/2020,19:32:20,Kanchanaburi,less-than-110cc,51.55%,60++,Injury
+10/11/2020,1:43:17,Kanchanaburi,more-than-1000cc,0.00%,60++,Injury
+14/10/2020,20:58:03,Chonburi, 111cc - 125cc,57.86%,60++,Injury
+5/1/2020,4:28:17,Chonburi, 126cc - 150cc,6.10%,60++,Injury
+20/01/2020,7:10:44,Chonburi, 156cc - 300cc,0.32%,60++,Injury
+19/04/2020,16:09:31,Chonburi, 400cc - 1000cc,0.75%,60++,Injury
+28/07/2020,0:11:35,Chonburi,less-than-110cc,29.84%,60++,Injury
+10/11/2020,16:43:19,Chonburi,more-than-1000cc,0.00%,60++,Injury
+25/01/2020,3:40:48,Nakhon-Ratchasima, 111cc - 125cc,51.93%,60++,Injury
+17/04/2020,0:51:22,Nakhon-Ratchasima, 126cc - 150cc,2.00%,60++,Injury
+3/3/2020,0:44:34,Nakhon-Ratchasima, 156cc - 300cc,0.28%,60++,Injury
+7/11/2020,17:11:30,Nakhon-Ratchasima, 400cc - 1000cc,0.21%,60++,Injury
+31/10/2020,14:46:28,Nakhon-Ratchasima,less-than-110cc,45.31%,60++,Injury
+19/02/2020,9:37:14,Nakhon-Ratchasima,more-than-1000cc,0.07%,60++,Injury
+25/08/2020,21:53:48,Surat-Thani, 111cc - 125cc,57.31%,60++,Injury
+23/08/2020,18:03:53,Surat-Thani, 126cc - 150cc,2.31%,60++,Injury
+1/1/2020,0:30:32,Surat-Thani, 156cc - 300cc,0.19%,60++,Injury
+13/05/2020,18:16:53,Surat-Thani, 400cc - 1000cc,0.00%,60++,Injury
+9/3/2020,17:34:07,Surat-Thani,less-than-110cc,40.19%,60++,Injury
+4/3/2020,2:19:58,Surat-Thani,more-than-1000cc,0.00%,60++,Injury
+12/1/2021,16:12:07,Chiang-Mai, 111cc - 125cc,77.78%,14-Jan,Dead
+27/08/2021,1:16:44,Chiang-Mai, 126cc - 150cc,0.00%,14-Jan,Dead
+19/11/2021,11:56:34,Chiang-Mai, 400cc - 1000cc,0.00%,14-Jan,Dead
+13/04/2021,4:35:07,Chiang-Mai,less-than-110cc,22.22%,14-Jan,Dead
+11/2/2021,8:22:33,Bangkok, 111cc - 125cc,70.00%,14-Jan,Dead
+31/01/2021,7:35:30,Bangkok, 126cc - 150cc,15.00%,14-Jan,Dead
+27/03/2021,18:51:52,Bangkok, 400cc - 1000cc,0.00%,14-Jan,Dead
+6/5/2021,7:09:32,Bangkok,less-than-110cc,10.00%,14-Jan,Dead
+19/10/2021,4:09:11,Bangkok,more-than-1000cc,5.00%,14-Jan,Dead
+17/01/2021,19:08:04,Kanchanaburi, 111cc - 125cc,71.43%,14-Jan,Dead
+9/2/2021,2:30:36,Kanchanaburi, 126cc - 150cc,14.29%,14-Jan,Dead
+9/7/2021,11:13:29,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Dead
+24/05/2021,23:40:37,Kanchanaburi,less-than-110cc,14.29%,14-Jan,Dead
+1/1/2021,21:05:44,Chonburi, 111cc - 125cc,87.50%,14-Jan,Dead
+1/9/2021,15:11:32,Chonburi, 126cc - 150cc,0.00%,14-Jan,Dead
+26/11/2021,10:45:26,Chonburi, 156cc - 300cc,0.00%,14-Jan,Dead
+20/01/2021,9:37:20,Chonburi,less-than-110cc,12.50%,14-Jan,Dead
+14/06/2021,8:59:27,Chonburi,more-than-1000cc,0.00%,14-Jan,Dead
+28/08/2021,9:14:34,Nakhon-Ratchasima, 111cc - 125cc,69.23%,14-Jan,Dead
+24/12/2021,7:15:38,Nakhon-Ratchasima, 126cc - 150cc,0.00%,14-Jan,Dead
+23/12/2021,19:08:07,Nakhon-Ratchasima,less-than-110cc,30.77%,14-Jan,Dead
+5/1/2021,22:01:42,Surat-Thani, 111cc - 125cc,83.33%,14-Jan,Dead
+19/12/2021,7:13:56,Surat-Thani, 126cc - 150cc,0.00%,14-Jan,Dead
+17/05/2021,10:01:04,Surat-Thani,less-than-110cc,16.67%,14-Jan,Dead
+19/08/2021,1:13:51,Chiang-Mai, 111cc - 125cc,58.73%,14-Jan,Injury
+18/09/2021,23:43:15,Chiang-Mai, 126cc - 150cc,5.24%,14-Jan,Injury
+1/7/2021,8:49:07,Chiang-Mai, 156cc - 300cc,0.75%,14-Jan,Injury
+17/04/2021,15:47:25,Chiang-Mai, 400cc - 1000cc,0.50%,14-Jan,Injury
+17/08/2021,9:06:18,Chiang-Mai,less-than-110cc,34.66%,14-Jan,Injury
+29/07/2021,10:21:06,Bangkok, 111cc - 125cc,59.67%,14-Jan,Injury
+4/7/2021,18:09:29,Bangkok, 126cc - 150cc,18.26%,14-Jan,Injury
+15/07/2021,0:47:55,Bangkok, 156cc - 300cc,1.72%,14-Jan,Injury
+24/04/2021,5:40:34,Bangkok, 400cc - 1000cc,0.81%,14-Jan,Injury
+25/02/2021,13:59:46,Bangkok,less-than-110cc,19.17%,14-Jan,Injury
+26/05/2021,18:13:02,Bangkok,more-than-1000cc,0.10%,14-Jan,Injury
+14/02/2021,4:19:57,Kanchanaburi, 111cc - 125cc,54.60%,14-Jan,Injury
+12/2/2021,6:48:23,Kanchanaburi, 126cc - 150cc,3.07%,14-Jan,Injury
+20/03/2021,8:41:26,Kanchanaburi, 156cc - 300cc,0.31%,14-Jan,Injury
+11/11/2021,12:19:40,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Injury
+13/01/2021,9:03:12,Kanchanaburi,less-than-110cc,41.72%,14-Jan,Injury
+29/06/2021,10:21:50,Chonburi, 111cc - 125cc,58.65%,14-Jan,Injury
+4/8/2021,3:20:28,Chonburi, 126cc - 150cc,6.77%,14-Jan,Injury
+14/05/2021,5:24:46,Chonburi, 156cc - 300cc,0.30%,14-Jan,Injury
+5/4/2021,18:07:43,Chonburi, 400cc - 1000cc,0.60%,14-Jan,Injury
+13/09/2021,6:25:27,Chonburi,less-than-110cc,24.51%,14-Jan,Injury
+8/8/2021,14:17:08,Chonburi,more-than-1000cc,0.00%,14-Jan,Injury
+18/04/2021,21:19:59,Nakhon-Ratchasima, 111cc - 125cc,61.10%,14-Jan,Injury
+7/5/2021,14:44:50,Nakhon-Ratchasima, 126cc - 150cc,3.57%,14-Jan,Injury
+22/11/2021,19:13:37,Nakhon-Ratchasima, 156cc - 300cc,0.55%,14-Jan,Injury
+31/05/2021,17:38:34,Nakhon-Ratchasima, 400cc - 1000cc,0.14%,14-Jan,Injury
+19/02/2021,9:04:37,Nakhon-Ratchasima,less-than-110cc,34.64%,14-Jan,Injury
+8/12/2021,21:10:36,Surat-Thani, 111cc - 125cc,68.48%,14-Jan,Injury
+3/4/2021,18:42:17,Surat-Thani, 126cc - 150cc,4.38%,14-Jan,Injury
+15/02/2021,11:07:35,Surat-Thani, 156cc - 300cc,0.18%,14-Jan,Injury
+22/10/2021,19:08:02,Surat-Thani, 400cc - 1000cc,0.18%,14-Jan,Injury
+15/08/2021,11:08:25,Surat-Thani,less-than-110cc,26.80%,14-Jan,Injury
+7/1/2021,3:08:52,Surat-Thani,more-than-1000cc,0.00%,14-Jan,Injury
+28/05/2021,21:44:14,Chiang-Mai, 111cc - 125cc,69.23%,15-19,Dead
+10/2/2021,17:45:41,Chiang-Mai, 126cc - 150cc,0.00%,15-19,Dead
+21/12/2021,17:31:29,Chiang-Mai, 156cc - 300cc,0.00%,15-19,Dead
+30/04/2021,14:54:43,Chiang-Mai, 400cc - 1000cc,0.00%,15-19,Dead
+12/3/2021,13:25:47,Chiang-Mai,less-than-110cc,30.77%,15-19,Dead
+27/01/2021,6:30:22,Bangkok, 111cc - 125cc,70.97%,15-19,Dead
+11/8/2021,16:38:23,Bangkok, 126cc - 150cc,16.13%,15-19,Dead
+18/05/2021,21:24:04,Bangkok, 156cc - 300cc,0.00%,15-19,Dead
+11/4/2021,19:53:23,Bangkok, 400cc - 1000cc,6.45%,15-19,Dead
+2/5/2021,11:43:38,Bangkok,less-than-110cc,6.45%,15-19,Dead
+27/08/2021,7:16:12,Kanchanaburi, 111cc - 125cc,69.23%,15-19,Dead
+8/2/2021,22:55:19,Kanchanaburi, 126cc - 150cc,7.69%,15-19,Dead
+20/02/2021,1:02:53,Kanchanaburi,less-than-110cc,23.08%,15-19,Dead
+26/08/2021,20:29:08,Chonburi, 111cc - 125cc,47.37%,15-19,Dead
+16/08/2021,22:39:50,Chonburi, 126cc - 150cc,15.79%,15-19,Dead
+9/2/2021,18:46:34,Chonburi, 400cc - 1000cc,0.00%,15-19,Dead
+22/11/2021,17:04:43,Chonburi,less-than-110cc,31.58%,15-19,Dead
+26/10/2021,18:49:01,Nakhon-Ratchasima, 111cc - 125cc,73.33%,15-19,Dead
+22/01/2021,16:36:32,Nakhon-Ratchasima, 126cc - 150cc,0.00%,15-19,Dead
+18/09/2021,2:41:59,Nakhon-Ratchasima, 156cc - 300cc,3.33%,15-19,Dead
+3/5/2021,7:17:25,Nakhon-Ratchasima,less-than-110cc,23.33%,15-19,Dead
+23/10/2021,6:23:05,Surat-Thani, 111cc - 125cc,54.55%,15-19,Dead
+28/03/2021,19:45:29,Surat-Thani,less-than-110cc,45.45%,15-19,Dead
+31/01/2021,16:10:28,Chiang-Mai, 111cc - 125cc,61.09%,15-19,Injury
+18/11/2021,0:40:10,Chiang-Mai, 126cc - 150cc,8.80%,15-19,Injury
+16/02/2021,0:33:10,Chiang-Mai, 156cc - 300cc,0.35%,15-19,Injury
+4/11/2021,4:58:16,Chiang-Mai, 400cc - 1000cc,0.18%,15-19,Injury
+10/10/2021,9:13:18,Chiang-Mai,less-than-110cc,29.58%,15-19,Injury
+9/4/2021,14:21:33,Bangkok, 111cc - 125cc,63.01%,15-19,Injury
+21/07/2021,3:08:56,Bangkok, 126cc - 150cc,20.65%,15-19,Injury
+5/4/2021,9:43:16,Bangkok, 156cc - 300cc,0.64%,15-19,Injury
+1/12/2021,12:04:31,Bangkok, 400cc - 1000cc,0.32%,15-19,Injury
+28/08/2021,5:11:33,Bangkok,less-than-110cc,15.25%,15-19,Injury
+16/10/2021,23:19:01,Bangkok,more-than-1000cc,0.02%,15-19,Injury
+22/09/2021,13:15:07,Kanchanaburi, 111cc - 125cc,60.95%,15-19,Injury
+2/1/2021,21:25:43,Kanchanaburi, 126cc - 150cc,4.76%,15-19,Injury
+29/11/2021,6:06:04,Kanchanaburi, 156cc - 300cc,0.48%,15-19,Injury
+30/07/2021,17:48:30,Kanchanaburi, 400cc - 1000cc,0.00%,15-19,Injury
+22/03/2021,15:51:28,Kanchanaburi,less-than-110cc,33.57%,15-19,Injury
+18/09/2021,8:57:44,Chonburi, 111cc - 125cc,59.86%,15-19,Injury
+1/6/2021,7:10:21,Chonburi, 126cc - 150cc,13.00%,15-19,Injury
+16/11/2021,20:08:15,Chonburi, 156cc - 300cc,0.46%,15-19,Injury
+15/04/2021,11:55:09,Chonburi, 400cc - 1000cc,0.11%,15-19,Injury
+14/05/2021,1:16:57,Chonburi,less-than-110cc,20.07%,15-19,Injury
+22/02/2021,23:54:05,Chonburi,more-than-1000cc,0.00%,15-19,Injury
+15/11/2021,5:33:14,Nakhon-Ratchasima, 111cc - 125cc,60.93%,15-19,Injury
+27/10/2021,8:35:10,Nakhon-Ratchasima, 126cc - 150cc,4.61%,15-19,Injury
+18/09/2021,19:48:21,Nakhon-Ratchasima, 156cc - 300cc,0.17%,15-19,Injury
+21/09/2021,17:04:26,Nakhon-Ratchasima, 400cc - 1000cc,0.06%,15-19,Injury
+7/1/2021,23:19:41,Nakhon-Ratchasima,less-than-110cc,34.24%,15-19,Injury
+22/04/2021,9:48:32,Surat-Thani, 111cc - 125cc,70.98%,15-19,Injury
+27/01/2021,16:17:37,Surat-Thani, 126cc - 150cc,6.47%,15-19,Injury
+20/11/2021,5:42:19,Surat-Thani, 156cc - 300cc,0.39%,15-19,Injury
+3/6/2021,7:37:13,Surat-Thani, 400cc - 1000cc,0.00%,15-19,Injury
+30/09/2021,16:16:57,Surat-Thani,less-than-110cc,21.96%,15-19,Injury
+18/04/2021,13:56:14,Surat-Thani,more-than-1000cc,0.00%,15-19,Injury
+13/08/2021,6:38:13,Chiang-Mai, 111cc - 125cc,53.85%,19-24,Dead
+12/1/2021,14:13:39,Chiang-Mai, 126cc - 150cc,17.95%,19-24,Dead
+19/11/2021,16:26:17,Chiang-Mai, 156cc - 300cc,7.69%,19-24,Dead
+25/09/2021,11:52:46,Chiang-Mai, 400cc - 1000cc,0.00%,19-24,Dead
+20/03/2021,13:32:36,Chiang-Mai,less-than-110cc,20.51%,19-24,Dead
+22/05/2021,0:02:44,Bangkok, 111cc - 125cc,50.55%,19-24,Dead
+14/06/2021,7:54:35,Bangkok, 126cc - 150cc,24.18%,19-24,Dead
+9/11/2021,0:24:03,Bangkok, 156cc - 300cc,2.20%,19-24,Dead
+5/9/2021,15:54:09,Bangkok, 400cc - 1000cc,12.09%,19-24,Dead
+29/12/2021,19:51:09,Bangkok,less-than-110cc,10.99%,19-24,Dead
+24/01/2021,16:59:42,Bangkok,more-than-1000cc,0.00%,19-24,Dead
+6/3/2021,22:07:49,Kanchanaburi, 111cc - 125cc,35.71%,19-24,Dead
+28/02/2021,9:23:52,Kanchanaburi, 126cc - 150cc,28.57%,19-24,Dead
+7/12/2021,17:33:22,Kanchanaburi, 156cc - 300cc,0.00%,19-24,Dead
+19/03/2021,8:55:49,Kanchanaburi, 400cc - 1000cc,0.00%,19-24,Dead
+12/3/2021,19:01:32,Kanchanaburi,less-than-110cc,35.71%,19-24,Dead
+17/04/2021,7:34:07,Chonburi, 111cc - 125cc,52.00%,19-24,Dead
+25/08/2021,4:16:30,Chonburi, 126cc - 150cc,12.00%,19-24,Dead
+15/06/2021,16:59:17,Chonburi, 156cc - 300cc,4.00%,19-24,Dead
+21/03/2021,9:14:28,Chonburi, 400cc - 1000cc,6.00%,19-24,Dead
+22/03/2021,22:42:08,Chonburi,less-than-110cc,10.00%,19-24,Dead
+2/1/2021,21:24:27,Chonburi,more-than-1000cc,0.00%,19-24,Dead
+29/01/2021,8:33:30,Nakhon-Ratchasima, 111cc - 125cc,72.92%,19-24,Dead
+26/11/2021,16:30:45,Nakhon-Ratchasima, 126cc - 150cc,10.42%,19-24,Dead
+11/12/2021,16:06:10,Nakhon-Ratchasima, 156cc - 300cc,4.17%,19-24,Dead
+26/10/2021,16:35:59,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,19-24,Dead
+2/1/2021,13:00:26,Nakhon-Ratchasima,less-than-110cc,12.50%,19-24,Dead
+6/7/2021,9:38:13,Nakhon-Ratchasima,more-than-1000cc,0.00%,19-24,Dead
+17/06/2021,14:37:15,Surat-Thani, 111cc - 125cc,47.06%,19-24,Dead
+25/06/2021,10:25:40,Surat-Thani, 126cc - 150cc,11.76%,19-24,Dead
+4/7/2021,7:51:26,Surat-Thani, 156cc - 300cc,0.00%,19-24,Dead
+13/10/2021,13:27:45,Surat-Thani, 400cc - 1000cc,23.53%,19-24,Dead
+9/5/2021,9:20:59,Surat-Thani,less-than-110cc,17.65%,19-24,Dead
+26/05/2021,3:06:12,Chiang-Mai, 111cc - 125cc,57.68%,19-24,Injury
+11/5/2021,10:28:16,Chiang-Mai, 126cc - 150cc,10.85%,19-24,Injury
+28/10/2021,8:54:16,Chiang-Mai, 156cc - 300cc,0.71%,19-24,Injury
+19/04/2021,7:19:16,Chiang-Mai, 400cc - 1000cc,0.30%,19-24,Injury
+4/5/2021,5:00:42,Chiang-Mai,less-than-110cc,30.34%,19-24,Injury
+2/6/2021,0:13:37,Chiang-Mai,more-than-1000cc,0.00%,19-24,Injury
+6/6/2021,17:45:18,Bangkok, 111cc - 125cc,56.27%,19-24,Injury
+17/06/2021,4:32:42,Bangkok, 126cc - 150cc,27.57%,19-24,Injury
+16/08/2021,9:25:42,Bangkok, 156cc - 300cc,2.57%,19-24,Injury
+6/5/2021,22:59:16,Bangkok, 400cc - 1000cc,1.73%,19-24,Injury
+25/03/2021,18:01:21,Bangkok,less-than-110cc,11.54%,19-24,Injury
+19/03/2021,1:17:33,Bangkok,more-than-1000cc,0.04%,19-24,Injury
+28/03/2021,23:11:19,Kanchanaburi, 111cc - 125cc,60.94%,19-24,Injury
+16/09/2021,16:35:31,Kanchanaburi, 126cc - 150cc,9.25%,19-24,Injury
+10/7/2021,4:38:44,Kanchanaburi, 156cc - 300cc,0.94%,19-24,Injury
+27/03/2021,20:42:40,Kanchanaburi, 400cc - 1000cc,0.19%,19-24,Injury
+7/10/2021,13:28:28,Kanchanaburi,less-than-110cc,28.30%,19-24,Injury
+4/9/2021,18:20:41,Chonburi, 111cc - 125cc,53.60%,19-24,Injury
+3/2/2021,14:50:20,Chonburi, 126cc - 150cc,17.36%,19-24,Injury
+16/01/2021,16:49:17,Chonburi, 156cc - 300cc,1.89%,19-24,Injury
+13/03/2021,9:15:01,Chonburi, 400cc - 1000cc,1.85%,19-24,Injury
+27/11/2021,13:16:44,Chonburi,less-than-110cc,16.87%,19-24,Injury
+7/5/2021,8:10:55,Chonburi,more-than-1000cc,0.04%,19-24,Injury
+2/11/2021,6:45:09,Nakhon-Ratchasima, 111cc - 125cc,59.81%,19-24,Injury
+23/05/2021,20:04:34,Nakhon-Ratchasima, 126cc - 150cc,11.22%,19-24,Injury
+10/1/2021,2:01:51,Nakhon-Ratchasima, 156cc - 300cc,0.96%,19-24,Injury
+10/5/2021,12:46:28,Nakhon-Ratchasima, 400cc - 1000cc,0.91%,19-24,Injury
+22/04/2021,22:35:40,Nakhon-Ratchasima,less-than-110cc,26.97%,19-24,Injury
+5/1/2021,15:34:52,Surat-Thani, 111cc - 125cc,67.05%,19-24,Injury
+24/11/2021,13:48:35,Surat-Thani, 126cc - 150cc,8.63%,19-24,Injury
+5/9/2021,11:31:08,Surat-Thani, 156cc - 300cc,1.15%,19-24,Injury
+8/9/2021,1:08:56,Surat-Thani, 400cc - 1000cc,0.86%,19-24,Injury
+24/02/2021,7:03:06,Surat-Thani,less-than-110cc,22.30%,19-24,Injury
+5/7/2021,12:24:44,Surat-Thani,more-than-1000cc,0.00%,19-24,Injury
+8/5/2021,19:39:51,Chiang-Mai, 111cc - 125cc,53.52%,25-35,Dead
+4/11/2021,1:41:06,Chiang-Mai, 126cc - 150cc,8.45%,25-35,Dead
+27/05/2021,4:00:03,Chiang-Mai, 156cc - 300cc,1.41%,25-35,Dead
+5/1/2021,7:04:40,Chiang-Mai, 400cc - 1000cc,5.63%,25-35,Dead
+21/02/2021,4:58:20,Chiang-Mai,less-than-110cc,29.58%,25-35,Dead
+21/08/2021,15:25:41,Chiang-Mai,more-than-1000cc,1.41%,25-35,Dead
+25/02/2021,10:42:46,Bangkok, 111cc - 125cc,43.28%,25-35,Dead
+15/01/2021,11:16:34,Bangkok, 126cc - 150cc,29.85%,25-35,Dead
+20/02/2021,15:58:28,Bangkok, 156cc - 300cc,6.72%,25-35,Dead
+11/4/2021,6:56:19,Bangkok, 400cc - 1000cc,8.96%,25-35,Dead
+14/10/2021,7:53:16,Bangkok,less-than-110cc,10.45%,25-35,Dead
+17/06/2021,4:38:11,Bangkok,more-than-1000cc,0.00%,25-35,Dead
+28/09/2021,9:18:34,Kanchanaburi, 111cc - 125cc,47.06%,25-35,Dead
+22/03/2021,8:20:35,Kanchanaburi, 126cc - 150cc,11.76%,25-35,Dead
+18/07/2021,20:01:48,Kanchanaburi, 156cc - 300cc,0.00%,25-35,Dead
+30/05/2021,0:31:27,Kanchanaburi, 400cc - 1000cc,5.88%,25-35,Dead
+23/06/2021,18:09:03,Kanchanaburi,less-than-110cc,35.29%,25-35,Dead
+19/08/2021,16:07:44,Kanchanaburi,more-than-1000cc,0.00%,25-35,Dead
+12/11/2021,20:40:21,Chonburi, 111cc - 125cc,48.91%,25-35,Dead
+7/9/2021,9:12:56,Chonburi, 126cc - 150cc,16.30%,25-35,Dead
+6/10/2021,21:57:06,Chonburi, 156cc - 300cc,2.17%,25-35,Dead
+7/7/2021,2:04:25,Chonburi, 400cc - 1000cc,7.61%,25-35,Dead
+19/10/2021,11:08:11,Chonburi,less-than-110cc,10.87%,25-35,Dead
+18/12/2021,12:10:13,Chonburi,more-than-1000cc,0.00%,25-35,Dead
+14/01/2021,9:40:47,Nakhon-Ratchasima, 111cc - 125cc,54.10%,25-35,Dead
+2/10/2021,3:13:41,Nakhon-Ratchasima, 126cc - 150cc,11.48%,25-35,Dead
+26/04/2021,4:14:52,Nakhon-Ratchasima, 156cc - 300cc,4.92%,25-35,Dead
+13/09/2021,6:57:52,Nakhon-Ratchasima, 400cc - 1000cc,4.92%,25-35,Dead
+21/04/2021,12:32:23,Nakhon-Ratchasima,less-than-110cc,24.59%,25-35,Dead
+17/06/2021,8:36:28,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Dead
+17/04/2021,9:16:58,Surat-Thani, 111cc - 125cc,58.82%,25-35,Dead
+6/2/2021,22:57:10,Surat-Thani, 126cc - 150cc,17.65%,25-35,Dead
+30/04/2021,11:55:14,Surat-Thani, 156cc - 300cc,0.00%,25-35,Dead
+13/03/2021,6:49:31,Surat-Thani, 400cc - 1000cc,0.00%,25-35,Dead
+15/08/2021,9:32:59,Surat-Thani,less-than-110cc,23.53%,25-35,Dead
+4/2/2021,20:23:22,Surat-Thani,more-than-1000cc,0.00%,25-35,Dead
+2/8/2021,14:29:39,Chiang-Mai, 111cc - 125cc,56.87%,25-35,Injury
+29/11/2021,8:25:54,Chiang-Mai, 126cc - 150cc,9.05%,25-35,Injury
+21/06/2021,8:38:45,Chiang-Mai, 156cc - 300cc,1.02%,25-35,Injury
+26/08/2021,14:37:13,Chiang-Mai, 400cc - 1000cc,1.19%,25-35,Injury
+3/2/2021,22:51:03,Chiang-Mai,less-than-110cc,31.66%,25-35,Injury
+22/11/2021,20:12:10,Chiang-Mai,more-than-1000cc,0.07%,25-35,Injury
+8/1/2021,17:23:33,Bangkok, 111cc - 125cc,57.24%,25-35,Injury
+27/12/2021,7:48:51,Bangkok, 126cc - 150cc,23.90%,25-35,Injury
+17/02/2021,17:24:44,Bangkok, 156cc - 300cc,3.08%,25-35,Injury
+2/12/2021,13:42:05,Bangkok, 400cc - 1000cc,2.17%,25-35,Injury
+28/06/2021,14:23:20,Bangkok,less-than-110cc,13.31%,25-35,Injury
+4/3/2021,3:10:49,Bangkok,more-than-1000cc,0.08%,25-35,Injury
+1/4/2021,20:51:48,Kanchanaburi, 111cc - 125cc,56.53%,25-35,Injury
+2/12/2021,23:10:58,Kanchanaburi, 126cc - 150cc,7.99%,25-35,Injury
+19/05/2021,9:24:41,Kanchanaburi, 156cc - 300cc,2.15%,25-35,Injury
+10/2/2021,18:55:42,Kanchanaburi, 400cc - 1000cc,1.54%,25-35,Injury
+12/8/2021,15:00:27,Kanchanaburi,less-than-110cc,31.64%,25-35,Injury
+10/4/2021,16:42:07,Kanchanaburi,more-than-1000cc,0.00%,25-35,Injury
+18/05/2021,6:15:20,Chonburi, 111cc - 125cc,56.32%,25-35,Injury
+23/10/2021,5:43:30,Chonburi, 126cc - 150cc,14.12%,25-35,Injury
+3/2/2021,4:33:31,Chonburi, 156cc - 300cc,1.87%,25-35,Injury
+8/3/2021,4:28:47,Chonburi, 400cc - 1000cc,2.44%,25-35,Injury
+21/08/2021,15:45:44,Chonburi,less-than-110cc,17.67%,25-35,Injury
+12/2/2021,18:12:45,Chonburi,more-than-1000cc,0.05%,25-35,Injury
+1/10/2021,0:10:22,Nakhon-Ratchasima, 111cc - 125cc,59.72%,25-35,Injury
+19/03/2021,7:24:16,Nakhon-Ratchasima, 126cc - 150cc,9.27%,25-35,Injury
+24/10/2021,8:42:19,Nakhon-Ratchasima, 156cc - 300cc,1.50%,25-35,Injury
+25/02/2021,0:06:02,Nakhon-Ratchasima, 400cc - 1000cc,1.38%,25-35,Injury
+3/8/2021,4:27:46,Nakhon-Ratchasima,less-than-110cc,27.92%,25-35,Injury
+27/03/2021,14:03:45,Nakhon-Ratchasima,more-than-1000cc,0.08%,25-35,Injury
+29/07/2021,0:34:11,Surat-Thani, 111cc - 125cc,65.63%,25-35,Injury
+22/04/2021,16:20:37,Surat-Thani, 126cc - 150cc,8.62%,25-35,Injury
+16/06/2021,3:31:15,Surat-Thani, 156cc - 300cc,1.26%,25-35,Injury
+26/06/2021,8:08:20,Surat-Thani, 400cc - 1000cc,1.26%,25-35,Injury
+15/12/2021,14:23:14,Surat-Thani,less-than-110cc,22.99%,25-35,Injury
+10/2/2021,6:03:28,Surat-Thani,more-than-1000cc,0.11%,25-35,Injury
+5/8/2021,2:18:32,Chiang-Mai, 111cc - 125cc,64.18%,36-60,Dead
+18/09/2021,16:17:45,Chiang-Mai, 126cc - 150cc,2.99%,36-60,Dead
+5/1/2021,5:27:41,Chiang-Mai, 156cc - 300cc,0.00%,36-60,Dead
+24/11/2021,11:54:02,Chiang-Mai, 400cc - 1000cc,1.49%,36-60,Dead
+15/08/2021,4:31:04,Chiang-Mai,less-than-110cc,31.34%,36-60,Dead
+18/03/2021,10:18:04,Chiang-Mai,more-than-1000cc,0.00%,36-60,Dead
+10/6/2021,5:53:03,Bangkok, 111cc - 125cc,59.07%,36-60,Dead
+12/9/2021,6:20:33,Bangkok, 126cc - 150cc,15.54%,36-60,Dead
+6/8/2021,21:59:03,Bangkok, 156cc - 300cc,2.07%,36-60,Dead
+22/07/2021,13:59:16,Bangkok, 400cc - 1000cc,2.59%,36-60,Dead
+26/07/2021,16:10:11,Bangkok,less-than-110cc,20.73%,36-60,Dead
+30/11/2021,15:25:43,Bangkok,more-than-1000cc,0.00%,36-60,Dead
+10/6/2021,8:33:03,Kanchanaburi, 111cc - 125cc,60.61%,36-60,Dead
+20/01/2021,16:17:28,Kanchanaburi, 126cc - 150cc,9.09%,36-60,Dead
+24/11/2021,13:29:57,Kanchanaburi, 156cc - 300cc,6.06%,36-60,Dead
+22/01/2021,11:30:57,Kanchanaburi, 400cc - 1000cc,0.00%,36-60,Dead
+11/1/2021,20:32:46,Kanchanaburi,less-than-110cc,24.24%,36-60,Dead
+20/06/2021,7:55:16,Chonburi, 111cc - 125cc,53.91%,36-60,Dead
+19/07/2021,23:19:11,Chonburi, 126cc - 150cc,12.17%,36-60,Dead
+22/10/2021,0:17:01,Chonburi, 156cc - 300cc,2.61%,36-60,Dead
+23/07/2021,2:44:31,Chonburi, 400cc - 1000cc,2.61%,36-60,Dead
+28/03/2021,10:47:12,Chonburi,less-than-110cc,23.48%,36-60,Dead
+29/12/2021,22:29:40,Chonburi,more-than-1000cc,0.87%,36-60,Dead
+15/06/2021,23:53:26,Nakhon-Ratchasima, 111cc - 125cc,51.49%,36-60,Dead
+11/1/2021,13:21:37,Nakhon-Ratchasima, 126cc - 150cc,4.95%,36-60,Dead
+18/10/2021,7:30:29,Nakhon-Ratchasima, 156cc - 300cc,0.00%,36-60,Dead
+20/09/2021,21:46:52,Nakhon-Ratchasima, 400cc - 1000cc,3.96%,36-60,Dead
+11/4/2021,19:57:31,Nakhon-Ratchasima,less-than-110cc,38.61%,36-60,Dead
+31/10/2021,23:46:25,Nakhon-Ratchasima,more-than-1000cc,0.99%,36-60,Dead
+27/03/2021,18:46:25,Surat-Thani, 111cc - 125cc,64.29%,36-60,Dead
+29/04/2021,22:55:52,Surat-Thani, 126cc - 150cc,0.00%,36-60,Dead
+25/05/2021,15:53:06,Surat-Thani, 156cc - 300cc,2.38%,36-60,Dead
+7/3/2021,8:54:43,Surat-Thani, 400cc - 1000cc,4.76%,36-60,Dead
+27/11/2021,18:33:48,Surat-Thani,less-than-110cc,28.57%,36-60,Dead
+18/12/2021,11:32:43,Chiang-Mai, 111cc - 125cc,55.98%,36-60,Injury
+8/9/2021,13:57:36,Chiang-Mai, 126cc - 150cc,4.86%,36-60,Injury
+1/10/2021,8:52:21,Chiang-Mai, 156cc - 300cc,0.32%,36-60,Injury
+19/03/2021,7:17:56,Chiang-Mai, 400cc - 1000cc,0.57%,36-60,Injury
+22/10/2021,16:39:28,Chiang-Mai,less-than-110cc,38.12%,36-60,Injury
+3/2/2021,8:14:37,Chiang-Mai,more-than-1000cc,0.15%,36-60,Injury
+21/08/2021,5:09:58,Bangkok, 111cc - 125cc,62.75%,36-60,Injury
+17/02/2021,13:21:56,Bangkok, 126cc - 150cc,15.63%,36-60,Injury
+2/1/2021,21:30:34,Bangkok, 156cc - 300cc,1.43%,36-60,Injury
+12/1/2021,14:50:56,Bangkok, 400cc - 1000cc,0.92%,36-60,Injury
+10/5/2021,15:54:18,Bangkok,less-than-110cc,19.11%,36-60,Injury
+16/08/2021,1:38:19,Bangkok,more-than-1000cc,0.05%,36-60,Injury
+7/8/2021,0:56:34,Kanchanaburi, 111cc - 125cc,52.10%,36-60,Injury
+17/01/2021,1:10:08,Kanchanaburi, 126cc - 150cc,3.25%,36-60,Injury
+20/05/2021,18:42:58,Kanchanaburi, 156cc - 300cc,0.86%,36-60,Injury
+3/4/2021,0:27:10,Kanchanaburi, 400cc - 1000cc,0.43%,36-60,Injury
+23/08/2021,23:06:45,Kanchanaburi,less-than-110cc,43.03%,36-60,Injury
+20/09/2021,3:10:31,Kanchanaburi,more-than-1000cc,0.17%,36-60,Injury
+23/04/2021,17:54:12,Chonburi, 111cc - 125cc,57.26%,36-60,Injury
+1/9/2021,8:23:20,Chonburi, 126cc - 150cc,7.45%,36-60,Injury
+1/3/2021,11:04:08,Chonburi, 156cc - 300cc,0.67%,36-60,Injury
+14/08/2021,21:40:39,Chonburi, 400cc - 1000cc,1.04%,36-60,Injury
+3/8/2021,13:43:56,Chonburi,less-than-110cc,26.28%,36-60,Injury
+7/8/2021,10:48:47,Chonburi,more-than-1000cc,0.10%,36-60,Injury
+24/04/2021,23:10:13,Nakhon-Ratchasima, 111cc - 125cc,56.78%,36-60,Injury
+28/04/2021,17:52:11,Nakhon-Ratchasima, 126cc - 150cc,4.34%,36-60,Injury
+8/12/2021,17:34:55,Nakhon-Ratchasima, 156cc - 300cc,0.37%,36-60,Injury
+19/07/2021,9:41:32,Nakhon-Ratchasima, 400cc - 1000cc,0.50%,36-60,Injury
+21/06/2021,16:59:19,Nakhon-Ratchasima,less-than-110cc,37.91%,36-60,Injury
+22/06/2021,19:59:17,Nakhon-Ratchasima,more-than-1000cc,0.05%,36-60,Injury
+22/06/2021,7:26:16,Surat-Thani, 111cc - 125cc,63.81%,36-60,Injury
+2/6/2021,2:44:36,Surat-Thani, 126cc - 150cc,4.15%,36-60,Injury
+3/7/2021,18:03:39,Surat-Thani, 156cc - 300cc,0.35%,36-60,Injury
+29/09/2021,10:01:54,Surat-Thani, 400cc - 1000cc,0.35%,36-60,Injury
+18/01/2021,19:33:43,Surat-Thani,less-than-110cc,31.27%,36-60,Injury
+22/04/2021,2:41:35,Surat-Thani,more-than-1000cc,0.00%,36-60,Injury
+13/06/2021,21:30:00,Chiang-Mai, 111cc - 125cc,50.00%,60++,Dead
+15/05/2021,1:01:30,Chiang-Mai, 126cc - 150cc,7.50%,60++,Dead
+28/01/2021,9:40:58,Chiang-Mai, 156cc - 300cc,0.00%,60++,Dead
+28/10/2021,21:50:31,Chiang-Mai, 400cc - 1000cc,0.00%,60++,Dead
+9/5/2021,1:20:33,Chiang-Mai,less-than-110cc,42.50%,60++,Dead
+5/3/2021,18:14:12,Bangkok, 111cc - 125cc,55.32%,60++,Dead
+8/4/2021,22:09:00,Bangkok, 126cc - 150cc,23.40%,60++,Dead
+1/4/2021,18:34:24,Bangkok, 156cc - 300cc,0.00%,60++,Dead
+15/12/2021,17:39:21,Bangkok, 400cc - 1000cc,0.00%,60++,Dead
+14/08/2021,19:28:00,Bangkok,less-than-110cc,21.28%,60++,Dead
+15/11/2021,14:16:50,Bangkok,more-than-1000cc,0.00%,60++,Dead
+22/01/2021,14:39:46,Kanchanaburi, 111cc - 125cc,31.58%,60++,Dead
+11/3/2021,6:14:07,Kanchanaburi, 156cc - 300cc,0.00%,60++,Dead
+30/05/2021,11:51:25,Kanchanaburi,less-than-110cc,63.16%,60++,Dead
+6/2/2021,23:46:09,Chonburi, 111cc - 125cc,45.16%,60++,Dead
+29/11/2021,0:27:52,Chonburi, 126cc - 150cc,6.45%,60++,Dead
+25/01/2021,20:08:33,Chonburi, 156cc - 300cc,0.00%,60++,Dead
+18/04/2021,12:04:02,Chonburi, 400cc - 1000cc,3.23%,60++,Dead
+1/7/2021,19:44:07,Chonburi,less-than-110cc,41.94%,60++,Dead
+7/12/2021,20:41:56,Chonburi,more-than-1000cc,0.00%,60++,Dead
+14/03/2021,4:50:59,Nakhon-Ratchasima, 111cc - 125cc,42.50%,60++,Dead
+6/4/2021,11:48:21,Nakhon-Ratchasima, 126cc - 150cc,7.50%,60++,Dead
+22/12/2021,10:28:50,Nakhon-Ratchasima, 156cc - 300cc,0.00%,60++,Dead
+2/5/2021,6:33:41,Nakhon-Ratchasima, 400cc - 1000cc,0.00%,60++,Dead
+31/08/2021,21:27:25,Nakhon-Ratchasima,less-than-110cc,50.00%,60++,Dead
+4/12/2021,14:52:50,Surat-Thani, 111cc - 125cc,66.67%,60++,Dead
+6/4/2021,11:32:52,Surat-Thani, 126cc - 150cc,9.52%,60++,Dead
+15/05/2021,8:20:06,Surat-Thani, 400cc - 1000cc,0.00%,60++,Dead
+22/08/2021,22:29:42,Surat-Thani,less-than-110cc,23.81%,60++,Dead
+28/07/2021,16:56:35,Chiang-Mai, 111cc - 125cc,50.19%,60++,Injury
+29/06/2021,12:26:18,Chiang-Mai, 126cc - 150cc,2.38%,60++,Injury
+22/02/2021,1:40:35,Chiang-Mai, 156cc - 300cc,0.07%,60++,Injury
+22/08/2021,15:52:37,Chiang-Mai, 400cc - 1000cc,0.30%,60++,Injury
+11/5/2021,18:10:24,Chiang-Mai,less-than-110cc,47.06%,60++,Injury
+21/07/2021,4:02:55,Chiang-Mai,more-than-1000cc,0.00%,60++,Injury
+30/12/2021,18:20:09,Bangkok, 111cc - 125cc,64.08%,60++,Injury
+11/11/2021,0:23:55,Bangkok, 126cc - 150cc,9.71%,60++,Injury
+15/09/2021,16:19:48,Bangkok, 156cc - 300cc,0.36%,60++,Injury
+17/10/2021,7:32:25,Bangkok, 400cc - 1000cc,0.25%,60++,Injury
+20/07/2021,10:11:39,Bangkok,less-than-110cc,25.50%,60++,Injury
+30/08/2021,4:23:34,Bangkok,more-than-1000cc,0.04%,60++,Injury
+9/11/2021,14:03:51,Kanchanaburi, 111cc - 125cc,44.42%,60++,Injury
+11/5/2021,3:08:13,Kanchanaburi, 126cc - 150cc,1.72%,60++,Injury
+22/09/2021,21:01:08,Kanchanaburi, 156cc - 300cc,0.00%,60++,Injury
+11/10/2021,20:58:22,Kanchanaburi, 400cc - 1000cc,0.00%,60++,Injury
+20/09/2021,9:16:09,Kanchanaburi,less-than-110cc,53.65%,60++,Injury
+1/9/2021,3:07:58,Kanchanaburi,more-than-1000cc,0.00%,60++,Injury
+22/02/2021,15:17:24,Chonburi, 111cc - 125cc,52.96%,60++,Injury
+17/11/2021,23:06:22,Chonburi, 126cc - 150cc,6.79%,60++,Injury
+27/11/2021,22:12:57,Chonburi, 156cc - 300cc,0.86%,60++,Injury
+27/09/2021,2:30:56,Chonburi, 400cc - 1000cc,0.49%,60++,Injury
+28/03/2021,15:10:26,Chonburi,less-than-110cc,32.47%,60++,Injury
+26/01/2021,9:37:02,Chonburi,more-than-1000cc,0.25%,60++,Injury
+17/12/2021,12:19:30,Nakhon-Ratchasima, 111cc - 125cc,50.27%,60++,Injury
+29/06/2021,11:48:20,Nakhon-Ratchasima, 126cc - 150cc,1.63%,60++,Injury
+15/10/2021,5:58:02,Nakhon-Ratchasima, 156cc - 300cc,0.23%,60++,Injury
+22/01/2021,9:38:12,Nakhon-Ratchasima, 400cc - 1000cc,0.08%,60++,Injury
+26/01/2021,14:48:57,Nakhon-Ratchasima,less-than-110cc,47.64%,60++,Injury
+26/09/2021,11:38:28,Nakhon-Ratchasima,more-than-1000cc,0.00%,60++,Injury
+6/5/2021,0:27:28,Surat-Thani, 111cc - 125cc,59.88%,60++,Injury
+11/2/2021,12:02:48,Surat-Thani, 126cc - 150cc,2.06%,60++,Injury
+17/04/2021,15:06:42,Surat-Thani, 156cc - 300cc,0.21%,60++,Injury
+6/11/2021,1:55:43,Surat-Thani, 400cc - 1000cc,0.21%,60++,Injury
+17/04/2021,5:15:30,Surat-Thani,less-than-110cc,37.24%,60++,Injury
+24/08/2021,16:32:24,Surat-Thani,more-than-1000cc,0.41%,60++,Injury
+7/9/2022,21:06:55,Chiang-Mai, 111cc - 125cc,100.00%,14-Jan,Dead
+6/9/2022,10:08:17,Chiang-Mai, 126cc - 150cc,0.00%,14-Jan,Dead
+16/06/2022,5:03:18,Chiang-Mai, 400cc - 1000cc,0.00%,14-Jan,Dead
+29/09/2022,3:48:44,Chiang-Mai,less-than-110cc,0.00%,14-Jan,Dead
+23/06/2022,23:23:23,Bangkok, 111cc - 125cc,50.00%,14-Jan,Dead
+12/2/2022,17:20:48,Bangkok, 126cc - 150cc,29.17%,14-Jan,Dead
+16/03/2022,8:35:20,Bangkok, 400cc - 1000cc,0.00%,14-Jan,Dead
+15/11/2022,7:15:59,Bangkok,less-than-110cc,20.83%,14-Jan,Dead
+16/03/2022,1:27:47,Bangkok,more-than-1000cc,0.00%,14-Jan,Dead
+28/01/2022,21:57:18,Kanchanaburi, 111cc - 125cc,42.86%,14-Jan,Dead
+24/04/2022,3:03:32,Kanchanaburi, 126cc - 150cc,14.29%,14-Jan,Dead
+21/06/2022,9:37:48,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Dead
+19/05/2022,16:54:56,Kanchanaburi,less-than-110cc,42.86%,14-Jan,Dead
+3/11/2022,23:14:09,Chonburi, 111cc - 125cc,50.00%,14-Jan,Dead
+6/6/2022,14:33:58,Chonburi, 126cc - 150cc,20.00%,14-Jan,Dead
+18/05/2022,18:06:00,Chonburi, 156cc - 300cc,0.00%,14-Jan,Dead
+21/08/2022,22:36:27,Chonburi,less-than-110cc,15.00%,14-Jan,Dead
+6/5/2022,13:09:48,Chonburi,more-than-1000cc,5.00%,14-Jan,Dead
+15/11/2022,19:33:36,Nakhon-Ratchasima, 111cc - 125cc,65.00%,14-Jan,Dead
+28/03/2022,3:22:44,Nakhon-Ratchasima, 126cc - 150cc,5.00%,14-Jan,Dead
+25/10/2022,17:10:15,Nakhon-Ratchasima,less-than-110cc,30.00%,14-Jan,Dead
+17/07/2022,21:20:50,Surat-Thani, 111cc - 125cc,75.00%,14-Jan,Dead
+9/8/2022,2:14:59,Surat-Thani, 126cc - 150cc,0.00%,14-Jan,Dead
+11/10/2022,13:39:45,Surat-Thani,less-than-110cc,25.00%,14-Jan,Dead
+4/5/2022,6:05:13,Chiang-Mai, 111cc - 125cc,65.52%,15-19,Dead
+23/01/2022,7:59:13,Chiang-Mai, 126cc - 150cc,6.90%,15-19,Dead
+30/07/2022,0:02:48,Chiang-Mai, 156cc - 300cc,0.00%,15-19,Dead
+7/8/2022,8:02:38,Chiang-Mai, 400cc - 1000cc,3.45%,15-19,Dead
+22/09/2022,21:30:36,Chiang-Mai,less-than-110cc,24.14%,15-19,Dead
+15/03/2022,2:33:59,Bangkok, 111cc - 125cc,41.38%,15-19,Dead
+10/4/2022,8:31:23,Bangkok, 126cc - 150cc,24.14%,15-19,Dead
+2/9/2022,16:32:35,Bangkok, 156cc - 300cc,3.45%,15-19,Dead
+24/03/2022,6:04:19,Bangkok, 400cc - 1000cc,6.90%,15-19,Dead
+23/02/2022,15:22:59,Bangkok,less-than-110cc,24.14%,15-19,Dead
+31/03/2022,23:06:46,Kanchanaburi, 111cc - 125cc,70.00%,15-19,Dead
+28/06/2022,19:54:56,Kanchanaburi, 126cc - 150cc,0.00%,15-19,Dead
+3/7/2022,8:18:14,Kanchanaburi,less-than-110cc,30.00%,15-19,Dead
+25/03/2022,15:34:54,Chonburi, 111cc - 125cc,65.63%,15-19,Dead
+23/05/2022,17:33:11,Chonburi, 126cc - 150cc,12.50%,15-19,Dead
+30/04/2022,14:45:06,Chonburi, 400cc - 1000cc,0.00%,15-19,Dead
+3/9/2022,12:02:00,Chonburi,less-than-110cc,18.75%,15-19,Dead
+1/12/2022,14:43:17,Nakhon-Ratchasima, 111cc - 125cc,67.65%,15-19,Dead
+12/5/2022,13:11:35,Nakhon-Ratchasima, 126cc - 150cc,5.88%,15-19,Dead
+10/8/2022,14:42:49,Nakhon-Ratchasima, 156cc - 300cc,2.94%,15-19,Dead
+17/02/2022,23:23:04,Nakhon-Ratchasima,less-than-110cc,23.53%,15-19,Dead
+13/02/2022,22:48:52,Surat-Thani, 111cc - 125cc,83.33%,15-19,Dead
+31/05/2022,3:21:25,Surat-Thani,less-than-110cc,16.67%,15-19,Dead
+3/7/2022,12:28:36,Chiang-Mai, 111cc - 125cc,60.00%,19-24,Dead
+23/03/2022,10:27:23,Chiang-Mai, 126cc - 150cc,11.25%,19-24,Dead
+19/07/2022,15:47:54,Chiang-Mai, 156cc - 300cc,2.50%,19-24,Dead
+3/12/2022,20:50:01,Chiang-Mai, 400cc - 1000cc,0.00%,19-24,Dead
+5/9/2022,15:37:28,Chiang-Mai,less-than-110cc,25.00%,19-24,Dead
+13/11/2022,22:42:22,Bangkok, 111cc - 125cc,43.33%,19-24,Dead
+13/08/2022,10:12:09,Bangkok, 126cc - 150cc,33.33%,19-24,Dead
+28/01/2022,2:15:20,Bangkok, 156cc - 300cc,8.89%,19-24,Dead
+11/12/2022,9:01:31,Bangkok, 400cc - 1000cc,5.56%,19-24,Dead
+30/04/2022,1:41:17,Bangkok,less-than-110cc,8.89%,19-24,Dead
+18/07/2022,18:47:39,Bangkok,more-than-1000cc,0.00%,19-24,Dead
+9/3/2022,22:57:51,Kanchanaburi, 111cc - 125cc,90.00%,19-24,Dead
+9/9/2022,19:14:24,Kanchanaburi, 126cc - 150cc,0.00%,19-24,Dead
+21/12/2022,7:27:25,Kanchanaburi, 156cc - 300cc,0.00%,19-24,Dead
+27/06/2022,11:28:02,Kanchanaburi, 400cc - 1000cc,0.00%,19-24,Dead
+22/11/2022,14:20:50,Kanchanaburi,less-than-110cc,10.00%,19-24,Dead
+13/09/2022,13:16:02,Chonburi, 111cc - 125cc,45.31%,19-24,Dead
+20/02/2022,4:33:30,Chonburi, 126cc - 150cc,15.63%,19-24,Dead
+15/04/2022,2:41:43,Chonburi, 156cc - 300cc,6.25%,19-24,Dead
+8/10/2022,5:37:32,Chonburi, 400cc - 1000cc,1.56%,19-24,Dead
+4/11/2022,16:27:04,Chonburi,less-than-110cc,23.44%,19-24,Dead
+10/1/2022,13:59:44,Chonburi,more-than-1000cc,0.00%,19-24,Dead
+18/07/2022,21:22:28,Nakhon-Ratchasima, 111cc - 125cc,63.41%,19-24,Dead
+8/3/2022,19:19:21,Nakhon-Ratchasima, 126cc - 150cc,7.32%,19-24,Dead
+22/12/2022,18:40:21,Nakhon-Ratchasima, 156cc - 300cc,2.44%,19-24,Dead
+13/10/2022,18:48:49,Nakhon-Ratchasima, 400cc - 1000cc,2.44%,19-24,Dead
+24/07/2022,0:08:43,Nakhon-Ratchasima,less-than-110cc,24.39%,19-24,Dead
+28/11/2022,7:08:11,Nakhon-Ratchasima,more-than-1000cc,0.00%,19-24,Dead
+15/10/2022,3:14:04,Surat-Thani, 111cc - 125cc,66.67%,19-24,Dead
+6/6/2022,15:06:23,Surat-Thani, 126cc - 150cc,4.76%,19-24,Dead
+23/09/2022,3:38:49,Surat-Thani, 156cc - 300cc,0.00%,19-24,Dead
+24/06/2022,16:30:17,Surat-Thani, 400cc - 1000cc,9.52%,19-24,Dead
+31/08/2022,9:14:34,Surat-Thani,less-than-110cc,19.05%,19-24,Dead
+10/11/2022,17:52:37,Chiang-Mai, 111cc - 125cc,56.45%,25-35,Dead
+6/4/2022,19:44:11,Chiang-Mai, 126cc - 150cc,14.52%,25-35,Dead
+15/02/2022,21:37:56,Chiang-Mai, 156cc - 300cc,0.00%,25-35,Dead
+16/05/2022,7:17:45,Chiang-Mai, 400cc - 1000cc,3.23%,25-35,Dead
+5/10/2022,19:01:43,Chiang-Mai,less-than-110cc,24.19%,25-35,Dead
+13/10/2022,2:06:40,Chiang-Mai,more-than-1000cc,0.00%,25-35,Dead
+26/12/2022,22:32:27,Bangkok, 111cc - 125cc,51.28%,25-35,Dead
+15/05/2022,19:50:06,Bangkok, 126cc - 150cc,27.56%,25-35,Dead
+16/09/2022,6:34:54,Bangkok, 156cc - 300cc,7.69%,25-35,Dead
+26/07/2022,7:04:25,Bangkok, 400cc - 1000cc,4.49%,25-35,Dead
+8/4/2022,14:04:37,Bangkok,less-than-110cc,8.33%,25-35,Dead
+24/09/2022,10:10:13,Bangkok,more-than-1000cc,0.64%,25-35,Dead
+8/7/2022,13:02:38,Kanchanaburi, 111cc - 125cc,69.23%,25-35,Dead
+17/02/2022,15:41:28,Kanchanaburi, 126cc - 150cc,15.38%,25-35,Dead
+28/03/2022,13:48:50,Kanchanaburi, 156cc - 300cc,0.00%,25-35,Dead
+26/11/2022,2:16:24,Kanchanaburi, 400cc - 1000cc,0.00%,25-35,Dead
+27/07/2022,0:34:49,Kanchanaburi,less-than-110cc,15.38%,25-35,Dead
+13/12/2022,7:45:39,Kanchanaburi,more-than-1000cc,0.00%,25-35,Dead
+27/02/2022,7:55:57,Chonburi, 111cc - 125cc,57.14%,25-35,Dead
+2/4/2022,0:14:10,Chonburi, 126cc - 150cc,15.18%,25-35,Dead
+26/05/2022,6:33:03,Chonburi, 156cc - 300cc,4.46%,25-35,Dead
+7/12/2022,16:27:47,Chonburi, 400cc - 1000cc,8.93%,25-35,Dead
+23/02/2022,8:56:20,Chonburi,less-than-110cc,8.93%,25-35,Dead
+20/06/2022,20:11:35,Chonburi,more-than-1000cc,0.00%,25-35,Dead
+20/02/2022,15:56:17,Nakhon-Ratchasima, 111cc - 125cc,50.88%,25-35,Dead
+22/09/2022,8:15:51,Nakhon-Ratchasima, 126cc - 150cc,10.53%,25-35,Dead
+12/10/2022,5:39:58,Nakhon-Ratchasima, 156cc - 300cc,10.53%,25-35,Dead
+17/07/2022,10:49:29,Nakhon-Ratchasima, 400cc - 1000cc,5.26%,25-35,Dead
+20/12/2022,17:46:12,Nakhon-Ratchasima,less-than-110cc,19.30%,25-35,Dead
+23/03/2022,23:54:15,Nakhon-Ratchasima,more-than-1000cc,3.51%,25-35,Dead
+28/08/2022,16:37:57,Surat-Thani, 111cc - 125cc,66.67%,25-35,Dead
+10/8/2022,18:03:04,Surat-Thani, 126cc - 150cc,33.33%,25-35,Dead
+13/02/2022,13:22:46,Surat-Thani, 156cc - 300cc,0.00%,25-35,Dead
+3/12/2022,17:59:19,Surat-Thani, 400cc - 1000cc,0.00%,25-35,Dead
+6/11/2022,15:14:02,Surat-Thani,less-than-110cc,0.00%,25-35,Dead
+22/04/2022,20:17:37,Surat-Thani,more-than-1000cc,0.00%,25-35,Dead
+14/02/2022,9:49:14,Chiang-Mai, 111cc - 125cc,45.45%,36-60,Dead
+13/04/2022,19:12:59,Chiang-Mai, 126cc - 150cc,5.19%,36-60,Dead
+19/02/2022,3:29:10,Chiang-Mai, 156cc - 300cc,1.30%,36-60,Dead
+31/12/2022,1:31:43,Chiang-Mai, 400cc - 1000cc,3.90%,36-60,Dead
+15/07/2022,16:17:11,Chiang-Mai,less-than-110cc,44.16%,36-60,Dead
+27/09/2022,3:37:31,Chiang-Mai,more-than-1000cc,0.00%,36-60,Dead
+13/09/2022,21:37:47,Bangkok, 111cc - 125cc,59.72%,36-60,Dead
+14/11/2022,19:03:13,Bangkok, 126cc - 150cc,20.37%,36-60,Dead
+12/1/2022,2:41:52,Bangkok, 156cc - 300cc,4.17%,36-60,Dead
+16/02/2022,3:00:34,Bangkok, 400cc - 1000cc,2.31%,36-60,Dead
+19/06/2022,9:27:08,Bangkok,less-than-110cc,12.96%,36-60,Dead
+22/03/2022,4:33:39,Bangkok,more-than-1000cc,0.00%,36-60,Dead
+25/05/2022,12:34:16,Kanchanaburi, 111cc - 125cc,44.12%,36-60,Dead
+17/05/2022,5:08:57,Kanchanaburi, 126cc - 150cc,8.82%,36-60,Dead
+23/08/2022,23:44:43,Kanchanaburi, 156cc - 300cc,2.94%,36-60,Dead
+23/01/2022,1:13:22,Kanchanaburi, 400cc - 1000cc,2.94%,36-60,Dead
+1/7/2022,17:47:41,Kanchanaburi,less-than-110cc,41.18%,36-60,Dead
+8/12/2022,13:39:24,Chonburi, 111cc - 125cc,59.85%,36-60,Dead
+11/3/2022,1:32:51,Chonburi, 126cc - 150cc,8.03%,36-60,Dead
+26/03/2022,0:33:56,Chonburi, 156cc - 300cc,2.92%,36-60,Dead
+4/11/2022,5:43:34,Chonburi, 400cc - 1000cc,0.73%,36-60,Dead
+19/06/2022,22:19:48,Chonburi,less-than-110cc,22.63%,36-60,Dead
+13/11/2022,4:41:15,Chonburi,more-than-1000cc,0.73%,36-60,Dead
+19/02/2022,3:52:39,Nakhon-Ratchasima, 111cc - 125cc,56.25%,36-60,Dead
+9/1/2022,23:20:30,Nakhon-Ratchasima, 126cc - 150cc,1.79%,36-60,Dead
+22/04/2022,23:54:38,Nakhon-Ratchasima, 156cc - 300cc,1.79%,36-60,Dead
+19/04/2022,16:43:50,Nakhon-Ratchasima, 400cc - 1000cc,1.79%,36-60,Dead
+10/5/2022,9:23:21,Nakhon-Ratchasima,less-than-110cc,37.50%,36-60,Dead
+9/3/2022,22:04:26,Nakhon-Ratchasima,more-than-1000cc,0.89%,36-60,Dead
+5/4/2022,14:05:52,Surat-Thani, 111cc - 125cc,59.52%,36-60,Dead
+14/05/2022,18:33:39,Surat-Thani, 126cc - 150cc,7.14%,36-60,Dead
+25/05/2022,22:53:50,Surat-Thani, 156cc - 300cc,2.38%,36-60,Dead
+23/02/2022,23:23:43,Surat-Thani, 400cc - 1000cc,2.38%,36-60,Dead
+11/1/2022,5:36:40,Surat-Thani,less-than-110cc,28.57%,36-60,Dead
+3/8/2022,4:58:50,Chiang-Mai, 111cc - 125cc,51.11%,60++,Dead
+29/09/2022,4:20:49,Chiang-Mai, 126cc - 150cc,0.00%,60++,Dead
+18/11/2022,10:10:41,Chiang-Mai, 156cc - 300cc,0.00%,60++,Dead
+19/05/2022,5:58:26,Chiang-Mai, 400cc - 1000cc,2.22%,60++,Dead
+5/12/2022,12:14:29,Chiang-Mai,less-than-110cc,44.44%,60++,Dead
+14/05/2022,5:06:36,Bangkok, 111cc - 125cc,59.32%,60++,Dead
+20/01/2022,2:11:51,Bangkok, 126cc - 150cc,18.64%,60++,Dead
+4/1/2022,22:35:50,Bangkok, 156cc - 300cc,6.78%,60++,Dead
+16/05/2022,12:01:00,Bangkok, 400cc - 1000cc,0.00%,60++,Dead
+25/11/2022,19:13:14,Bangkok,less-than-110cc,15.25%,60++,Dead
+22/05/2022,16:34:25,Bangkok,more-than-1000cc,0.00%,60++,Dead
+10/9/2022,22:03:20,Kanchanaburi, 111cc - 125cc,34.62%,60++,Dead
+26/09/2022,6:08:57,Kanchanaburi, 156cc - 300cc,3.85%,60++,Dead
+23/09/2022,22:55:18,Kanchanaburi,less-than-110cc,61.54%,60++,Dead
+20/05/2022,11:52:13,Chonburi, 111cc - 125cc,54.55%,60++,Dead
+21/07/2022,15:00:13,Chonburi, 126cc - 150cc,6.06%,60++,Dead
+13/03/2022,19:17:17,Chonburi, 156cc - 300cc,0.00%,60++,Dead
+4/11/2022,4:38:11,Chonburi, 400cc - 1000cc,3.03%,60++,Dead
+9/2/2022,23:32:15,Chonburi,less-than-110cc,33.33%,60++,Dead
+28/07/2022,18:25:32,Chonburi,more-than-1000cc,0.00%,60++,Dead
+9/3/2022,19:37:07,Nakhon-Ratchasima, 111cc - 125cc,54.90%,60++,Dead
+16/03/2022,6:35:59,Nakhon-Ratchasima, 126cc - 150cc,3.92%,60++,Dead
+11/2/2022,23:12:16,Nakhon-Ratchasima, 156cc - 300cc,0.00%,60++,Dead
+29/09/2022,22:33:31,Nakhon-Ratchasima, 400cc - 1000cc,1.96%,60++,Dead
+28/06/2022,21:04:22,Nakhon-Ratchasima,less-than-110cc,39.22%,60++,Dead
+1/12/2022,1:53:20,Surat-Thani, 111cc - 125cc,50.00%,60++,Dead
+22/01/2022,8:41:29,Surat-Thani, 126cc - 150cc,15.00%,60++,Dead
+7/1/2022,12:35:17,Surat-Thani, 400cc - 1000cc,5.00%,60++,Dead
+23/08/2022,18:19:03,Surat-Thani,less-than-110cc,30.00%,60++,Dead
+5/3/2022,23:45:50,Chiang-Mai, 111cc - 125cc,59.85%,14-Jan,Injury
+17/09/2022,18:27:45,Chiang-Mai, 126cc - 150cc,3.39%,14-Jan,Injury
+16/06/2022,5:57:39,Chiang-Mai, 156cc - 300cc,0.48%,14-Jan,Injury
+20/09/2022,9:12:14,Chiang-Mai, 400cc - 1000cc,0.24%,14-Jan,Injury
+15/07/2022,14:08:32,Chiang-Mai,less-than-110cc,36.03%,14-Jan,Injury
+5/9/2022,23:44:45,Bangkok, 111cc - 125cc,62.35%,14-Jan,Injury
+9/12/2022,13:57:15,Bangkok, 126cc - 150cc,17.68%,14-Jan,Injury
+15/03/2022,9:47:26,Bangkok, 156cc - 300cc,1.62%,14-Jan,Injury
+7/10/2022,1:45:59,Bangkok, 400cc - 1000cc,0.67%,14-Jan,Injury
+18/04/2022,22:14:57,Bangkok,less-than-110cc,17.17%,14-Jan,Injury
+15/11/2022,8:31:52,Bangkok,more-than-1000cc,0.06%,14-Jan,Injury
+6/10/2022,3:37:47,Kanchanaburi, 111cc - 125cc,53.78%,14-Jan,Injury
+6/10/2022,10:17:09,Kanchanaburi, 126cc - 150cc,2.03%,14-Jan,Injury
+18/09/2022,22:39:38,Kanchanaburi, 156cc - 300cc,0.58%,14-Jan,Injury
+29/03/2022,12:55:46,Kanchanaburi, 400cc - 1000cc,0.29%,14-Jan,Injury
+9/9/2022,0:48:07,Kanchanaburi,less-than-110cc,43.31%,14-Jan,Injury
+2/8/2022,23:30:08,Chonburi, 111cc - 125cc,60.05%,14-Jan,Injury
+27/01/2022,21:38:26,Chonburi, 126cc - 150cc,7.84%,14-Jan,Injury
+11/2/2022,12:45:32,Chonburi, 156cc - 300cc,0.54%,14-Jan,Injury
+25/08/2022,8:10:04,Chonburi, 400cc - 1000cc,0.63%,14-Jan,Injury
+2/11/2022,13:13:37,Chonburi,less-than-110cc,24.17%,14-Jan,Injury
+19/05/2022,13:55:52,Chonburi,more-than-1000cc,0.00%,14-Jan,Injury
+22/10/2022,14:48:50,Nakhon-Ratchasima, 111cc - 125cc,60.26%,14-Jan,Injury
+23/01/2022,6:39:47,Nakhon-Ratchasima, 126cc - 150cc,4.51%,14-Jan,Injury
+22/07/2022,18:04:04,Nakhon-Ratchasima, 156cc - 300cc,0.16%,14-Jan,Injury
+11/4/2022,11:25:45,Nakhon-Ratchasima, 400cc - 1000cc,0.31%,14-Jan,Injury
+7/1/2022,5:33:51,Nakhon-Ratchasima,less-than-110cc,34.65%,14-Jan,Injury
+24/02/2022,0:46:01,Surat-Thani, 111cc - 125cc,68.76%,14-Jan,Injury
+2/8/2022,18:13:10,Surat-Thani, 126cc - 150cc,5.70%,14-Jan,Injury
+12/7/2022,17:33:17,Surat-Thani, 156cc - 300cc,0.12%,14-Jan,Injury
+17/02/2022,12:56:39,Surat-Thani, 400cc - 1000cc,0.24%,14-Jan,Injury
+8/3/2022,15:53:19,Surat-Thani,less-than-110cc,25.18%,14-Jan,Injury
+1/8/2022,6:37:51,Surat-Thani,more-than-1000cc,0.00%,14-Jan,Injury
+19/09/2022,14:36:33,Chiang-Mai, 111cc - 125cc,60.87%,15-19,Injury
+11/12/2022,7:33:55,Chiang-Mai, 126cc - 150cc,7.32%,15-19,Injury
+30/09/2022,15:43:59,Chiang-Mai, 156cc - 300cc,0.58%,15-19,Injury
+26/08/2022,0:35:36,Chiang-Mai, 400cc - 1000cc,0.07%,15-19,Injury
+31/10/2022,11:27:50,Chiang-Mai,less-than-110cc,31.16%,15-19,Injury
+24/01/2022,22:37:28,Bangkok, 111cc - 125cc,64.03%,15-19,Injury
+1/8/2022,3:40:33,Bangkok, 126cc - 150cc,19.55%,15-19,Injury
+11/9/2022,16:32:46,Bangkok, 156cc - 300cc,0.79%,15-19,Injury
+14/03/2022,16:11:32,Bangkok, 400cc - 1000cc,0.32%,15-19,Injury
+2/7/2022,3:05:50,Bangkok,less-than-110cc,15.03%,15-19,Injury
+13/11/2022,8:50:21,Bangkok,more-than-1000cc,0.00%,15-19,Injury
+5/7/2022,7:12:17,Kanchanaburi, 111cc - 125cc,58.43%,15-19,Injury
+31/03/2022,20:23:40,Kanchanaburi, 126cc - 150cc,6.02%,15-19,Injury
+29/01/2022,11:08:01,Kanchanaburi, 156cc - 300cc,0.60%,15-19,Injury
+27/03/2022,6:32:14,Kanchanaburi, 400cc - 1000cc,0.20%,15-19,Injury
+3/5/2022,14:16:36,Kanchanaburi,less-than-110cc,34.74%,15-19,Injury
+18/06/2022,3:22:24,Chonburi, 111cc - 125cc,57.03%,15-19,Injury
+29/11/2022,12:13:53,Chonburi, 126cc - 150cc,11.95%,15-19,Injury
+10/6/2022,5:27:40,Chonburi, 156cc - 300cc,0.38%,15-19,Injury
+28/07/2022,9:56:52,Chonburi, 400cc - 1000cc,0.45%,15-19,Injury
+27/01/2022,6:36:59,Chonburi,less-than-110cc,23.00%,15-19,Injury
+18/10/2022,10:41:35,Chonburi,more-than-1000cc,0.00%,15-19,Injury
+3/9/2022,16:00:09,Nakhon-Ratchasima, 111cc - 125cc,62.07%,15-19,Injury
+24/07/2022,21:36:56,Nakhon-Ratchasima, 126cc - 150cc,7.15%,15-19,Injury
+21/12/2022,10:46:24,Nakhon-Ratchasima, 156cc - 300cc,0.21%,15-19,Injury
+5/6/2022,16:33:43,Nakhon-Ratchasima, 400cc - 1000cc,0.05%,15-19,Injury
+10/3/2022,15:45:15,Nakhon-Ratchasima,less-than-110cc,30.37%,15-19,Injury
+20/06/2022,6:28:17,Surat-Thani, 111cc - 125cc,68.57%,15-19,Injury
+4/5/2022,11:00:00,Surat-Thani, 126cc - 150cc,8.19%,15-19,Injury
+31/03/2022,23:02:41,Surat-Thani, 156cc - 300cc,0.00%,15-19,Injury
+27/05/2022,7:03:59,Surat-Thani, 400cc - 1000cc,0.29%,15-19,Injury
+29/03/2022,10:51:14,Surat-Thani,less-than-110cc,22.81%,15-19,Injury
+13/10/2022,13:33:00,Surat-Thani,more-than-1000cc,0.00%,15-19,Injury
+4/4/2022,16:29:54,Chiang-Mai, 111cc - 125cc,58.31%,19-24,Injury
+23/12/2022,9:22:39,Chiang-Mai, 126cc - 150cc,11.17%,19-24,Injury
+12/12/2022,0:15:00,Chiang-Mai, 156cc - 300cc,1.06%,19-24,Injury
+13/01/2022,11:07:51,Chiang-Mai, 400cc - 1000cc,0.39%,19-24,Injury
+14/08/2022,7:35:01,Chiang-Mai,less-than-110cc,28.97%,19-24,Injury
+9/3/2022,20:47:34,Chiang-Mai,more-than-1000cc,0.00%,19-24,Injury
+15/02/2022,6:10:49,Bangkok, 111cc - 125cc,56.68%,19-24,Injury
+28/12/2022,17:35:44,Bangkok, 126cc - 150cc,27.55%,19-24,Injury
+25/09/2022,16:47:34,Bangkok, 156cc - 300cc,2.10%,19-24,Injury
+9/1/2022,1:20:14,Bangkok, 400cc - 1000cc,1.17%,19-24,Injury
+19/03/2022,16:26:05,Bangkok,less-than-110cc,12.06%,19-24,Injury
+26/11/2022,22:07:01,Bangkok,more-than-1000cc,0.06%,19-24,Injury
+22/03/2022,5:16:18,Kanchanaburi, 111cc - 125cc,59.96%,19-24,Injury
+2/4/2022,5:45:05,Kanchanaburi, 126cc - 150cc,8.19%,19-24,Injury
+25/04/2022,17:33:09,Kanchanaburi, 156cc - 300cc,1.86%,19-24,Injury
+17/04/2022,7:17:58,Kanchanaburi, 400cc - 1000cc,0.93%,19-24,Injury
+29/01/2022,6:29:48,Kanchanaburi,less-than-110cc,29.05%,19-24,Injury
+9/4/2022,7:30:32,Chonburi, 111cc - 125cc,54.01%,19-24,Injury
+12/10/2022,17:21:38,Chonburi, 126cc - 150cc,17.94%,19-24,Injury
+22/10/2022,19:03:37,Chonburi, 156cc - 300cc,1.42%,19-24,Injury
+4/7/2022,20:11:20,Chonburi, 400cc - 1000cc,1.26%,19-24,Injury
+25/05/2022,13:20:03,Chonburi,less-than-110cc,16.45%,19-24,Injury
+22/10/2022,22:33:19,Chonburi,more-than-1000cc,0.00%,19-24,Injury
+21/05/2022,6:53:28,Nakhon-Ratchasima, 111cc - 125cc,61.18%,19-24,Injury
+31/10/2022,15:08:55,Nakhon-Ratchasima, 126cc - 150cc,11.61%,19-24,Injury
+31/12/2022,16:33:41,Nakhon-Ratchasima, 156cc - 300cc,1.44%,19-24,Injury
+30/06/2022,7:00:03,Nakhon-Ratchasima, 400cc - 1000cc,0.63%,19-24,Injury
+30/08/2022,22:35:56,Nakhon-Ratchasima,less-than-110cc,24.79%,19-24,Injury
+6/10/2022,17:57:21,Surat-Thani, 111cc - 125cc,66.63%,19-24,Injury
+6/7/2022,16:24:26,Surat-Thani, 126cc - 150cc,11.37%,19-24,Injury
+7/11/2022,18:57:43,Surat-Thani, 156cc - 300cc,0.48%,19-24,Injury
+13/07/2022,3:15:08,Surat-Thani, 400cc - 1000cc,0.48%,19-24,Injury
+27/03/2022,22:31:54,Surat-Thani,less-than-110cc,20.80%,19-24,Injury
+14/01/2022,5:02:45,Surat-Thani,more-than-1000cc,0.12%,19-24,Injury
+19/09/2022,9:27:38,Chiang-Mai, 111cc - 125cc,56.91%,25-35,Injury
+19/03/2022,8:09:51,Chiang-Mai, 126cc - 150cc,8.76%,25-35,Injury
+5/8/2022,1:00:04,Chiang-Mai, 156cc - 300cc,1.08%,25-35,Injury
+21/11/2022,0:31:03,Chiang-Mai, 400cc - 1000cc,1.26%,25-35,Injury
+18/09/2022,7:25:12,Chiang-Mai,less-than-110cc,31.76%,25-35,Injury
+19/02/2022,23:25:23,Chiang-Mai,more-than-1000cc,0.06%,25-35,Injury
+26/01/2022,10:01:08,Bangkok, 111cc - 125cc,57.81%,25-35,Injury
+24/06/2022,14:42:36,Bangkok, 126cc - 150cc,23.18%,25-35,Injury
+21/10/2022,16:43:11,Bangkok, 156cc - 300cc,3.31%,25-35,Injury
+10/6/2022,19:50:33,Bangkok, 400cc - 1000cc,1.85%,25-35,Injury
+3/5/2022,2:52:27,Bangkok,less-than-110cc,13.27%,25-35,Injury
+9/11/2022,19:06:46,Bangkok,more-than-1000cc,0.02%,25-35,Injury
+30/09/2022,23:41:04,Kanchanaburi, 111cc - 125cc,57.18%,25-35,Injury
+1/6/2022,15:46:33,Kanchanaburi, 126cc - 150cc,10.12%,25-35,Injury
+30/04/2022,3:18:41,Kanchanaburi, 156cc - 300cc,3.37%,25-35,Injury
+27/05/2022,23:40:30,Kanchanaburi, 400cc - 1000cc,1.47%,25-35,Injury
+6/9/2022,5:04:54,Kanchanaburi,less-than-110cc,27.86%,25-35,Injury
+2/3/2022,21:27:26,Kanchanaburi,more-than-1000cc,0.00%,25-35,Injury
+22/10/2022,17:27:06,Chonburi, 111cc - 125cc,54.08%,25-35,Injury
+15/06/2022,17:51:26,Chonburi, 126cc - 150cc,14.93%,25-35,Injury
+16/11/2022,20:39:52,Chonburi, 156cc - 300cc,2.10%,25-35,Injury
+10/3/2022,20:05:13,Chonburi, 400cc - 1000cc,2.03%,25-35,Injury
+13/07/2022,14:15:39,Chonburi,less-than-110cc,17.63%,25-35,Injury
+5/7/2022,14:45:07,Chonburi,more-than-1000cc,0.04%,25-35,Injury
+9/10/2022,22:55:48,Nakhon-Ratchasima, 111cc - 125cc,57.15%,25-35,Injury
+2/5/2022,17:37:12,Nakhon-Ratchasima, 126cc - 150cc,11.61%,25-35,Injury
+18/04/2022,8:33:33,Nakhon-Ratchasima, 156cc - 300cc,1.68%,25-35,Injury
+2/1/2022,7:23:19,Nakhon-Ratchasima, 400cc - 1000cc,1.39%,25-35,Injury
+21/07/2022,10:31:16,Nakhon-Ratchasima,less-than-110cc,27.92%,25-35,Injury
+15/06/2022,14:10:52,Nakhon-Ratchasima,more-than-1000cc,0.04%,25-35,Injury
+1/2/2022,17:29:28,Surat-Thani, 111cc - 125cc,63.48%,25-35,Injury
+26/11/2022,14:44:13,Surat-Thani, 126cc - 150cc,11.46%,25-35,Injury
+22/12/2022,3:46:43,Surat-Thani, 156cc - 300cc,0.42%,25-35,Injury
+2/6/2022,22:43:30,Surat-Thani, 400cc - 1000cc,0.96%,25-35,Injury
+16/10/2022,15:11:00,Surat-Thani,less-than-110cc,23.57%,25-35,Injury
+28/05/2022,15:07:07,Surat-Thani,more-than-1000cc,0.00%,25-35,Injury
+27/05/2022,17:16:36,Chiang-Mai, 111cc - 125cc,55.53%,36-60,Injury
+4/6/2022,16:05:10,Chiang-Mai, 126cc - 150cc,5.60%,36-60,Injury
+4/2/2022,14:02:14,Chiang-Mai, 156cc - 300cc,0.42%,36-60,Injury
+8/11/2022,21:22:55,Chiang-Mai, 400cc - 1000cc,0.77%,36-60,Injury
+14/06/2022,22:37:32,Chiang-Mai,less-than-110cc,37.55%,36-60,Injury
+26/03/2022,9:13:00,Chiang-Mai,more-than-1000cc,0.02%,36-60,Injury
+4/6/2022,3:07:15,Bangkok, 111cc - 125cc,62.82%,36-60,Injury
+26/08/2022,11:39:27,Bangkok, 126cc - 150cc,15.74%,36-60,Injury
+24/09/2022,16:35:52,Bangkok, 156cc - 300cc,1.43%,36-60,Injury
+8/10/2022,7:00:21,Bangkok, 400cc - 1000cc,0.82%,36-60,Injury
+17/02/2022,14:10:08,Bangkok,less-than-110cc,18.71%,36-60,Injury
+17/11/2022,1:53:52,Bangkok,more-than-1000cc,0.07%,36-60,Injury
+19/10/2022,8:50:44,Kanchanaburi, 111cc - 125cc,54.36%,36-60,Injury
+29/11/2022,4:54:50,Kanchanaburi, 126cc - 150cc,4.01%,36-60,Injury
+11/5/2022,8:46:51,Kanchanaburi, 156cc - 300cc,0.39%,36-60,Injury
+20/09/2022,5:10:03,Kanchanaburi, 400cc - 1000cc,0.71%,36-60,Injury
+15/01/2022,10:13:36,Kanchanaburi,less-than-110cc,40.14%,36-60,Injury
+8/7/2022,14:20:58,Kanchanaburi,more-than-1000cc,0.31%,36-60,Injury
+9/7/2022,4:33:46,Chonburi, 111cc - 125cc,57.44%,36-60,Injury
+1/1/2022,20:06:10,Chonburi, 126cc - 150cc,8.90%,36-60,Injury
+27/06/2022,0:05:15,Chonburi, 156cc - 300cc,0.86%,36-60,Injury
+23/09/2022,9:07:40,Chonburi, 400cc - 1000cc,1.04%,36-60,Injury
+3/11/2022,23:39:07,Chonburi,less-than-110cc,24.78%,36-60,Injury
+26/03/2022,4:46:09,Chonburi,more-than-1000cc,0.17%,36-60,Injury
+18/12/2022,2:54:32,Nakhon-Ratchasima, 111cc - 125cc,57.76%,36-60,Injury
+20/04/2022,21:22:00,Nakhon-Ratchasima, 126cc - 150cc,4.09%,36-60,Injury
+28/03/2022,6:00:25,Nakhon-Ratchasima, 156cc - 300cc,0.40%,36-60,Injury
+24/10/2022,7:30:21,Nakhon-Ratchasima, 400cc - 1000cc,0.62%,36-60,Injury
+17/11/2022,21:19:26,Nakhon-Ratchasima,less-than-110cc,37.01%,36-60,Injury
+28/08/2022,19:30:27,Nakhon-Ratchasima,more-than-1000cc,0.05%,36-60,Injury
+30/08/2022,5:58:39,Surat-Thani, 111cc - 125cc,62.95%,36-60,Injury
+11/2/2022,17:54:09,Surat-Thani, 126cc - 150cc,5.98%,36-60,Injury
+5/5/2022,18:46:09,Surat-Thani, 156cc - 300cc,0.55%,36-60,Injury
+8/3/2022,0:22:27,Surat-Thani, 400cc - 1000cc,0.49%,36-60,Injury
+27/12/2022,13:42:20,Surat-Thani,less-than-110cc,29.65%,36-60,Injury
+9/4/2022,20:00:37,Surat-Thani,more-than-1000cc,0.18%,36-60,Injury
+26/05/2022,0:21:46,Chiang-Mai, 111cc - 125cc,47.66%,60++,Injury
+23/07/2022,19:55:29,Chiang-Mai, 126cc - 150cc,2.88%,60++,Injury
+22/09/2022,11:28:18,Chiang-Mai, 156cc - 300cc,0.26%,60++,Injury
+29/04/2022,2:20:22,Chiang-Mai, 400cc - 1000cc,0.77%,60++,Injury
+15/10/2022,20:54:43,Chiang-Mai,less-than-110cc,48.43%,60++,Injury
+26/02/2022,10:51:24,Chiang-Mai,more-than-1000cc,0.00%,60++,Injury
+6/11/2022,0:23:15,Bangkok, 111cc - 125cc,65.12%,60++,Injury
+9/7/2022,21:53:09,Bangkok, 126cc - 150cc,9.72%,60++,Injury
+30/09/2022,13:47:12,Bangkok, 156cc - 300cc,0.85%,60++,Injury
+2/5/2022,8:36:50,Bangkok, 400cc - 1000cc,0.26%,60++,Injury
+19/08/2022,6:15:58,Bangkok,less-than-110cc,23.76%,60++,Injury
+12/7/2022,13:19:46,Bangkok,more-than-1000cc,0.06%,60++,Injury
+8/11/2022,11:16:53,Kanchanaburi, 111cc - 125cc,52.30%,60++,Injury
+19/12/2022,12:30:22,Kanchanaburi, 126cc - 150cc,1.88%,60++,Injury
+23/05/2022,17:08:46,Kanchanaburi, 156cc - 300cc,0.00%,60++,Injury
+30/08/2022,14:27:01,Kanchanaburi, 400cc - 1000cc,0.21%,60++,Injury
+9/4/2022,18:35:10,Kanchanaburi,less-than-110cc,45.40%,60++,Injury
+15/12/2022,4:37:02,Kanchanaburi,more-than-1000cc,0.00%,60++,Injury
+5/6/2022,16:27:58,Chonburi, 111cc - 125cc,53.78%,60++,Injury
+7/11/2022,0:45:13,Chonburi, 126cc - 150cc,5.18%,60++,Injury
+14/05/2022,9:04:21,Chonburi, 156cc - 300cc,0.80%,60++,Injury
+17/11/2022,6:42:54,Chonburi, 400cc - 1000cc,0.40%,60++,Injury
+6/5/2022,13:08:00,Chonburi,less-than-110cc,34.36%,60++,Injury
+16/04/2022,20:23:45,Chonburi,more-than-1000cc,0.00%,60++,Injury
+10/10/2022,2:37:31,Nakhon-Ratchasima, 111cc - 125cc,51.23%,60++,Injury
+17/02/2022,3:35:26,Nakhon-Ratchasima, 126cc - 150cc,2.66%,60++,Injury
+28/06/2022,15:54:00,Nakhon-Ratchasima, 156cc - 300cc,0.07%,60++,Injury
+28/11/2022,14:23:20,Nakhon-Ratchasima, 400cc - 1000cc,0.07%,60++,Injury
+14/07/2022,8:37:13,Nakhon-Ratchasima,less-than-110cc,45.83%,60++,Injury
+13/02/2022,23:58:51,Nakhon-Ratchasima,more-than-1000cc,0.00%,60++,Injury
+14/02/2022,17:23:19,Surat-Thani, 111cc - 125cc,56.03%,60++,Injury
+27/11/2022,22:20:54,Surat-Thani, 126cc - 150cc,3.55%,60++,Injury
+21/10/2022,9:14:58,Surat-Thani, 156cc - 300cc,0.00%,60++,Injury
+22/08/2022,11:06:03,Surat-Thani, 400cc - 1000cc,0.18%,60++,Injury
+29/12/2022,5:39:37,Surat-Thani,less-than-110cc,40.25%,60++,Injury
+2/10/2022,14:15:27,Surat-Thani,more-than-1000cc,0.00%,60++,Injury
+4/5/2023,13:15:05,Chiang-Mai, 111cc - 125cc,49.12%,14-Jan,Dead
+13/04/2023,14:18:00,Chiang-Mai, 126cc - 150cc,1.75%,14-Jan,Dead
+11/4/2023,22:35:14,Chiang-Mai, 156cc - 300cc,0.00%,14-Jan,Dead
+30/11/2023,2:43:11,Chiang-Mai, 400cc - 1000cc,1.75%,14-Jan,Dead
+4/4/2023,5:36:31,Bangkok,less-than-110cc,47.37%,14-Jan,Dead
+10/6/2023,10:52:50,Bangkok, 111cc - 125cc,70.97%,14-Jan,Dead
+7/12/2023,1:43:32,Bangkok, 126cc - 150cc,19.35%,14-Jan,Dead
+14/08/2023,21:51:13,Bangkok,less-than-110cc,0.00%,14-Jan,Dead
+23/02/2023,16:45:26,Bangkok,less-than-110cc,9.68%,14-Jan,Dead
+27/07/2023,6:10:06,Kanchanaburi,more-than-1000cc,0.00%,14-Jan,Dead
+17/03/2023,20:09:23,Kanchanaburi, 111cc - 125cc,50.00%,14-Jan,Dead
+7/1/2023,18:37:36,Kanchanaburi, 126cc - 150cc,0.00%,14-Jan,Dead
+8/4/2023,6:36:29,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Dead
+24/01/2023,17:24:25,Kanchanaburi,less-than-110cc,50.00%,14-Jan,Dead
+9/1/2023,6:03:28,Chonburi, 111cc - 125cc,58.62%,14-Jan,Dead
+14/02/2023,2:51:42,Chonburi, 126cc - 150cc,6.90%,14-Jan,Dead
+13/01/2023,0:10:54,Chonburi, 156cc - 300cc,3.45%,14-Jan,Dead
+9/3/2023,20:05:01,Chonburi,more-than-1000cc,27.59%,14-Jan,Dead
+12/9/2023,19:56:01,Chonburi,more-than-1000cc,0.00%,14-Jan,Dead
+22/05/2023,18:57:49,Nakhon-Ratchasima, 111cc - 125cc,58.33%,14-Jan,Dead
+15/09/2023,19:07:49,Nakhon-Ratchasima, 126cc - 150cc,4.17%,14-Jan,Dead
+22/02/2023,13:57:16,Surat-Thani,less-than-110cc,37.50%,14-Jan,Dead
+24/01/2023,7:47:51,Surat-Thani, 111cc - 125cc,80.00%,14-Jan,Dead
+1/6/2023,13:32:19,Surat-Thani, 126cc - 150cc,0.00%,14-Jan,Dead
+14/03/2023,0:31:35,Surat-Thani,less-than-110cc,20.00%,14-Jan,Dead
+25/08/2023,11:59:33,Chiang-Mai, 111cc - 125cc,80.00%,15-19,Dead
+2/8/2023,8:52:37,Chiang-Mai, 126cc - 150cc,6.67%,15-19,Dead
+20/09/2023,2:47:37,Chiang-Mai, 156cc - 300cc,0.00%,15-19,Dead
+18/03/2023,6:38:21,Chiang-Mai, 400cc - 1000cc,0.00%,15-19,Dead
+20/11/2023,13:09:40,Chiang-Mai,less-than-110cc,13.33%,15-19,Dead
+17/05/2023,18:07:03,Bangkok, 111cc - 125cc,65.63%,15-19,Dead
+30/04/2023,11:10:50,Bangkok, 126cc - 150cc,31.25%,15-19,Dead
+2/7/2023,23:42:30,Bangkok, 156cc - 300cc,0.00%,15-19,Dead
+30/05/2023,23:29:06,Bangkok, 400cc - 1000cc,0.00%,15-19,Dead
+24/10/2023,13:07:28,Bangkok,less-than-110cc,3.13%,15-19,Dead
+18/12/2023,18:43:17,Kanchanaburi, 111cc - 125cc,85.71%,15-19,Dead
+7/7/2023,12:28:16,Kanchanaburi, 126cc - 150cc,0.00%,15-19,Dead
+2/5/2023,21:39:41,Kanchanaburi,less-than-110cc,14.29%,15-19,Dead
+26/08/2023,8:19:02,Chonburi, 111cc - 125cc,76.00%,15-19,Dead
+23/10/2023,8:34:01,Chonburi, 126cc - 150cc,4.00%,15-19,Dead
+22/07/2023,19:29:28,Chonburi, 400cc - 1000cc,0.00%,15-19,Dead
+19/02/2023,11:03:27,Chonburi,less-than-110cc,20.00%,15-19,Dead
+24/04/2023,6:23:12,Nakhon-Ratchasima, 111cc - 125cc,75.00%,15-19,Dead
+31/03/2023,20:04:41,Nakhon-Ratchasima, 126cc - 150cc,3.13%,15-19,Dead
+25/11/2023,10:49:18,Nakhon-Ratchasima, 156cc - 300cc,3.13%,15-19,Dead
+16/02/2023,3:32:06,Nakhon-Ratchasima,less-than-110cc,18.75%,15-19,Dead
+16/02/2023,11:37:52,Surat-Thani, 111cc - 125cc,66.67%,15-19,Dead
+13/02/2023,6:31:30,Surat-Thani,less-than-110cc,33.33%,15-19,Dead
+12/7/2023,12:45:49,Chiang-Mai, 111cc - 125cc,48.53%,19-24,Dead
+16/04/2023,15:37:36,Chiang-Mai, 126cc - 150cc,19.12%,19-24,Dead
+15/01/2023,6:08:34,Chiang-Mai, 156cc - 300cc,2.94%,19-24,Dead
+23/11/2023,10:55:57,Chiang-Mai, 400cc - 1000cc,0.00%,19-24,Dead
+25/10/2023,9:24:11,Chiang-Mai,less-than-110cc,29.41%,19-24,Dead
+14/10/2023,22:21:29,Bangkok, 111cc - 125cc,49.48%,19-24,Dead
+5/1/2023,7:18:30,Bangkok, 126cc - 150cc,29.90%,19-24,Dead
+28/06/2023,22:14:43,Bangkok, 156cc - 300cc,3.09%,19-24,Dead
+1/3/2023,17:20:30,Bangkok, 400cc - 1000cc,4.12%,19-24,Dead
+13/06/2023,6:34:38,Bangkok,less-than-110cc,12.37%,19-24,Dead
+31/01/2023,12:31:12,Bangkok,more-than-1000cc,0.00%,19-24,Dead
+12/2/2023,18:34:40,Kanchanaburi, 111cc - 125cc,50.00%,19-24,Dead
+10/6/2023,18:09:40,Kanchanaburi, 126cc - 150cc,10.00%,19-24,Dead
+11/1/2023,9:40:06,Kanchanaburi, 156cc - 300cc,0.00%,19-24,Dead
+25/04/2023,20:42:21,Kanchanaburi, 400cc - 1000cc,0.00%,19-24,Dead
+1/8/2023,3:21:12,Kanchanaburi,less-than-110cc,40.00%,19-24,Dead
+21/06/2023,8:03:28,Chonburi, 111cc - 125cc,40.91%,19-24,Dead
+9/5/2023,15:44:29,Chonburi, 126cc - 150cc,25.76%,19-24,Dead
+19/11/2023,21:43:03,Chonburi, 156cc - 300cc,3.03%,19-24,Dead
+28/05/2023,6:20:11,Chonburi, 400cc - 1000cc,6.06%,19-24,Dead
+4/2/2023,21:40:43,Chonburi,less-than-110cc,19.70%,19-24,Dead
+7/3/2023,17:52:24,Chonburi,more-than-1000cc,0.00%,19-24,Dead
+25/03/2023,6:40:29,Nakhon-Ratchasima, 111cc - 125cc,56.76%,19-24,Dead
+13/10/2023,5:53:47,Nakhon-Ratchasima, 126cc - 150cc,13.51%,19-24,Dead
+8/7/2023,23:16:08,Nakhon-Ratchasima, 156cc - 300cc,0.00%,19-24,Dead
+8/1/2023,11:00:15,Nakhon-Ratchasima, 400cc - 1000cc,8.11%,19-24,Dead
+15/06/2023,0:49:23,Nakhon-Ratchasima,less-than-110cc,21.62%,19-24,Dead
+18/11/2023,5:28:12,Nakhon-Ratchasima,more-than-1000cc,0.00%,19-24,Dead
+23/07/2023,10:03:39,Surat-Thani, 111cc - 125cc,56.25%,19-24,Dead
+3/1/2023,19:11:33,Surat-Thani, 126cc - 150cc,18.75%,19-24,Dead
+29/03/2023,23:08:47,Surat-Thani, 156cc - 300cc,6.25%,19-24,Dead
+22/06/2023,9:05:07,Surat-Thani, 400cc - 1000cc,0.00%,19-24,Dead
+13/10/2023,9:49:06,Surat-Thani,less-than-110cc,18.75%,19-24,Dead
+11/1/2023,0:33:32,Chiang-Mai, 111cc - 125cc,60.27%,25-35,Dead
+14/01/2023,14:19:29,Chiang-Mai, 126cc - 150cc,9.59%,25-35,Dead
+10/7/2023,8:33:41,Chiang-Mai, 156cc - 300cc,1.37%,25-35,Dead
+30/12/2023,14:51:30,Chiang-Mai, 400cc - 1000cc,5.48%,25-35,Dead
+20/04/2023,11:55:17,Chiang-Mai,less-than-110cc,23.29%,25-35,Dead
+5/5/2023,7:47:33,Chiang-Mai,more-than-1000cc,0.00%,25-35,Dead
+30/08/2023,21:21:01,Bangkok, 111cc - 125cc,50.34%,25-35,Dead
+29/01/2023,11:06:00,Bangkok, 126cc - 150cc,21.48%,25-35,Dead
+2/2/2023,19:30:17,Bangkok, 156cc - 300cc,7.38%,25-35,Dead
+4/4/2023,6:31:14,Bangkok, 400cc - 1000cc,6.04%,25-35,Dead
+8/12/2023,19:28:53,Bangkok,less-than-110cc,12.75%,25-35,Dead
+12/7/2023,15:57:35,Bangkok,more-than-1000cc,0.00%,25-35,Dead
+11/4/2023,9:34:21,Kanchanaburi, 111cc - 125cc,53.33%,25-35,Dead
+12/8/2023,7:06:55,Kanchanaburi, 126cc - 150cc,6.67%,25-35,Dead
+23/02/2023,11:21:56,Kanchanaburi, 156cc - 300cc,6.67%,25-35,Dead
+4/2/2023,7:31:11,Kanchanaburi, 400cc - 1000cc,0.00%,25-35,Dead
+3/11/2023,9:31:34,Kanchanaburi,less-than-110cc,33.33%,25-35,Dead
+24/03/2023,8:47:48,Kanchanaburi,more-than-1000cc,0.00%,25-35,Dead
+24/08/2023,9:51:19,Chonburi, 111cc - 125cc,53.77%,25-35,Dead
+14/03/2023,5:44:59,Chonburi, 126cc - 150cc,17.92%,25-35,Dead
+16/06/2023,22:29:41,Chonburi, 156cc - 300cc,6.60%,25-35,Dead
+15/05/2023,2:23:12,Chonburi, 400cc - 1000cc,3.77%,25-35,Dead
+17/04/2023,4:19:57,Chonburi,less-than-110cc,14.15%,25-35,Dead
+8/4/2023,4:26:56,Chonburi,more-than-1000cc,0.00%,25-35,Dead
+30/10/2023,8:29:51,Nakhon-Ratchasima, 111cc - 125cc,57.45%,25-35,Dead
+20/11/2023,8:31:18,Nakhon-Ratchasima, 126cc - 150cc,6.38%,25-35,Dead
+22/12/2023,0:32:50,Nakhon-Ratchasima, 156cc - 300cc,6.38%,25-35,Dead
+6/12/2023,14:40:21,Nakhon-Ratchasima, 400cc - 1000cc,14.89%,25-35,Dead
+16/10/2023,9:53:37,Nakhon-Ratchasima,less-than-110cc,14.89%,25-35,Dead
+13/12/2023,7:12:14,Nakhon-Ratchasima,more-than-1000cc,0.00%,25-35,Dead
+23/05/2023,12:30:35,Surat-Thani, 111cc - 125cc,50.00%,25-35,Dead
+5/1/2023,12:30:55,Surat-Thani, 126cc - 150cc,25.00%,25-35,Dead
+1/1/2023,15:12:28,Surat-Thani, 156cc - 300cc,0.00%,25-35,Dead
+7/1/2023,3:23:26,Surat-Thani, 400cc - 1000cc,6.25%,25-35,Dead
+17/05/2023,23:38:14,Surat-Thani,less-than-110cc,18.75%,25-35,Dead
+18/02/2023,23:31:20,Surat-Thani,more-than-1000cc,0.00%,25-35,Dead
+1/12/2023,9:39:22,Chiang-Mai, 111cc - 125cc,52.17%,36-60,Dead
+30/04/2023,6:10:33,Chiang-Mai, 126cc - 150cc,7.61%,36-60,Dead
+19/03/2023,10:44:57,Chiang-Mai, 156cc - 300cc,2.17%,36-60,Dead
+22/04/2023,21:28:50,Chiang-Mai, 400cc - 1000cc,2.17%,36-60,Dead
+8/8/2023,20:01:38,Chiang-Mai,less-than-110cc,34.78%,36-60,Dead
+29/12/2023,16:10:21,Chiang-Mai,more-than-1000cc,1.09%,36-60,Dead
+19/08/2023,20:15:57,Bangkok, 111cc - 125cc,67.87%,36-60,Dead
+20/10/2023,11:14:24,Bangkok, 126cc - 150cc,13.12%,36-60,Dead
+10/6/2023,23:17:14,Bangkok, 156cc - 300cc,4.07%,36-60,Dead
+13/01/2023,16:52:42,Bangkok, 400cc - 1000cc,1.36%,36-60,Dead
+28/07/2023,21:23:41,Bangkok,less-than-110cc,12.67%,36-60,Dead
+25/06/2023,12:57:28,Bangkok,more-than-1000cc,0.45%,36-60,Dead
+7/1/2023,15:36:30,Kanchanaburi, 111cc - 125cc,53.57%,36-60,Dead
+26/06/2023,8:44:23,Kanchanaburi, 126cc - 150cc,1.79%,36-60,Dead
+13/04/2023,15:47:40,Kanchanaburi, 156cc - 300cc,1.79%,36-60,Dead
+19/07/2023,7:10:05,Kanchanaburi, 400cc - 1000cc,3.57%,36-60,Dead
+29/12/2023,8:33:57,Kanchanaburi,less-than-110cc,39.29%,36-60,Dead
+1/2/2023,18:15:43,Chonburi, 111cc - 125cc,49.52%,36-60,Dead
+4/1/2023,12:19:12,Chonburi, 126cc - 150cc,10.48%,36-60,Dead
+11/11/2023,8:08:22,Chonburi, 156cc - 300cc,2.86%,36-60,Dead
+16/04/2023,5:24:29,Chonburi, 400cc - 1000cc,1.90%,36-60,Dead
+24/06/2023,16:03:34,Chonburi,less-than-110cc,31.43%,36-60,Dead
+3/1/2023,2:00:50,Chonburi,more-than-1000cc,0.00%,36-60,Dead
+27/06/2023,3:51:21,Nakhon-Ratchasima, 111cc - 125cc,61.05%,36-60,Dead
+26/11/2023,4:26:12,Nakhon-Ratchasima, 126cc - 150cc,6.32%,36-60,Dead
+20/05/2023,19:45:46,Nakhon-Ratchasima, 156cc - 300cc,1.05%,36-60,Dead
+11/10/2023,23:31:57,Nakhon-Ratchasima, 400cc - 1000cc,6.32%,36-60,Dead
+5/12/2023,5:18:51,Nakhon-Ratchasima,less-than-110cc,24.21%,36-60,Dead
+11/3/2023,20:17:21,Nakhon-Ratchasima,more-than-1000cc,1.05%,36-60,Dead
+23/03/2023,6:41:50,Surat-Thani, 111cc - 125cc,68.89%,36-60,Dead
+5/5/2023,21:49:42,Surat-Thani, 126cc - 150cc,8.89%,36-60,Dead
+5/9/2023,19:24:37,Surat-Thani, 156cc - 300cc,2.22%,36-60,Dead
+12/10/2023,1:35:53,Surat-Thani, 400cc - 1000cc,0.00%,36-60,Dead
+14/05/2023,11:52:27,Surat-Thani,less-than-110cc,20.00%,36-60,Dead
+31/03/2023,5:43:38,Chiang-Mai, 111cc - 125cc,49.12%,60++,Dead
+23/02/2023,15:17:02,Chiang-Mai, 126cc - 150cc,1.75%,60++,Dead
+30/10/2023,23:37:29,Chiang-Mai, 156cc - 300cc,0.00%,60++,Dead
+28/11/2023,5:27:10,Chiang-Mai, 400cc - 1000cc,1.75%,60++,Dead
+23/06/2023,18:52:48,Chiang-Mai,less-than-110cc,47.37%,60++,Dead
+23/05/2023,4:33:14,Bangkok, 111cc - 125cc,62.50%,60++,Dead
+20/06/2023,20:05:51,Bangkok, 126cc - 150cc,10.71%,60++,Dead
+29/03/2023,23:19:40,Bangkok, 156cc - 300cc,3.57%,60++,Dead
+19/03/2023,14:03:01,Bangkok, 400cc - 1000cc,1.79%,60++,Dead
+11/12/2023,5:47:41,Bangkok,less-than-110cc,21.43%,60++,Dead
+3/12/2023,20:27:05,Bangkok,more-than-1000cc,0.00%,60++,Dead
+27/01/2023,10:33:13,Kanchanaburi, 111cc - 125cc,60.87%,60++,Dead
+19/10/2023,12:20:59,Kanchanaburi, 156cc - 300cc,0.00%,60++,Dead
+30/12/2023,4:30:36,Kanchanaburi,less-than-110cc,39.13%,60++,Dead
+11/7/2023,0:41:38,Chonburi, 111cc - 125cc,54.35%,60++,Dead
+6/6/2023,15:40:47,Chonburi, 126cc - 150cc,13.04%,60++,Dead
+16/11/2023,8:52:20,Chonburi, 156cc - 300cc,0.00%,60++,Dead
+17/10/2023,4:15:59,Chonburi, 400cc - 1000cc,0.00%,60++,Dead
+7/3/2023,21:32:30,Chonburi,less-than-110cc,28.26%,60++,Dead
+8/12/2023,10:56:26,Chonburi,more-than-1000cc,0.00%,60++,Dead
+14/11/2023,4:29:15,Nakhon-Ratchasima, 111cc - 125cc,46.94%,60++,Dead
+15/04/2023,9:58:13,Nakhon-Ratchasima, 126cc - 150cc,8.16%,60++,Dead
+5/11/2023,3:49:11,Nakhon-Ratchasima, 156cc - 300cc,2.04%,60++,Dead
+6/12/2023,23:54:22,Nakhon-Ratchasima, 400cc - 1000cc,2.04%,60++,Dead
+25/08/2023,22:35:08,Nakhon-Ratchasima,less-than-110cc,40.82%,60++,Dead
+12/10/2023,2:47:12,Surat-Thani, 111cc - 125cc,66.67%,60++,Dead
+8/9/2023,19:20:43,Surat-Thani, 126cc - 150cc,6.67%,60++,Dead
+30/06/2023,14:54:45,Surat-Thani, 400cc - 1000cc,0.00%,60++,Dead
+11/1/2023,11:18:21,Surat-Thani,less-than-110cc,23.33%,60++,Dead
+15/02/2023,12:38:06,Chiang-Mai, 111cc - 125cc,58.16%,14-Jan,Injury
+11/9/2023,2:36:48,Chiang-Mai, 126cc - 150cc,7.08%,14-Jan,Injury
+30/05/2023,20:10:13,Chiang-Mai, 156cc - 300cc,0.43%,14-Jan,Injury
+15/12/2023,11:57:28,Chiang-Mai, 400cc - 1000cc,0.51%,14-Jan,Injury
+5/3/2023,13:56:52,Chiang-Mai,less-than-110cc,33.74%,14-Jan,Injury
+26/02/2023,5:41:43,Bangkok, 111cc - 125cc,62.80%,14-Jan,Injury
+16/02/2023,18:19:24,Bangkok, 126cc - 150cc,18.62%,14-Jan,Injury
+13/04/2023,21:33:43,Bangkok, 156cc - 300cc,1.91%,14-Jan,Injury
+13/09/2023,19:53:42,Bangkok, 400cc - 1000cc,0.60%,14-Jan,Injury
+8/9/2023,1:47:04,Bangkok,less-than-110cc,15.20%,14-Jan,Injury
+28/07/2023,5:37:18,Bangkok,more-than-1000cc,0.04%,14-Jan,Injury
+30/07/2023,20:03:47,Kanchanaburi, 111cc - 125cc,58.10%,14-Jan,Injury
+5/11/2023,10:24:12,Kanchanaburi, 126cc - 150cc,3.70%,14-Jan,Injury
+15/08/2023,5:49:59,Kanchanaburi, 156cc - 300cc,0.46%,14-Jan,Injury
+10/4/2023,8:34:56,Kanchanaburi, 400cc - 1000cc,0.00%,14-Jan,Injury
+12/2/2023,9:11:03,Kanchanaburi,less-than-110cc,37.50%,14-Jan,Injury
+22/10/2023,21:09:10,Nakhon-Ratchasima, 111cc - 125cc,61.35%,14-Jan,Injury
+3/5/2023,13:57:52,Nakhon-Ratchasima, 126cc - 150cc,4.56%,14-Jan,Injury
+7/3/2023,21:40:21,Nakhon-Ratchasima, 156cc - 300cc,0.59%,14-Jan,Injury
+11/8/2023,7:37:32,Nakhon-Ratchasima, 400cc - 1000cc,0.29%,14-Jan,Injury
+6/1/2023,17:05:54,Nakhon-Ratchasima,less-than-110cc,32.95%,14-Jan,Injury
+1/3/2023,12:22:41,Surat-Thani, 111cc - 125cc,68.10%,14-Jan,Injury
+19/12/2023,15:36:18,Surat-Thani, 126cc - 150cc,8.20%,14-Jan,Injury
+7/12/2023,0:17:16,Surat-Thani, 156cc - 300cc,0.50%,14-Jan,Injury
+27/06/2023,23:41:27,Surat-Thani, 400cc - 1000cc,0.50%,14-Jan,Injury
+19/02/2023,3:16:11,Surat-Thani,less-than-110cc,22.40%,14-Jan,Injury
+2/8/2023,0:42:40,Surat-Thani,more-than-1000cc,0.20%,14-Jan,Injury
+7/8/2023,6:04:08,Chiang-Mai, 111cc - 125cc,59.80%,15-19,Injury
+23/08/2023,9:17:35,Chiang-Mai, 126cc - 150cc,8.45%,15-19,Injury
+13/07/2023,19:58:11,Chiang-Mai, 156cc - 300cc,0.26%,15-19,Injury
+8/11/2023,11:44:32,Chiang-Mai, 400cc - 1000cc,0.42%,15-19,Injury
+3/12/2023,4:44:20,Chiang-Mai,less-than-110cc,31.06%,15-19,Injury
+30/12/2023,12:17:56,Bangkok, 111cc - 125cc,64.16%,15-19,Injury
+10/12/2023,10:55:15,Bangkok, 126cc - 150cc,19.81%,15-19,Injury
+19/07/2023,14:48:00,Bangkok, 156cc - 300cc,1.13%,15-19,Injury
+20/10/2023,4:44:53,Bangkok, 400cc - 1000cc,0.24%,15-19,Injury
+23/03/2023,16:35:28,Bangkok,less-than-110cc,14.13%,15-19,Injury
+2/2/2023,12:22:57,Bangkok,more-than-1000cc,0.00%,15-19,Injury
+22/06/2023,13:52:48,Kanchanaburi, 111cc - 125cc,55.60%,15-19,Injury
+2/4/2023,5:51:43,Kanchanaburi, 126cc - 150cc,5.14%,15-19,Injury
+10/2/2023,9:31:41,Kanchanaburi, 156cc - 300cc,1.10%,15-19,Injury
+11/9/2023,12:26:12,Kanchanaburi, 400cc - 1000cc,0.18%,15-19,Injury
+18/01/2023,10:46:12,Kanchanaburi,less-than-110cc,37.98%,15-19,Injury
+15/07/2023,12:52:36,Chonburi, 111cc - 125cc,59.82%,15-19,Injury
+27/11/2023,22:31:53,Chonburi, 126cc - 150cc,14.41%,15-19,Injury
+19/12/2023,22:42:03,Chonburi, 156cc - 300cc,1.01%,15-19,Injury
+9/11/2023,7:18:46,Chonburi, 400cc - 1000cc,0.17%,15-19,Injury
+12/3/2023,17:51:27,Chonburi,less-than-110cc,19.02%,15-19,Injury
+1/7/2023,15:25:45,Chonburi,more-than-1000cc,0.00%,15-19,Injury
+12/11/2023,12:38:13,Nakhon-Ratchasima, 111cc - 125cc,62.36%,15-19,Injury
+19/06/2023,21:14:49,Nakhon-Ratchasima, 126cc - 150cc,7.09%,15-19,Injury
+4/8/2023,7:47:16,Nakhon-Ratchasima, 156cc - 300cc,0.54%,15-19,Injury
+3/4/2023,2:34:10,Nakhon-Ratchasima, 400cc - 1000cc,0.08%,15-19,Injury
+24/02/2023,17:04:58,Nakhon-Ratchasima,less-than-110cc,29.77%,15-19,Injury
+19/10/2023,11:51:48,Surat-Thani, 111cc - 125cc,70.68%,15-19,Injury
+30/07/2023,21:24:09,Surat-Thani, 126cc - 150cc,7.81%,15-19,Injury
+24/03/2023,2:42:19,Surat-Thani, 156cc - 300cc,0.53%,15-19,Injury
+20/11/2023,23:12:52,Surat-Thani, 400cc - 1000cc,0.11%,15-19,Injury
+25/09/2023,5:11:39,Surat-Thani,less-than-110cc,20.68%,15-19,Injury
+26/04/2023,22:36:02,Surat-Thani,more-than-1000cc,0.00%,15-19,Injury
+9/6/2023,15:12:18,Chiang-Mai, 111cc - 125cc,61.80%,19-24,Injury
+23/05/2023,1:27:05,Chiang-Mai, 126cc - 150cc,9.58%,19-24,Injury
+3/4/2023,9:06:23,Chiang-Mai, 156cc - 300cc,1.15%,19-24,Injury
+1/12/2023,18:50:59,Chiang-Mai, 400cc - 1000cc,0.43%,19-24,Injury
+28/06/2023,20:18:34,Chiang-Mai,less-than-110cc,27.02%,19-24,Injury
+16/11/2023,20:34:00,Chiang-Mai,more-than-1000cc,0.03%,19-24,Injury
+11/10/2023,14:22:55,Bangkok, 111cc - 125cc,56.49%,19-24,Injury
+14/12/2023,13:50:38,Bangkok, 126cc - 150cc,26.94%,19-24,Injury
+15/01/2023,6:54:14,Bangkok, 156cc - 300cc,2.55%,19-24,Injury
+30/07/2023,15:09:47,Bangkok, 400cc - 1000cc,1.27%,19-24,Injury
+8/9/2023,9:43:55,Bangkok,less-than-110cc,11.96%,19-24,Injury
+25/09/2023,6:31:42,Bangkok,more-than-1000cc,0.03%,19-24,Injury
+11/4/2023,8:08:34,Kanchanaburi, 111cc - 125cc,59.29%,19-24,Injury
+13/09/2023,21:23:34,Kanchanaburi, 126cc - 150cc,9.06%,19-24,Injury
+30/10/2023,14:43:46,Kanchanaburi, 156cc - 300cc,1.78%,19-24,Injury
+18/06/2023,21:46:55,Kanchanaburi, 400cc - 1000cc,0.59%,19-24,Injury
+11/4/2023,15:01:56,Kanchanaburi,less-than-110cc,29.27%,19-24,Injury
+28/06/2023,7:50:25,Chonburi, 111cc - 125cc,56.34%,19-24,Injury
+30/03/2023,20:41:54,Chonburi, 126cc - 150cc,19.67%,19-24,Injury
+12/6/2023,17:27:25,Chonburi, 156cc - 300cc,2.01%,19-24,Injury
+2/3/2023,12:44:29,Chonburi, 400cc - 1000cc,1.03%,19-24,Injury
+3/11/2023,2:45:08,Chonburi,less-than-110cc,15.17%,19-24,Injury
+3/12/2023,14:10:30,Chonburi,more-than-1000cc,0.00%,19-24,Injury
+6/8/2023,8:23:49,Nakhon-Ratchasima, 111cc - 125cc,62.07%,19-24,Injury
+16/06/2023,14:56:39,Nakhon-Ratchasima, 126cc - 150cc,12.72%,19-24,Injury
+7/3/2023,11:54:41,Nakhon-Ratchasima, 156cc - 300cc,1.19%,19-24,Injury
+30/04/2023,17:59:36,Nakhon-Ratchasima, 400cc - 1000cc,0.42%,19-24,Injury
+26/05/2023,21:15:37,Nakhon-Ratchasima,less-than-110cc,23.44%,19-24,Injury
+17/04/2023,16:12:33,Surat-Thani, 111cc - 125cc,66.64%,19-24,Injury
+26/07/2023,15:05:14,Surat-Thani, 126cc - 150cc,11.25%,19-24,Injury
+20/04/2023,1:53:26,Surat-Thani, 156cc - 300cc,1.67%,19-24,Injury
+15/12/2023,3:09:03,Surat-Thani, 400cc - 1000cc,0.19%,19-24,Injury
+12/2/2023,18:09:47,Surat-Thani,less-than-110cc,20.17%,19-24,Injury
+4/5/2023,12:22:48,Surat-Thani,more-than-1000cc,0.00%,19-24,Injury
+22/06/2023,2:17:01,Chiang-Mai, 111cc - 125cc,57.04%,25-35,Injury
+13/07/2023,14:15:40,Chiang-Mai, 126cc - 150cc,10.13%,25-35,Injury
+21/04/2023,8:41:53,Chiang-Mai, 156cc - 300cc,1.45%,25-35,Injury
+15/07/2023,1:01:48,Chiang-Mai, 400cc - 1000cc,1.60%,25-35,Injury
+5/10/2023,8:00:22,Chiang-Mai,less-than-110cc,29.58%,25-35,Injury
+2/7/2023,19:48:16,Chiang-Mai,more-than-1000cc,0.12%,25-35,Injury
+19/05/2023,0:54:59,Bangkok, 111cc - 125cc,58.31%,25-35,Injury
+25/07/2023,10:27:35,Bangkok, 126cc - 150cc,22.84%,25-35,Injury
+17/11/2023,9:55:17,Bangkok, 156cc - 300cc,3.50%,25-35,Injury
+25/03/2023,3:06:29,Bangkok, 400cc - 1000cc,1.69%,25-35,Injury
+21/02/2023,4:37:01,Bangkok,less-than-110cc,12.50%,25-35,Injury
+21/09/2023,17:29:30,Bangkok,more-than-1000cc,0.05%,25-35,Injury
+20/09/2023,7:05:41,Kanchanaburi, 111cc - 125cc,53.23%,25-35,Injury
+24/02/2023,9:33:45,Kanchanaburi, 126cc - 150cc,10.32%,25-35,Injury
+23/03/2023,17:35:47,Kanchanaburi, 156cc - 300cc,3.86%,25-35,Injury
+6/7/2023,15:42:24,Kanchanaburi, 400cc - 1000cc,1.24%,25-35,Injury
+18/01/2023,15:15:51,Kanchanaburi,less-than-110cc,30.85%,25-35,Injury
+30/11/2023,17:21:08,Kanchanaburi,more-than-1000cc,0.25%,25-35,Injury
+16/11/2023,12:55:02,Chonburi, 111cc - 125cc,55.49%,25-35,Injury
+24/11/2023,13:45:43,Chonburi, 126cc - 150cc,16.85%,25-35,Injury
+15/07/2023,6:06:34,Chonburi, 156cc - 300cc,2.62%,25-35,Injury
+27/07/2023,17:08:25,Chonburi, 400cc - 1000cc,1.79%,25-35,Injury
+16/01/2023,1:43:16,Chonburi,less-than-110cc,16.91%,25-35,Injury
+22/10/2023,23:45:49,Chonburi,more-than-1000cc,0.04%,25-35,Injury
+18/01/2023,5:15:13,Nakhon-Ratchasima, 111cc - 125cc,61.13%,25-35,Injury
+23/11/2023,23:47:07,Nakhon-Ratchasima, 126cc - 150cc,10.04%,25-35,Injury
+1/4/2023,5:03:09,Nakhon-Ratchasima, 156cc - 300cc,2.08%,25-35,Injury
+21/05/2023,19:02:13,Nakhon-Ratchasima, 400cc - 1000cc,0.95%,25-35,Injury
+17/07/2023,23:31:49,Nakhon-Ratchasima,less-than-110cc,25.56%,25-35,Injury
+6/10/2023,0:28:46,Nakhon-Ratchasima,more-than-1000cc,0.04%,25-35,Injury
+5/1/2023,12:36:42,Surat-Thani, 111cc - 125cc,62.53%,25-35,Injury
+13/10/2023,22:15:33,Surat-Thani, 126cc - 150cc,12.58%,25-35,Injury
+16/02/2023,14:25:30,Surat-Thani, 156cc - 300cc,1.41%,25-35,Injury
+22/06/2023,13:04:23,Surat-Thani, 400cc - 1000cc,1.14%,25-35,Injury
+8/8/2023,21:31:53,Surat-Thani,less-than-110cc,22.25%,25-35,Injury
+17/05/2023,17:11:33,Surat-Thani,more-than-1000cc,0.00%,25-35,Injury
+13/05/2023,16:19:31,Chiang-Mai, 111cc - 125cc,55.23%,36-60,Injury
+25/01/2023,12:09:43,Chiang-Mai, 126cc - 150cc,5.51%,36-60,Injury
+21/12/2023,15:47:11,Chiang-Mai, 156cc - 300cc,0.76%,36-60,Injury
+10/8/2023,10:27:23,Chiang-Mai, 400cc - 1000cc,0.76%,36-60,Injury
+8/9/2023,7:51:23,Chiang-Mai,less-than-110cc,37.34%,36-60,Injury
+31/01/2023,7:51:33,Chiang-Mai,more-than-1000cc,0.29%,36-60,Injury
+1/12/2023,5:44:17,Bangkok, 111cc - 125cc,63.62%,36-60,Injury
+21/03/2023,4:34:34,Bangkok, 126cc - 150cc,15.52%,36-60,Injury
+23/11/2023,13:34:31,Bangkok, 156cc - 300cc,1.73%,36-60,Injury
+3/9/2023,7:31:50,Bangkok, 400cc - 1000cc,0.76%,36-60,Injury
+9/10/2023,11:50:42,Bangkok,less-than-110cc,17.52%,36-60,Injury
+28/01/2023,20:36:15,Bangkok,more-than-1000cc,0.05%,36-60,Injury
+28/05/2023,0:55:02,Kanchanaburi, 111cc - 125cc,53.67%,36-60,Injury
+21/05/2023,0:08:28,Kanchanaburi, 126cc - 150cc,4.48%,36-60,Injury
+18/09/2023,22:01:30,Kanchanaburi, 156cc - 300cc,0.91%,36-60,Injury
+11/9/2023,3:02:04,Kanchanaburi, 400cc - 1000cc,0.63%,36-60,Injury
+17/04/2023,8:45:14,Kanchanaburi,less-than-110cc,39.96%,36-60,Injury
+15/02/2023,8:48:40,Kanchanaburi,more-than-1000cc,0.07%,36-60,Injury
+18/11/2023,12:21:45,Chonburi, 111cc - 125cc,57.93%,36-60,Injury
+22/07/2023,7:03:44,Chonburi, 126cc - 150cc,10.66%,36-60,Injury
+7/8/2023,16:10:29,Chonburi, 156cc - 300cc,1.13%,36-60,Injury
+3/6/2023,5:48:24,Chonburi, 400cc - 1000cc,0.83%,36-60,Injury
+7/8/2023,19:52:02,Chonburi,less-than-110cc,24.43%,36-60,Injury
+25/02/2023,14:28:50,Chonburi,more-than-1000cc,0.05%,36-60,Injury
+18/04/2023,16:54:13,Nakhon-Ratchasima, 111cc - 125cc,58.01%,36-60,Injury
+28/05/2023,16:40:37,Nakhon-Ratchasima, 126cc - 150cc,5.24%,36-60,Injury
+22/11/2023,14:05:36,Nakhon-Ratchasima, 156cc - 300cc,0.60%,36-60,Injury
+19/10/2023,11:38:18,Nakhon-Ratchasima, 400cc - 1000cc,0.52%,36-60,Injury
+11/3/2023,22:32:35,Nakhon-Ratchasima,less-than-110cc,35.43%,36-60,Injury
+15/11/2023,13:47:28,Nakhon-Ratchasima,more-than-1000cc,0.08%,36-60,Injury
+12/9/2023,7:28:39,Surat-Thani, 111cc - 125cc,61.96%,36-60,Injury
+3/8/2023,19:16:46,Surat-Thani, 126cc - 150cc,7.25%,36-60,Injury
+28/09/2023,8:45:09,Surat-Thani, 156cc - 300cc,1.66%,36-60,Injury
+19/01/2023,13:23:51,Surat-Thani, 400cc - 1000cc,0.36%,36-60,Injury
+11/10/2023,7:33:50,Surat-Thani,less-than-110cc,28.52%,36-60,Injury
+12/10/2023,17:29:15,Surat-Thani,more-than-1000cc,0.16%,36-60,Injury
+14/05/2023,18:55:22,Chiang-Mai, 111cc - 125cc,49.18%,60++,Injury
+21/04/2023,17:22:22,Chiang-Mai, 126cc - 150cc,2.95%,60++,Injury
+26/01/2023,12:37:57,Chiang-Mai, 156cc - 300cc,0.45%,60++,Injury
+24/10/2023,12:07:22,Chiang-Mai, 400cc - 1000cc,0.60%,60++,Injury
+10/7/2023,20:48:11,Chiang-Mai,less-than-110cc,46.68%,60++,Injury
+4/2/2023,2:16:36,Chiang-Mai,more-than-1000cc,0.05%,60++,Injury
+30/10/2023,17:39:16,Bangkok, 111cc - 125cc,64.44%,60++,Injury
+10/7/2023,22:57:06,Bangkok, 126cc - 150cc,9.02%,60++,Injury
+2/7/2023,16:24:08,Bangkok, 156cc - 300cc,0.65%,60++,Injury
+30/11/2023,18:31:53,Bangkok, 400cc - 1000cc,0.21%,60++,Injury
+6/2/2023,23:06:14,Bangkok,less-than-110cc,25.31%,60++,Injury
+17/04/2023,3:22:09,Bangkok,more-than-1000cc,0.02%,60++,Injury
+21/01/2023,3:25:24,Kanchanaburi, 111cc - 125cc,48.77%,60++,Injury
+9/2/2023,3:53:31,Kanchanaburi, 126cc - 150cc,1.81%,60++,Injury
+6/3/2023,12:45:05,Kanchanaburi, 156cc - 300cc,0.33%,60++,Injury
+4/1/2023,9:09:34,Kanchanaburi, 400cc - 1000cc,0.49%,60++,Injury
+21/12/2023,14:08:55,Kanchanaburi,less-than-110cc,48.60%,60++,Injury
+9/2/2023,8:21:40,Kanchanaburi,more-than-1000cc,0.00%,60++,Injury
+10/10/2023,13:47:32,Chonburi, 111cc - 125cc,54.94%,60++,Injury
+4/6/2023,21:15:49,Chonburi, 126cc - 150cc,5.77%,60++,Injury
+30/09/2023,3:29:46,Chonburi, 156cc - 300cc,0.87%,60++,Injury
+24/10/2023,13:08:06,Chonburi, 400cc - 1000cc,0.55%,60++,Injury
+2/3/2023,17:45:11,Chonburi,less-than-110cc,33.36%,60++,Injury
+14/03/2023,19:52:28,Chonburi,more-than-1000cc,0.08%,60++,Injury
+20/03/2023,23:40:40,Nakhon-Ratchasima, 111cc - 125cc,52.53%,60++,Injury
+29/11/2023,8:19:19,Nakhon-Ratchasima, 126cc - 150cc,2.44%,60++,Injury
+31/03/2023,23:44:54,Nakhon-Ratchasima, 156cc - 300cc,0.30%,60++,Injury
+29/11/2023,20:49:01,Nakhon-Ratchasima, 400cc - 1000cc,0.06%,60++,Injury
+24/05/2023,13:09:54,Nakhon-Ratchasima,less-than-110cc,44.55%,60++,Injury
+13/04/2023,21:04:04,Nakhon-Ratchasima,more-than-1000cc,0.06%,60++,Injury
+22/06/2023,2:10:09,Surat-Thani, 111cc - 125cc,59.35%,60++,Injury
+1/8/2023,1:20:34,Surat-Thani, 126cc - 150cc,3.97%,60++,Injury
+31/08/2023,17:30:43,Surat-Thani, 156cc - 300cc,0.28%,60++,Injury
+4/2/2023,10:45:09,Surat-Thani, 400cc - 1000cc,0.14%,60++,Injury
+20/03/2023,15:53:48,Surat-Thani,less-than-110cc,35.84%,60++,Injury
+5/12/2023,4:42:09,Surat-Thani,more-than-1000cc,0.28%,60++,Injury
+
